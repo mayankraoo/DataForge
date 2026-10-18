@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+backend/.venv/
+.venv/
+env/
+venv/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Storage & Temporary Files
+backend/storage/datasets/kaggle_downloads/
+backend/storage/datasets/*.parquet
+backend/storage/datasets/*.csv
+backend/storage/datasets/*.xlsx
+backend/storage/sessions/
+backend/storage/*.db
+backend/storage/*.sqlite
+*.db
+*.sqlite
+*.log
+
+# Environment & OS
+.env
+.env.local
+.DS_Store
+Thumbs.db

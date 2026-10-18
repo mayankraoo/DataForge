@@ -1,0 +1,2050 @@
+OrderID,OrderDate,CustomerName,City,Product,Quantity,UnitPrice,Discount,CustomerRating
+ORD-1001,2024-11-23, Aarav Mehta,delhi ,Noise-Cancelling Headphones,10,$889.00,15%,5
+ORD-1002,2024-10-28,Vikram Sharma,MUMBAI,USB-C Hub,13,714.00,10%,4
+ORD-1003,2024-11-17, Rohan  Patel,Delhi,Noise-Cancelling Headphones,2,501.00,0.05,1
+ORD-1004,2024-09-30,Ananya Mehta,Kolkata,Noise-Cancelling Headphones,14,₹11120,15%,4
+ORD-1005,2024-03-14,Diya Verma,Bengaluru ,Mechanical Keyboard,4,$308.00,0.15,4
+ORD-1006,2024-07-14, Rohan  Reddy,Delhi,Noise-Cancelling Headphones,9,$571.00,0.1,Excellent
+ORD-1007,2024-09-13,Pooja Reddy,Kolkata,Monitor 4K,13,₹28400,0.1,Excellent
+ORD-1008,2024-05-02,Arjun Verma,Bangalore,Webcam HD,13,₹22560,0.15,2
+ORD-1009,2024-12-09,Diya Sharma,New Delhi,Laptop Pro,4,"$85,000.00",15%,2
+ORD-1010,2024-04-19, Aarav Iyer,New Delhi,Webcam HD,2,223.00,10%,1
+ORD-1011,2024-02-25,Diya Verma,Mumbai,Mechanical Keyboard,8,₹92160,0,2
+ORD-1012,2024-03-25,Ananya Sharma,Bangalore,USB-C Hub,13,"$1,163.00",20%,3
+ORD-1013,2024-09-01, Aarav Mehta,delhi ,Webcam HD,11,506.00,0.1,5
+ORD-1014,2024-04-14,Ananya Mehta,Kolkata,USB-C Hub,15,₹6800000,0.1,1
+ORD-1015,2024-05-25,Diya Iyer,Kolkata,Monitor 4K,none,$237.00,10%,5
+ORD-1016,2024-04-14,Priya  Mehta,Delhi,Laptop Pro,1,₹2560,5%,1
+ORD-1017,06/10/2024,Diya Patel,bengaluru,Wireless Mouse,6,$106.00,0.05,4
+ORD-1018,2024-05-01,Diya Reddy,Delhi,Wireless Mouse,15,₹69440,15%,2
+ORD-1019,2024-06-28,Pooja Sharma,null,Mechanical Keyboard,13,596.00,0.1,2
+ORD-1020,2024-01-20,Ananya Patel,Bengaluru ,Monitor 4K,4,546.00,0,3
+ORD-1021,2024-06-02,Vikram Verma,bengaluru,Wireless Mouse,7,₹30480,15%,3
+ORD-1022,2024-12-11,Vikram Verma,DELHI,Noise-Cancelling Headphones,11,$711.00,15%,1
+ORD-1023,11-08-2024,Diya Reddy,Kolkata,Monitor 4K,8,$843.00,20%,5
+ORD-1024,2024-05-07,Priya  Verma,bengaluru,Monitor 4K,15,931.00,0.1,3
+ORD-1025,2024-09-23,Ananya Sharma,New Delhi,USB-C Hub,2,$308.00,5%,4
+ORD-1026,2024-08-03,Ananya Reddy,?,Mechanical Keyboard,-,636.00,15%,1
+ORD-1027,2024-03-25,Arjun Patel,MUMBAI,Monitor 4K,11,$902.00,15%,4
+ORD-1028,2024-05-09, Aarav Mehta,mumbai,Wireless Mouse,11,$107.00,0.05,1
+ORD-1029,2024-08-26,Arjun Reddy,Chennai,Noise-Cancelling Headphones,5,246.00,0.05,5
+ORD-1030,2024-02-22,Arjun Reddy,Bengaluru ,Webcam HD,11,$783.00,0.15,4
+ORD-1031,2024-03-31,Priya  Verma,bengaluru,Webcam HD,12,₹45920,15%,4
+ORD-1032,2024-06-15,Priya  Iyer,Bengaluru ,Noise-Cancelling Headphones,9,416.00,5%,1
+ORD-1033,2024-07-26,Diya Iyer,bengaluru,USB-C Hub,6,$745.00,0.05,5
+ORD-1034,2024-04-08, Rohan  Patel,bengaluru,Monitor 4K,4,$631.00,0.05,3
+ORD-1035,2024-11-22,Diya Mehta,Bangalore,Mechanical Keyboard,1,542.00,0.1,2
+ORD-1036,2024-02-13, Aarav Mehta,Bengaluru ,Wireless Mouse,15,931.00,0.1,2
+ORD-1037,2024-12-04,Ananya Patel,MUMBAI,Mechanical Keyboard,1,₹39920,20%,2
+ORD-1038,2024-04-25,Vikram Mehta,DELHI,Webcam HD,10,616.00,15%,5
+ORD-1039,06-14-2024,Priya  Patel,Kolkata,Webcam HD,1,$576.00,0.15,4
+ORD-1040,2024-06-27,Diya Reddy,MUMBAI,Noise-Cancelling Headphones,7,"$1,151.00",0.15,1
+ORD-1041,2024-07-30,Ananya Iyer,Bangalore,Webcam HD,3,$614.00,5%,5
+ORD-1042,2024-02-28, Rohan  Sharma,Chennai,USB-C Hub,14,1013.00,20%,4
+ORD-1043,2024-05-16,Ananya Iyer,Kolkata,Mechanical Keyboard,8,731.00,15%,4
+ORD-1044,2024-12-27,Priya  Sharma,Kolkata,Wireless Mouse,9,704.00,10%,2
+ORD-1045,2024-06-22,Vikram Verma,Kolkata,Webcam HD,11,"$1,024.00",0,1
+ORD-1046,2024-08-15, Rohan  Sharma,Delhi,USB-C Hub,4,"$1,112.00",20%,2
+ORD-1047,2024-03-14,Priya  Patel,Bangalore,USB-C Hub,8,732.00,15%,4
+ORD-1048,2024-10-19,Pooja Verma,?,USB-C Hub,,₹83360,0,2
+ORD-1049,06-07-2024,Vikram Verma,DELHI,Laptop Pro,7,384.00,0.1,4
+ORD-1050,2024-06-22,Diya Reddy,New Delhi,Webcam HD,7,"$1,166.00",0.1,3
+ORD-1051,2024-02-25, Aarav Patel,mumbai,Monitor 4K,14,₹78000,0.05,2
+ORD-1052,2024-07-17,Pooja Verma,MUMBAI,Monitor 4K,7,₹18160,10%,3
+ORD-1053,2024-10-05,Ananya Sharma,delhi ,Webcam HD,4,68.00,5%,5
+ORD-1054,2024-06-17, Aarav Verma,DELHI,Wireless Mouse,2,77.00,0,4
+ORD-1055,2024-08-31,Priya  Reddy,New Delhi,Monitor 4K,14,"$1,092.00",0%,4
+ORD-1056,06-13-2024,Diya Iyer,Kolkata,Monitor 4K,10,1111.00,5%,2
+ORD-1057,2024-07-30,Diya Iyer,MUMBAI,USB-C Hub,3,$996.00,20%,5
+ORD-1058,2024-10-14,Priya  Verma,MUMBAI,Webcam HD,5,$664.00,10%,5
+ORD-1059,2024-10-20,Pooja Sharma,Bengaluru ,Monitor 4K,10,572.00,0%,4
+ORD-1060,2024-02-16,Diya Patel,mumbai,USB-C Hub,10,₹15840,10%,5
+ORD-1061,2024-04-20,Vikram Verma,Kolkata,Monitor 4K,1,$476.00,0%,3
+ORD-1062,2024-09-11,Diya Patel,bengaluru,Monitor 4K,2,$838.00,15%,4
+ORD-1063,2024-01-11,Pooja Verma,Chennai,USB-C Hub,4,917.00,0.05,5
+ORD-1064,2024-06-27,Priya  Iyer,delhi ,Wireless Mouse,3,179.00,10%,5
+ORD-1065,2024-03-18,Diya Mehta,Bengaluru ,Laptop Pro,8,$950.00,0,5
+ORD-1066,2024-08-18,Priya  Reddy,bengaluru,Wireless Mouse,13,₹58240,10%,3
+ORD-1067,2024-07-17, Rohan  Patel,Kolkata,USB-C Hub,11,816.00,15%,3
+ORD-1068,2024-03-07,Vikram Verma,mumbai,Webcam HD,12,₹88240,5%,4
+ORD-1069,2024-03-20, Rohan  Iyer,Chennai,Monitor 4K,13,$293.00,0.1,2
+ORD-1070,2024-08-17, Rohan  Verma,New Delhi,USB-C Hub,8,970.00,15%,3
+ORD-1071,2024-07-09,Priya  Patel,Mumbai,Laptop Pro,15,₹86080,0.05,4
+ORD-1072,2024-07-16,Priya  Reddy,Chennai,Noise-Cancelling Headphones,1,612.00,5%,1
+ORD-1073,2024-10-07,Ananya Iyer,New Delhi,USB-C Hub,11,961.00,20%,5
+ORD-1074,2024-08-01,Vikram Iyer,bengaluru,Monitor 4K,9,66.00,0.1,Excellent
+ORD-1075,2024-05-03, Rohan  Verma,mumbai,Wireless Mouse,14,383.00,5%,4
+ORD-1076,2024-01-23,Pooja Patel,MUMBAI,Webcam HD,13,$416.00,0.15,4
+ORD-1077,2024-06-22,Diya Patel,bengaluru,USB-C Hub,2,906.00,0.05,5
+ORD-1078,2024-12-19, Rohan  Sharma,Bengaluru ,Mechanical Keyboard,1,178.00,0%,4
+ORD-1079,2024-04-30,Vikram Verma,Bengaluru ,Wireless Mouse,6,934.00,15%,2
+ORD-1080,2024-10-14,Priya  Sharma,Bengaluru ,USB-C Hub,4,$276.00,0,3
+ORD-1081,2024-10-08,Priya  Sharma,Chennai,Noise-Cancelling Headphones,4,$273.00,0.05,4
+ORD-1082,11-09-2024,Priya  Iyer,Chennai,Noise-Cancelling Headphones,7,$176.00,0.05,5
+ORD-1083,2024-03-07,Vikram Verma,DELHI,USB-C Hub,12,486.00,0,2
+ORD-1084,2024-09-14,Vikram Iyer,Bengaluru ,Noise-Cancelling Headphones,15,"$1,179.00",0.15,5
+ORD-1085,2024-11-17, Rohan  Patel,Kolkata,Mechanical Keyboard,1,$348.00,0.05,3
+ORD-1086,2024-07-08,Pooja Mehta,Bangalore,Wireless Mouse,7,$881.00,20%,2
+ORD-1087,2024-08-27,Priya  Patel,bengaluru,Mechanical Keyboard,6,124.00,10%,4
+ORD-1088,2024-07-06,Diya Verma,New Delhi,USB-C Hub,9,947.00,0.1,3
+ORD-1089,2024-03-14, Rohan  Reddy,DELHI,Noise-Cancelling Headphones,8,330.00,0.15,3
+ORD-1090,31/02/2024,Ananya Iyer,delhi ,Mechanical Keyboard,12,79.00,0.15,5
+ORD-1091,2024-03-16, Aarav Iyer,New Delhi,Laptop Pro,7,442.00,0.15,3
+ORD-1092,2024-09-26,Vikram Verma,bengaluru,USB-C Hub,11,$566.00,0.15,3
+ORD-1093,2024-06-11,Vikram Iyer,Mumbai,Laptop Pro,15,₹66640,0.05,3
+ORD-1094,2024-04-13,Pooja Iyer,delhi ,Monitor 4K,1,"$1,112.00",20%,2
+ORD-1095,2024-03-21, Aarav Verma,New Delhi,Webcam HD,11,146.00,0.15,1
+ORD-1096,2024-09-10, Rohan  Mehta,Delhi,Laptop Pro,15,711.00,15%,1
+ORD-1097,2024-11-27,Diya Verma,Bengaluru ,Noise-Cancelling Headphones,14,$855.00,15%,2
+ORD-1098,2024-04-30,Vikram Iyer,Bengaluru ,Laptop Pro,4,$152.00,5%,3
+ORD-1099,2024-04-22,Diya Mehta,mumbai,Mechanical Keyboard,13,1125.00,0,1
+ORD-1100,2024-02-01, Aarav Reddy,DELHI,USB-C Hub,11,445.00,15%,5
+ORD-1101,2024-12-10,Priya  Sharma,Chennai,Wireless Mouse,6,155.00,0.15,2
+ORD-1102,2024-07-10,Arjun Mehta,MUMBAI,Laptop Pro,9,$297.00,0.1,1
+ORD-1103,2024-08-25, Aarav Verma,New Delhi,Mechanical Keyboard,15,256.00,0%,1
+ORD-1104,2024-05-05, Rohan  Iyer,Delhi,Wireless Mouse,14,₹54240,20%,3
+ORD-1105,2024-03-30,Priya  Verma,Kolkata,Noise-Cancelling Headphones,12,$877.00,0,2
+ORD-1106,2024-10-14,Vikram Reddy,Mumbai,Wireless Mouse,8,$784.00,20%,1
+ORD-1107,2024-12-09,Ananya Mehta,Delhi,Wireless Mouse,2,1005.00,0.1,4
+ORD-1108,2024-06-06, Aarav Patel,Chennai,Mechanical Keyboard,4,784.00,5%,4
+ORD-1109,2024-06-17,Priya  Verma,Kolkata,USB-C Hub,12,₹82320,0,1
+ORD-1110,08/12/2024,Priya  Iyer,N/A,Webcam HD,3,$43.00,0,0
+ORD-1111,2024-01-09,Pooja Patel,?,Webcam HD,15,₹17760,5%,4
+ORD-1112,2024-12-22,Arjun Iyer,Kolkata,Webcam HD,7,₹92480,0,1
+ORD-1113,2024-04-27,Ananya Mehta,Delhi,Laptop Pro,9,₹94320,0.1,4
+ORD-1114,2024-03-24,Arjun Verma,bengaluru,USB-C Hub,13,$185.00,0.15,5
+ORD-1115,16/06/2024,Vikram Verma,Bangalore,Mechanical Keyboard,7,909.00,5%,2
+ORD-1116,31/02/2024,Pooja Mehta,mumbai,Webcam HD,3,₹72560,0,3
+ORD-1117,2024-05-29, Rohan  Reddy,New Delhi,Monitor 4K,3,$309.00,5%,1
+ORD-1118,2024-11-16, Rohan  Patel,Delhi,Mechanical Keyboard,13,699.00,5%,2
+ORD-1119,2024-07-22, Rohan  Iyer,Bengaluru ,Webcam HD,14,$829.00,0.05,4
+ORD-1120,2024-08-12,Priya  Mehta,MUMBAI,Noise-Cancelling Headphones,4,₹43360,0.1,4
+ORD-1121,2024-12-25,Pooja Reddy,New Delhi,Noise-Cancelling Headphones,10,115.00,0.05,2
+ORD-1122,2024-08-16,Pooja Patel,DELHI,USB-C Hub,5,876.00,15%,5
+ORD-1123,2024-02-19, Rohan  Mehta,Chennai,Laptop Pro,-,₹19840,15%,4
+ORD-1124,2024-11-18,Diya Mehta,null,Mechanical Keyboard,12,₹37120,15%,4
+ORD-1125,2024-09-27,Ananya Patel,delhi ,USB-C Hub,3,634.00,0.15,2
+ORD-1126,2024-11-01,Pooja Sharma,Chennai,Noise-Cancelling Headphones,3,1027.00,0.15,4
+ORD-1127,2024-07-28,Priya  Mehta,delhi ,Monitor 4K,5,$91.00,0,5
+ORD-1128,2024-05-17, Aarav Reddy,Delhi,Webcam HD,7,$234.00,0%,1
+ORD-1129,2024-05-01, Rohan  Patel,Bengaluru ,Noise-Cancelling Headphones,13,448.00,20%,5
+ORD-1130,2024-12-13,Arjun Reddy,Delhi,USB-C Hub,14,296.00,0%,4
+ORD-1131,2024-11-20,Priya  Iyer,Chennai,USB-C Hub,10,$30.00,0.15,1
+ORD-1132,2024-04-21,Priya  Sharma,Mumbai,USB-C Hub,14,₹81440,15%,4
+ORD-1133,2024-04-13,Arjun Iyer,Mumbai,Laptop Pro,6,363.00,5%,2
+ORD-1134,31/02/2024,Pooja Patel,delhi ,Webcam HD,2,$493.00,0.05,2
+ORD-1135,02-05-2024,Diya Verma,Bangalore,USB-C Hub,3,$868.00,15%,4
+ORD-1136,2024-06-10,Ananya Iyer,Bengaluru ,Monitor 4K,12,79.00,0%,2
+ORD-1137,2024-05-03,Diya Sharma,mumbai,USB-C Hub,10,886.00,0%,0
+ORD-1138,2024-07-22, Rohan  Mehta,Chennai,Mechanical Keyboard,10,₹26960,15%,1
+ORD-1139,05-02-2024,Pooja Mehta,Bangalore,Monitor 4K,12,₹30720,5%,3
+ORD-1140,2024-05-17, Rohan  Patel,MUMBAI,USB-C Hub,10,$182.00,0,5
+ORD-1141,04-26-2024,Arjun Verma,Delhi,Wireless Mouse,15,$332.00,0%,3
+ORD-1142,2024-10-19,Priya  Sharma,bengaluru,Laptop Pro,8,$603.00,0.05,3
+ORD-1143,2024-08-25, Aarav Patel,Chennai,Monitor 4K,1,864.00,0.1,Excellent
+ORD-1144,2024-02-23,Diya Mehta,DELHI,Noise-Cancelling Headphones,4,1089.00,0,1
+ORD-1145,2024-08-10,Diya Verma,MUMBAI,Noise-Cancelling Headphones,8,$581.00,20%,3
+ORD-1146,2024-07-02,Ananya Patel,delhi ,Laptop Pro,14,$107.00,5%,3
+ORD-1147,2024-01-16,Ananya Reddy,delhi ,Mechanical Keyboard,2,$49.00,0.1,1
+ORD-1148,08/02/2024,Arjun Iyer,Kolkata,Mechanical Keyboard,14,$704.00,5%,4
+ORD-1149,2024-04-05,Ananya Iyer,Bengaluru ,Wireless Mouse,15,1152.00,0.1,1
+ORD-1150,2024-09-02,Priya  Mehta,MUMBAI,USB-C Hub,4,$85.00,0,2
+ORD-1151,2024-05-06,Pooja Iyer,Delhi,Webcam HD,14,₹65600,0.1,1
+ORD-1152,2024-10-17,Ananya Verma,Bangalore,Monitor 4K,2,₹11200,5%,3
+ORD-1153,2024-10-27,Arjun Iyer,mumbai,Laptop Pro,7,231.00,0.1,2
+ORD-1154,2024-04-24,Pooja Mehta,Mumbai,Wireless Mouse,-5,₹66080,0%,4
+ORD-1155,2024-05-01,Vikram Sharma,Chennai,Noise-Cancelling Headphones,8,$48.00,0.05,4
+ORD-1156,2024-07-30,Pooja Patel,Bangalore,Webcam HD,11,₹38880,0.05,2
+ORD-1157,2024-02-08,Pooja Verma,Bengaluru ,Mechanical Keyboard,11,$362.00,0.1,5
+ORD-1158,2024-12-04,Ananya Verma,Bangalore,Wireless Mouse,-1,₹50240,0.1,4
+ORD-1159,2024-07-22,Vikram Mehta,MUMBAI,Wireless Mouse,3,$937.00,10%,1
+ORD-1160,2024-10-04,Arjun Iyer,MUMBAI,Webcam HD,11,$997.00,0.05,5
+ORD-1161,2024-03-02,Vikram Patel,New Delhi,Webcam HD,2,$916.00,20%,1
+ORD-1162,2024-07-22,Diya Sharma,Delhi,Webcam HD,13,884.00,0.1,3
+ORD-1163,2024-07-29,Priya  Patel,DELHI,USB-C Hub,11,₹67760,15%,3
+ORD-1164,2024-12-22,Arjun Iyer,Chennai,Mechanical Keyboard,12,878.00,0.05,3
+ORD-1165,2024-02-03,Vikram Patel,Bengaluru ,Laptop Pro,4,143.00,0.05,1
+ORD-1166,2024-07-09,Ananya Verma,bengaluru,USB-C Hub,5,$210.00,0,3
+ORD-1167,15/12/2024,Arjun Patel,Kolkata,Wireless Mouse,-3,$650.00,0.15,3
+ORD-1168,2024-10-26,Pooja Patel,mumbai,Monitor 4K,5,$246.00,20%,3
+ORD-1169,2024-05-03, Aarav Mehta,Kolkata,USB-C Hub,11,1043.00,5%,2
+ORD-1170,2024-12-17,Vikram Iyer,bengaluru,USB-C Hub,15,"$1,168.00",0.1,2
+ORD-1171,2024-12-01,Diya Reddy,mumbai,USB-C Hub,14,266.00,0.15,4
+ORD-1172,2024-01-28, Aarav Sharma,Bengaluru ,Mechanical Keyboard,3,$190.00,0.05,2
+ORD-1173,2024-09-07,Ananya Sharma,MUMBAI,Mechanical Keyboard,1,102.00,10%,2
+ORD-1174,2024-06-08,Priya  Patel,Delhi,USB-C Hub,9,1098.00,5%,4
+ORD-1175,03-08-2024,Diya Iyer,delhi ,USB-C Hub,7,₹43840,15%,1
+ORD-1176,2024-03-04,Diya Mehta,Kolkata,Laptop Pro,11,"$1,090.00",0.15,1
+ORD-1177,2024-04-11, Aarav Iyer,mumbai,Noise-Cancelling Headphones,9,₹83280,0.05,5
+ORD-1178,02-16-2024, Aarav Patel,Mumbai,Noise-Cancelling Headphones,5,$565.00,0,4
+ORD-1179,24/01/2024,Arjun Reddy,Kolkata,Wireless Mouse,10,₹45920,0.15,4
+ORD-1180,2024-08-03,Arjun Patel,Delhi,Webcam HD,10,"$1,013.00",15%,2
+ORD-1181,2024-02-27,Diya Reddy,Delhi,Noise-Cancelling Headphones,12,1182.00,0.15,3
+ORD-1182,2024-03-17,Vikram Sharma,Kolkata,Wireless Mouse,8,$363.00,5%,4
+ORD-1183,2024-02-10,Diya Mehta,Bangalore,USB-C Hub,11,₹4880,0.15,5
+ORD-1184,06-23-2024,Pooja Patel,Bangalore,USB-C Hub,8,₹61520,0.1,3
+ORD-1185,2024-12-25,Ananya Iyer,Chennai,Noise-Cancelling Headphones,4,$409.00,0,1
+ORD-1186,2024-08-18, Rohan  Iyer,Delhi,Monitor 4K,7,1014.00,0.1,5
+ORD-1187,2024-09-15,Vikram Iyer,New Delhi,USB-C Hub,5,952.00,0.05,5
+ORD-1188,2024-04-17,Arjun Iyer,Chennai,Noise-Cancelling Headphones,9,685.00,0.15,3
+ORD-1189,01-07-2024,Vikram Verma,Kolkata,Laptop Pro,3,$611.00,20%,4
+ORD-1190,2024-04-24, Aarav Sharma,Chennai,USB-C Hub,7,818.00,0.1,4
+ORD-1191,2024-10-28,Vikram Mehta,Mumbai,Mechanical Keyboard,3,$380.00,15%,3
+ORD-1192,12-29-2024,Pooja Mehta,Bengaluru ,Laptop Pro,14,641.00,0.05,1
+ORD-1193,2024-07-31,Diya Iyer,Kolkata,USB-C Hub,13,1111.00,0.05,5
+ORD-1194,2024-01-21, Aarav Patel,MUMBAI,USB-C Hub,15,1083.00,0%,5
+ORD-1195,2024-03-26,Arjun Iyer,New Delhi,Noise-Cancelling Headphones,11,893.00,10%,2
+ORD-1196,01-20-2024,Diya Mehta,bengaluru,Laptop Pro,5,₹68720,0,Excellent
+ORD-1197,26/10/2024, Aarav Reddy,mumbai,Monitor 4K,5,202.00,0.1,4
+ORD-1198,2024-11-20,Diya Patel,Chennai,Noise-Cancelling Headphones,9,1161.00,20%,3
+ORD-1199,2024-03-13,Diya Patel,DELHI,Noise-Cancelling Headphones,14,"$1,149.00",0.1,4
+ORD-1200,2024-03-06,Arjun Verma,New Delhi,USB-C Hub,11,651.00,5%,Excellent
+ORD-1201,2024-12-30,Vikram Verma,Chennai,USB-C Hub,6,₹52000,0,1
+ORD-1202,2024-09-16,Vikram Verma,New Delhi,Laptop Pro,9,991.00,0%,4
+ORD-1203,2024-12-05,Priya  Verma,bengaluru,Wireless Mouse,10,₹25920,0.1,1
+ORD-1204,2024-07-17,Arjun Patel,mumbai,Laptop Pro,14,₹46800,0.15,1
+ORD-1205,2024-04-24, Rohan  Verma,Bangalore,Monitor 4K,N/A,₹74000,0.15,1
+ORD-1206,2024-06-18, Rohan  Sharma,DELHI,Noise-Cancelling Headphones,1,₹22880,0,5
+ORD-1207,2024-12-04,Vikram Verma,Bangalore,Webcam HD,7,$317.00,0,4
+ORD-1208,31/02/2024,Diya Sharma,bengaluru,Noise-Cancelling Headphones,2,$388.00,0,5
+ORD-1209,2024-12-13,Diya Reddy,bengaluru,Mechanical Keyboard,13,805.00,0,2
+ORD-1210,2024-05-25,Vikram Patel,,Monitor 4K,7,₹35600,0.15,3
+ORD-1211,2024-04-14,Priya  Iyer,bengaluru,Mechanical Keyboard,6,840.00,10%,5
+ORD-1212,2024-10-08,Arjun Reddy,Kolkata,Laptop Pro,8,916.00,5%,5
+ORD-1213,11-23-2024, Aarav Verma,bengaluru,USB-C Hub,9,1081.00,15%,4
+ORD-1214,2024-07-26,Ananya Reddy,delhi ,Monitor 4K,15,$737.00,20%,3
+ORD-1215,2024-02-24,Pooja Reddy,bengaluru,USB-C Hub,10,537.00,10%,1
+ORD-1216,2024-02-04,Diya Mehta,mumbai,Mechanical Keyboard,1,564.00,20%,3
+ORD-1217,2024-05-17,Diya Sharma,Chennai,Wireless Mouse,5,448.00,0,4
+ORD-1218,2024-09-03,Arjun Reddy,Bengaluru ,Webcam HD,13,₹85680,5%,3
+ORD-1219,2024-08-22,Priya  Mehta,Delhi,Noise-Cancelling Headphones,6,₹61200,10%,4
+ORD-1220,2024-07-05, Rohan  Reddy,Bengaluru ,Noise-Cancelling Headphones,5,$507.00,20%,4
+ORD-1221,2024-09-30,Pooja Patel,Bengaluru ,Laptop Pro,1,466.00,15%,3
+ORD-1222,2024-03-03,Diya Reddy,Kolkata,Noise-Cancelling Headphones,5,752.00,0.1,2
+ORD-1223,2024-08-03,Pooja Iyer,DELHI,USB-C Hub,5,572.00,0%,4
+ORD-1224,2024-03-05,Diya Sharma,delhi ,Wireless Mouse,2,?,5%,4
+ORD-1225,2024-05-25, Rohan  Iyer,Delhi,Noise-Cancelling Headphones,14,1000.00,0.15,4
+ORD-1226,2024-09-25,Pooja Patel,New Delhi,Webcam HD,7,N/A,0.15,0
+ORD-1227,02/06/2024,Arjun Reddy,Mumbai,Monitor 4K,-3,₹32880,0.1,2
+ORD-1228,2024-05-25, Aarav Verma,delhi ,Wireless Mouse,8,$952.00,0.1,2
+ORD-1229,31/02/2024, Rohan  Sharma,Delhi,Mechanical Keyboard,13,1045.00,5%,5
+ORD-1230,2024-05-08,Ananya Reddy,New Delhi,Mechanical Keyboard,12,$93.00,0%,3
+ORD-1231,2024-10-08,Diya Reddy,Delhi,Webcam HD,4,$914.00,15%,0
+ORD-1232,2024-12-18, Rohan  Reddy,delhi ,Noise-Cancelling Headphones,13,147.00,0.15,3
+ORD-1233,08/04/2024,Pooja Patel,Chennai,Wireless Mouse,12,921.00,0.05,5
+ORD-1234,2024-02-05,Pooja Iyer,Bangalore,Laptop Pro,12,404.00,15%,4
+ORD-1235,2024-10-09,Arjun Iyer,delhi ,Monitor 4K,3,₹31200,10%,5
+ORD-1236,04-23-2024,Arjun Patel,New Delhi,Noise-Cancelling Headphones,2,983.00,0%,5
+ORD-1237,02-06-2024,Arjun Iyer,bengaluru,Laptop Pro,7,413.00,0.15,3
+ORD-1238,2024-02-23,Arjun Iyer,DELHI,Monitor 4K,6,670.00,20%,5
+ORD-1239,2024-05-10,Pooja Sharma,,USB-C Hub,15,"$85,000.00",0.05,3
+ORD-1240,18/02/2024,Diya Iyer,DELHI,USB-C Hub,4,549.00,0,4
+ORD-1241,10-31-2024,Ananya Iyer,MUMBAI,Laptop Pro,6,₹58960,0.15,1
+ORD-1242,01-28-2024,Arjun Patel,DELHI,USB-C Hub,1,₹66320,20%,3
+ORD-1243,2024-01-26,Ananya Verma,Chennai,Wireless Mouse,4,1024.00,0,3
+ORD-1244,2024-02-27, Rohan  Reddy,Bengaluru ,Noise-Cancelling Headphones,none,371.00,0.05,2
+ORD-1245,02-13-2024,Ananya Verma,DELHI,Webcam HD,6,252.00,5%,5
+ORD-1246,12-21-2024, Aarav Sharma,Kolkata,Monitor 4K,5,$436.00,0,3
+ORD-1247,2024-05-29, Aarav Sharma,Chennai,Laptop Pro,10,1113.00,5%,3
+ORD-1248,2024-01-10,Vikram Verma,bengaluru,USB-C Hub,15,$817.00,15%,2
+ORD-1249,2024-09-23,Ananya Verma,New Delhi,Monitor 4K,15,699.00,0.15,5
+ORD-1250,2024-03-15,Arjun Patel,bengaluru,Noise-Cancelling Headphones,15,323.00,5%,3
+ORD-1251,02-24-2024,Priya  Verma,Bengaluru ,USB-C Hub,10,NA,15%,3
+ORD-1252,2024-09-08,Priya  Iyer,Delhi,USB-C Hub,11,440.00,0%,2
+ORD-1253,2024-11-07,Ananya Mehta,Chennai,Monitor 4K,15,₹8240,0,1
+ORD-1254,2024-04-07,Diya Verma,Bangalore,Wireless Mouse,1,₹86640,15%,5
+ORD-1255,2024-06-14,Priya  Iyer,New Delhi,Mechanical Keyboard,11,$360.00,0.05,4
+ORD-1256,07-12-2024,Priya  Patel,mumbai,Monitor 4K,3,321.00,0,2
+ORD-1257,11-14-2024, Aarav Verma,Bangalore,Monitor 4K,8,512.00,0.05,5
+ORD-1258,01-26-2024, Rohan  Verma,DELHI,Webcam HD,10,$636.00,0.05,5
+ORD-1259,2024-08-21,Vikram Patel,mumbai,USB-C Hub,13,₹72000,0,2
+ORD-1260,2024-10-19,Pooja Verma,Chennai,Monitor 4K,5,899.00,5%,4
+ORD-1261,2024-11-08, Aarav Iyer,Bangalore,Noise-Cancelling Headphones,4,874.00,20%,1
+ORD-1262,10-08-2024,Priya  Sharma,mumbai,Mechanical Keyboard,1,384.00,0.1,4
+ORD-1263,2024-08-24,Pooja Sharma,Mumbai,Monitor 4K,9,63.00,15%,1
+ORD-1264,2024-11-16,Ananya Patel,delhi ,Webcam HD,14,$669.00,0.05,2
+ORD-1265,02-27-2024,Vikram Patel,delhi ,Mechanical Keyboard,15,1049.00,0.05,5
+ORD-1266,2024-04-15,Vikram Sharma,Delhi,USB-C Hub,10,$203.00,5%,2
+ORD-1267,2024-05-26, Rohan  Iyer,DELHI,Wireless Mouse,-5,1171.00,20%,2
+ORD-1268,06-22-2024,Priya  Mehta,,Laptop Pro,7,391.00,0,2
+ORD-1269,08-26-2024,Vikram Patel,Chennai,Mechanical Keyboard,11,$978.00,0.1,3
+ORD-1270,08-20-2024,Diya Patel,Bangalore,Mechanical Keyboard,6,₹22800,5%,4
+ORD-1271,2024-10-07,Priya  Sharma,Chennai,Monitor 4K,10,₹58000,15%,5
+ORD-1272,2024-03-31, Aarav Verma,Bengaluru ,Webcam HD,11,150.00,20%,3
+ORD-1273,2024-08-16, Rohan  Patel,Kolkata,USB-C Hub,12,730.00,20%,1
+ORD-1274,2024-07-02, Rohan  Verma,Bengaluru ,Mechanical Keyboard,7,$806.00,0.05,3
+ORD-1275,2024-05-27,Arjun Mehta,Delhi,Wireless Mouse,7,303.00,0.15,5
+ORD-1276,31/02/2024,Priya  Iyer,Chennai,Wireless Mouse,15,"$1,143.00",20%,1
+ORD-1277,05-23-2024,Pooja Mehta,delhi ,Wireless Mouse,11,184.00,0.1,5
+ORD-1278,2024-08-03, Aarav Iyer,Chennai,Monitor 4K,10,$558.00,15%,5
+ORD-1279,02-12-2024,Priya  Patel,Mumbai,Wireless Mouse,5,54.00,20%,2
+ORD-1280,01-17-2024,Pooja Sharma,DELHI,Webcam HD,13,₹64720,15%,1
+ORD-1281,2024-07-23,Priya  Reddy,New Delhi,Mechanical Keyboard,5,$322.00,20%,1
+ORD-1282,2024-11-22,Ananya Mehta,Mumbai,USB-C Hub,5,$826.00,0%,2
+ORD-1283,10/12/2024,Diya Sharma,MUMBAI,Laptop Pro,6,$474.00,0,2
+ORD-1284,12-28-2024,Priya  Iyer,MUMBAI,Noise-Cancelling Headphones,13,$403.00,0.1,3
+ORD-1285,05-11-2024,Arjun Verma,MUMBAI,Mechanical Keyboard,14,₹45360,0.05,5
+ORD-1286,2024-11-10,Arjun Patel,delhi ,Laptop Pro,8,63.00,0.15,4
+ORD-1287,2024-09-01,Arjun Sharma,bengaluru,Wireless Mouse,unknown,273.00,10%,1
+ORD-1288,2024-02-11,Priya  Iyer,bengaluru,Laptop Pro,5,₹65840,0.05,1
+ORD-1289,2024-09-07, Rohan  Iyer,Bangalore,Laptop Pro,13,112.00,0.15,1
+ORD-1290,30/11/2024, Rohan  Mehta,Bengaluru ,Laptop Pro,1,₹30160,20%,1
+ORD-1291,2024-04-22, Rohan  Patel,Chennai,Noise-Cancelling Headphones,11,1142.00,10%,4
+ORD-1292,2024-10-10,Vikram Reddy,Kolkata,Monitor 4K,15,NA,0.05,4
+ORD-1293,2024-03-14,Ananya Verma,Bengaluru ,Noise-Cancelling Headphones,8,₹16400,0.05,1
+ORD-1294,2024-08-25,Pooja Patel,DELHI,Noise-Cancelling Headphones,8,$386.00,0.15,5
+ORD-1295,01-23-2024,Ananya Iyer,DELHI,Webcam HD,NA,170.00,0%,1
+ORD-1296,2024-05-01,Ananya Iyer,Bangalore,Monitor 4K,3,₹37360,20%,3
+ORD-1297,2024-01-31,Arjun Mehta,mumbai,Wireless Mouse,13,$373.00,15%,5
+ORD-1298,22/05/2024,Priya  Iyer,New Delhi,Wireless Mouse,15,₹26400,0%,5
+ORD-1299,08-19-2024,Vikram Verma,Chennai,Noise-Cancelling Headphones,6,$630.00,15%,5
+ORD-1300,2024-08-25,Vikram Iyer,mumbai,Noise-Cancelling Headphones,14,₹13520,0,2
+ORD-1301,2024-11-13,Diya Mehta,Kolkata,USB-C Hub,6,$978.00,0%,3
+ORD-1302,2024-11-28,Pooja Patel,New Delhi,Webcam HD,6,$572.00,20%,1
+ORD-1303,2024-12-13, Rohan  Patel,Kolkata,Noise-Cancelling Headphones,2,$410.00,5%,2
+ORD-1304,2024-09-11,Diya Sharma,?,Noise-Cancelling Headphones,6,$885.00,0.15,5
+ORD-1305,2024-10-23,Vikram Verma,Chennai,Monitor 4K,5,"$1,186.00",10%,1
+ORD-1306,2024-08-21,Priya  Patel,DELHI,Wireless Mouse,11,339.00,0.1,1
+ORD-1307,2024-03-16,Vikram Reddy,Delhi,Mechanical Keyboard,8,680.00,0.15,5
+ORD-1308,2024-06-22,Ananya Mehta,bengaluru,Laptop Pro,14,$476.00,0%,3
+ORD-1309,2024-10-02,Arjun Patel,MUMBAI,Wireless Mouse,9,$139.00,10%,0
+ORD-1310,08-16-2024, Rohan  Mehta,Bangalore,Noise-Cancelling Headphones,5,360.00,20%,3
+ORD-1311,2024-06-20, Rohan  Reddy,MUMBAI,Noise-Cancelling Headphones,9,$971.00,0.1,3
+ORD-1312,2024-09-09,Ananya Sharma,none,USB-C Hub,8,279.00,0.1,1
+ORD-1313,2024-10-24,Pooja Reddy,Chennai,Webcam HD,10,$60.00,10%,2
+ORD-1314,2024-08-02,Vikram Patel,Kolkata,Laptop Pro,3,218.00,0.1,1
+ORD-1315,14/03/2024,Ananya Mehta,mumbai,Webcam HD,15,$358.00,0,5
+ORD-1316,08-01-2024,Vikram Sharma,Delhi,Mechanical Keyboard,3,930.00,0.05,2
+ORD-1317,2024-12-18, Aarav Reddy,Chennai,Webcam HD,13,"$1,016.00",0%,1
+ORD-1318,2024-02-19,Ananya Mehta,DELHI,Noise-Cancelling Headphones,14,$593.00,0.05,5
+ORD-1319,2024-04-08,Pooja Reddy,NA,Wireless Mouse,8,₹62000,10%,4
+ORD-1320,2024-03-04,Priya  Verma,Mumbai,Monitor 4K,8,261.00,0%,4
+ORD-1321,31/02/2024, Rohan  Sharma,Kolkata,Laptop Pro,11,199.00,0.15,2
+ORD-1322,2024-03-03,Vikram Verma,Bengaluru ,Monitor 4K,11,844.00,5%,3
+ORD-1323,11-17-2024,Diya Iyer,delhi ,Mechanical Keyboard,7,$694.00,15%,4
+ORD-1324,2024-09-08, Aarav Verma,Delhi,Webcam HD,15,268.00,0.05,3
+ORD-1325,2024-09-08, Aarav Reddy,Bengaluru ,Noise-Cancelling Headphones,9,"$1,196.00",0.1,4
+ORD-1326,05-25-2024, Aarav Iyer,mumbai,USB-C Hub,13,723.00,0,3
+ORD-1327,2024-06-05,Diya Reddy,?,Monitor 4K,1,986.00,10%,3
+ORD-1328,2024-03-26,Diya Iyer,delhi ,Webcam HD,5,122.00,20%,3
+ORD-1329,2024-09-28, Rohan  Sharma,Mumbai,Monitor 4K,9,666.00,0.05,2
+ORD-1330,2024-12-04,Priya  Verma,bengaluru,Webcam HD,7,"$1,184.00",0.15,3
+ORD-1331,2024-06-12,Ananya Patel,Mumbai,Webcam HD,11,$508.00,0%,4
+ORD-1332,2024-04-13,Vikram Sharma,Kolkata,Monitor 4K,12,1020.00,0,3
+ORD-1333,2024-07-22,Diya Patel,Chennai,Monitor 4K,14,"$1,100.00",0.05,4
+ORD-1334,2024-08-04,Ananya Patel,MUMBAI,USB-C Hub,9,792.00,10%,3
+ORD-1335,06/06/2024,Diya Mehta,Bengaluru ,Laptop Pro,1,515.00,15%,4
+ORD-1336,2024-05-10,Priya  Reddy,DELHI,Mechanical Keyboard,13,$857.00,0,3
+ORD-1337,2024-03-23, Aarav Reddy,bengaluru,Noise-Cancelling Headphones,13,131.00,5%,5
+ORD-1338,2024-05-07,Pooja Patel,Bengaluru ,Noise-Cancelling Headphones,8,"$1,004.00",15%,2
+ORD-1339,2024-10-19,Vikram Verma,Kolkata,Wireless Mouse,4,561.00,20%,5
+ORD-1340,2024-08-10,Ananya Mehta,New Delhi,Noise-Cancelling Headphones,14,$570.00,15%,2
+ORD-1341,15/03/2024,Arjun Iyer,New Delhi,Monitor 4K,10,963.00,0.1,4
+ORD-1342,02-07-2024,Pooja Verma,New Delhi,Mechanical Keyboard,11,85000.00,5%,5
+ORD-1343,2024-09-14,Pooja Reddy,Chennai,Monitor 4K,6,₹9200,0.1,5
+ORD-1344,2024-09-21, Aarav Reddy,DELHI,Monitor 4K,13,$926.00,15%,4
+ORD-1345,2024-01-21,Vikram Mehta,delhi ,Webcam HD,6,216.00,0,5
+ORD-1346,2024-09-26, Rohan  Sharma,Bangalore,Noise-Cancelling Headphones,5,274.00,10%,4
+ORD-1347,2024-10-31, Aarav Iyer,Bangalore,USB-C Hub,15,₹95200,10%,4
+ORD-1348,2024-04-01,Vikram Iyer,null,Wireless Mouse,11,340.00,0.05,1
+ORD-1349,2024-09-07,Ananya Iyer,delhi ,Webcam HD,3,914.00,0,4
+ORD-1350,05-28-2024,Diya Sharma,Mumbai,Wireless Mouse,5,$534.00,20%,4
+ORD-1351,2024-05-09,Priya  Mehta,unknown,Wireless Mouse,1,195.00,0%,2
+ORD-1352,2024-11-05,Priya  Patel,?,Laptop Pro,unknown,967.00,0.15,3
+ORD-1353,2024-06-03,Ananya Sharma,Chennai,Wireless Mouse,11,322.00,0%,4
+ORD-1354,2024-03-26,Arjun Reddy,Delhi,Webcam HD,5,₹95280,0.1,5
+ORD-1355,2024-01-19,Arjun Reddy,Kolkata,Webcam HD,1,₹88480,15%,3
+ORD-1356,2024-01-11,Pooja Reddy,bengaluru,Wireless Mouse,15,984.00,0%,5
+ORD-1357,2024-12-07, Aarav Sharma,MUMBAI,Mechanical Keyboard,1,₹4960,5%,2
+ORD-1358,2024-09-06,Priya  Reddy,bengaluru,USB-C Hub,14,"$1,080.00",0,1
+ORD-1359,14/10/2024, Rohan  Iyer,Kolkata,Laptop Pro,3,623.00,0.15,1
+ORD-1360,07-31-2024,Arjun Verma,Bangalore,USB-C Hub,5,₹62960,0.1,4
+ORD-1361,2024-01-16, Rohan  Mehta,delhi ,Laptop Pro,13,$361.00,0.15,5
+ORD-1362,2024-07-24,Priya  Iyer,mumbai,USB-C Hub,none,1105.00,0.1,4
+ORD-1363,13/02/2024, Rohan  Sharma,Chennai,Noise-Cancelling Headphones,9,606.00,0.1,Excellent
+ORD-1364,2024-05-03, Aarav Reddy,Chennai,Laptop Pro,9,750.00,0.05,5
+ORD-1365,2024-06-28, Rohan  Iyer,DELHI,Noise-Cancelling Headphones,2,696.00,5%,1
+ORD-1366,08-31-2024,Priya  Iyer,MUMBAI,Monitor 4K,14,565.00,0.15,2
+ORD-1367,2024-12-30,Diya Patel,Chennai,Wireless Mouse,3,1169.00,10%,2
+ORD-1368,2024-07-10,Pooja Sharma,Bengaluru ,Mechanical Keyboard,15,₹48400,15%,5
+ORD-1369,2024-06-21,Arjun Reddy,DELHI,Monitor 4K,11,$944.00,15%,5
+ORD-1370,2024-05-22,Ananya Reddy,Chennai,USB-C Hub,9,₹15920,0.05,0
+ORD-1371,2024-01-10, Rohan  Reddy,Bengaluru ,Mechanical Keyboard,6,847.00,0.15,Excellent
+ORD-1372,2024-05-11, Aarav Patel,DELHI,USB-C Hub,7,$371.00,0.1,4
+ORD-1373,2024-07-11,Diya Reddy,Bengaluru ,Monitor 4K,9,813.00,0,Excellent
+ORD-1374,2024-05-17, Rohan  Verma,Kolkata,Webcam HD,8,₹15680,0%,5
+ORD-1375,2024-08-25,Vikram Sharma,Delhi,Mechanical Keyboard,11,$803.00,15%,1
+ORD-1376,2024-12-23,Pooja Patel,MUMBAI,Wireless Mouse,6,₹58080,5%,3
+ORD-1377,31/02/2024, Aarav Iyer,N/A,Mechanical Keyboard,8,₹66320,0.1,4
+ORD-1378,2024-07-17,Vikram Iyer,unknown,USB-C Hub,4,₹5200,15%,3
+ORD-1379,2024-12-26, Rohan  Sharma,MUMBAI,Laptop Pro,8,374.00,20%,2
+ORD-1380,2024-04-26, Aarav Patel,Delhi,Noise-Cancelling Headphones,11,?,20%,3
+ORD-1381,2024-08-26,Ananya Iyer,Delhi,USB-C Hub,6,35.00,10%,2
+ORD-1382,2024-06-08,Pooja Mehta,Delhi,Monitor 4K,14,537.00,0,5
+ORD-1383,2024-11-16,Arjun Sharma,MUMBAI,USB-C Hub,13,$286.00,15%,1
+ORD-1384,2024-07-24, Aarav Reddy,Kolkata,Monitor 4K,?,975.00,20%,1
+ORD-1385,2024-12-31, Rohan  Patel,Kolkata,Monitor 4K,12,$935.00,20%,3
+ORD-1386,2024-03-15,Ananya Verma,Delhi,Monitor 4K,1,511.00,15%,1
+ORD-1387,2024-12-21,Ananya Sharma,Bengaluru ,USB-C Hub,3,$239.00,0.05,4
+ORD-1388,2024-09-03,Vikram Reddy,New Delhi,Mechanical Keyboard,6,$45.00,0%,3
+ORD-1389,2024-04-11, Rohan  Reddy,mumbai,Webcam HD,1,$385.00,0.1,3
+ORD-1390,2024-08-21,Arjun Iyer,Bengaluru ,Mechanical Keyboard,3,292.00,0.1,5
+ORD-1391,03-17-2024, Rohan  Mehta,DELHI,Webcam HD,8,453.00,20%,5
+ORD-1392,2024-08-25,Ananya Patel,Bangalore,Mechanical Keyboard,15,₹7920,0.1,2
+ORD-1393,2024-05-10,Pooja Patel,mumbai,Wireless Mouse,10,713.00,0%,2
+ORD-1394,2024-07-02,Vikram Patel,delhi ,Webcam HD,2,171.00,20%,3
+ORD-1395,2024-03-11, Rohan  Reddy,Delhi,Webcam HD,13,₹68160,20%,2
+ORD-1396,2024-10-27, Rohan  Patel,delhi ,USB-C Hub,12,880.00,0.1,0
+ORD-1397,2024-06-22,Arjun Reddy,Chennai,Monitor 4K,10,90.00,15%,5
+ORD-1398,2024-02-25,Ananya Verma,DELHI,Laptop Pro,14,1025.00,20%,4
+ORD-1399,2024-01-06,Ananya Patel,delhi ,Wireless Mouse,2,$821.00,20%,4
+ORD-1400,2024-06-07, Aarav Iyer,Delhi,Wireless Mouse,10,530.00,10%,4
+ORD-1401,2024-07-19, Rohan  Patel,Bengaluru ,Noise-Cancelling Headphones,11,₹32000,0.05,1
+ORD-1402,2024-09-09,Priya  Reddy,delhi ,Monitor 4K,8,₹28960,0%,2
+ORD-1403,2024-05-08, Aarav Mehta,Bangalore,Mechanical Keyboard,4,₹73680,0.05,5
+ORD-1404,02-09-2024,Diya Reddy,Bangalore,USB-C Hub,15,1115.00,15%,5
+ORD-1405,2024-04-13, Rohan  Iyer,MUMBAI,Laptop Pro,4,154.00,0.1,1
+ORD-1406,2024-10-14,Ananya Reddy,MUMBAI,Laptop Pro,6,$380.00,0.1,3
+ORD-1407,2024-01-23,Arjun Iyer,delhi ,Noise-Cancelling Headphones,14,1190.00,10%,2
+ORD-1408,2024-12-07,Arjun Verma,MUMBAI,Monitor 4K,10,52.00,5%,3
+ORD-1409,2024-03-18, Aarav Verma,Bangalore,Noise-Cancelling Headphones,6,₹8480,0%,2
+ORD-1410,2024-12-06, Rohan  Verma,MUMBAI,Monitor 4K,1,$157.00,0.05,5
+ORD-1411,2024-04-30,Priya  Sharma,New Delhi,Wireless Mouse,5,$609.00,15%,4
+ORD-1412,2024-08-04,Priya  Patel,Bangalore,Laptop Pro,2,₹51120,10%,5
+ORD-1413,2024-03-10, Aarav Sharma,-,Mechanical Keyboard,7,₹63120,0.1,2
+ORD-1414,2024-06-27, Rohan  Patel,Kolkata,Mechanical Keyboard,4,1003.00,20%,2
+ORD-1415,31/02/2024,Vikram Iyer,Kolkata,Noise-Cancelling Headphones,10,189.00,0.15,4
+ORD-1416,2024-02-15,Arjun Mehta,Mumbai,Noise-Cancelling Headphones,12,₹6800000,10%,4
+ORD-1417,2024-04-05,Priya  Iyer,Bangalore,Monitor 4K,1,399.00,0%,2
+ORD-1418,07-12-2024, Aarav Sharma,null,Mechanical Keyboard,1,150.00,0.1,4
+ORD-1419,2024-09-05,Diya Sharma,mumbai,USB-C Hub,11,841.00,0%,2
+ORD-1420,2024-09-28,Pooja Sharma,Bengaluru ,Noise-Cancelling Headphones,7,85000.00,15%,4
+ORD-1421,2024-07-23, Aarav Verma,Bangalore,Noise-Cancelling Headphones,12,$813.00,0.15,5
+ORD-1422,2024-03-27,Pooja Reddy,New Delhi,Wireless Mouse,12,$208.00,0,3
+ORD-1423,2024-12-06,Arjun Iyer,Chennai,USB-C Hub,13,157.00,0.05,4
+ORD-1424,05-12-2024, Aarav Patel,Chennai,Monitor 4K,2,1198.00,0.1,4
+ORD-1425,2024-07-05,Priya  Verma,Bengaluru ,Wireless Mouse,-4,672.00,0.1,1
+ORD-1426,2024-09-14,Ananya Iyer,Bangalore,Noise-Cancelling Headphones,12,$796.00,0.05,1
+ORD-1427,2024-09-06,Vikram Patel,DELHI,Laptop Pro,11,994.00,5%,5
+ORD-1428,2024-06-14,Ananya Iyer,Chennai,USB-C Hub,3,$929.00,0,3
+ORD-1429,2024-12-13,Arjun Verma,Kolkata,Webcam HD,6,995.00,15%,1
+ORD-1430,2024-09-07,Diya Sharma,Chennai,Webcam HD,8,₹64560,20%,5
+ORD-1431,2024-10-20, Rohan  Reddy,Bengaluru ,Wireless Mouse,12,913.00,0.15,0
+ORD-1432,2024-02-02,Priya  Patel,delhi ,Webcam HD,15,$265.00,0,2
+ORD-1433,2024-10-14,Vikram Iyer,Mumbai,USB-C Hub,11,25.00,0.1,4
+ORD-1434,2024-11-06,Pooja Patel,New Delhi,Laptop Pro,14,$465.00,0.1,1
+ORD-1435,2024-07-14,Pooja Mehta,Kolkata,Mechanical Keyboard,4,169.00,5%,5
+ORD-1436,2024-06-10,Vikram Verma,delhi ,USB-C Hub,9,858.00,5%,1
+ORD-1437,2024-07-12, Aarav Verma,Mumbai,Monitor 4K,9,739.00,20%,2
+ORD-1438,2024-10-09,Pooja Iyer,Delhi,Noise-Cancelling Headphones,3,$317.00,0.05,4
+ORD-1439,2024-08-12,Pooja Sharma,MUMBAI,Monitor 4K,14,493.00,0.05,2
+ORD-1440,2024-10-21,Diya Reddy,Delhi,Mechanical Keyboard,3,1007.00,0%,Excellent
+ORD-1441,2024-12-31,Ananya Verma,Kolkata,Webcam HD,11,111.00,0%,5
+ORD-1442,2024-08-04, Aarav Iyer,Kolkata,Wireless Mouse,14,$266.00,0,3
+ORD-1443,2024-08-25,Priya  Verma,unknown,USB-C Hub,6,?,15%,2
+ORD-1444,2024-01-04,Pooja Iyer,Mumbai,USB-C Hub,13,₹46080,10%,2
+ORD-1445,2024-01-21,Arjun Mehta,null,Mechanical Keyboard,2,₹70960,0%,4
+ORD-1446,31/02/2024,Ananya Mehta,Delhi,Noise-Cancelling Headphones,10,41.00,0%,2
+ORD-1447,2024-05-14,Diya Verma,Chennai,Webcam HD,9,₹31680,0.15,2
+ORD-1448,01-10-2024,Vikram Sharma,MUMBAI,Monitor 4K,4,479.00,0.05,3
+ORD-1449,31/02/2024,Diya Sharma,mumbai,Wireless Mouse,10,231.00,10%,2
+ORD-1450,2024-10-28,Ananya Iyer,MUMBAI,Laptop Pro,12,271.00,0.1,5
+ORD-1451,2024-08-30,Arjun Sharma,New Delhi,Mechanical Keyboard,15,1172.00,0.05,5
+ORD-1452,2024-11-02,Priya  Mehta,Delhi,Webcam HD,14,₹67120,0.05,4
+ORD-1453,04/04/2024,Vikram Mehta,Bengaluru ,Noise-Cancelling Headphones,unknown,₹84480,0%,5
+ORD-1454,2024-11-23,Pooja Sharma,Delhi,Noise-Cancelling Headphones,4,1119.00,0.15,3
+ORD-1455,2024-11-09,Diya Iyer,-,Wireless Mouse,5,57.00,0.05,3
+ORD-1456,2024-08-14, Rohan  Verma,MUMBAI,Wireless Mouse,7,779.00,0,2
+ORD-1457,2024-06-07,Diya Reddy,delhi ,Wireless Mouse,15,849.00,0,1
+ORD-1458,03-08-2024, Rohan  Reddy,Kolkata,Monitor 4K,,₹19360,15%,2
+ORD-1459,2024-03-20,Ananya Sharma,Delhi,Webcam HD,2,"$1,072.00",0.05,3
+ORD-1460,2024-12-16,Diya Sharma,DELHI,Laptop Pro,5,756.00,5%,5
+ORD-1461,2024-12-13, Aarav Verma,Mumbai,USB-C Hub,8,₹62400,15%,2
+ORD-1462,2024-02-04,Pooja Verma,mumbai,Wireless Mouse,6,1037.00,20%,2
+ORD-1463,2024-09-11, Aarav Patel,delhi ,Monitor 4K,13,$474.00,10%,1
+ORD-1464,2024-07-03, Rohan  Sharma,DELHI,Webcam HD,15,$887.00,0.15,4
+ORD-1465,2024-07-09, Rohan  Verma,Bengaluru ,Webcam HD,3,?,0.1,5
+ORD-1466,2024-08-28,Priya  Mehta,Mumbai,Laptop Pro,1,?,0.05,5
+ORD-1467,2024-08-04,Priya  Reddy,DELHI,Noise-Cancelling Headphones,4,828.00,10%,4
+ORD-1468,2024-11-27,Ananya Mehta,mumbai,Laptop Pro,2,none,20%,2
+ORD-1469,16/10/2024,Pooja Reddy,Bangalore,Laptop Pro,5,42.00,20%,1
+ORD-1470,2024-02-21,Ananya Verma,Bangalore,Monitor 4K,3,335.00,0.1,2
+ORD-1471,2024-08-17, Rohan  Mehta,MUMBAI,Laptop Pro,7,$514.00,10%,1
+ORD-1472,2024-10-07,Priya  Patel,Bangalore,USB-C Hub,2,$598.00,0.05,4
+ORD-1473,2024-03-04,Arjun Mehta,MUMBAI,Webcam HD,8,₹62080,0,1
+ORD-1474,2024-05-05,Priya  Sharma,MUMBAI,Wireless Mouse,4,820.00,0.05,4
+ORD-1475,2024-07-24, Aarav Mehta,Chennai,Noise-Cancelling Headphones,1,1141.00,0.15,3
+ORD-1476,2024-04-19,Ananya Iyer,Mumbai,USB-C Hub,2,585.00,15%,1
+ORD-1477,2024-06-24,Ananya Sharma,Bangalore,Mechanical Keyboard,12,₹73520,10%,2
+ORD-1478,2024-01-08,Diya Sharma,delhi ,Webcam HD,9,32.00,0.05,4
+ORD-1479,2024-11-03,Priya  Reddy,Bengaluru ,Laptop Pro,5,653.00,10%,5
+ORD-1480,2024-02-28,Diya Sharma,DELHI,Monitor 4K,11,920.00,0.15,1
+ORD-1481,2024-02-23,Priya  Sharma,Bangalore,Monitor 4K,5,₹70880,15%,4
+ORD-1482,2024-01-04, Aarav Sharma,Kolkata,USB-C Hub,15,?,0.1,Excellent
+ORD-1483,2024-06-20,Pooja Mehta,MUMBAI,Wireless Mouse,1,₹72240,0.15,2
+ORD-1484,2024-11-17,Arjun Sharma,delhi ,Laptop Pro,,₹27040,0.1,4
+ORD-1485,2024-04-05,Diya Sharma,New Delhi,Noise-Cancelling Headphones,13,558.00,10%,1
+ORD-1486,2024-04-02,Pooja Iyer,MUMBAI,Laptop Pro,2,1021.00,5%,2
+ORD-1487,2024-12-03, Aarav Mehta,mumbai,Mechanical Keyboard,1,$349.00,0.05,Excellent
+ORD-1488,2024-04-20,Vikram Reddy,New Delhi,Laptop Pro,5,585.00,0.05,5
+ORD-1489,2024-05-08,Arjun Mehta,MUMBAI,Laptop Pro,5,364.00,15%,5
+ORD-1490,2024-08-07,Pooja Reddy,Bangalore,Wireless Mouse,5,864.00,10%,Excellent
+ORD-1491,2024-08-07,Ananya Mehta,mumbai,Wireless Mouse,6,47.00,0,2
+ORD-1492,2024-10-14,Priya  Reddy,delhi ,Monitor 4K,13,$916.00,5%,1
+ORD-1493,2024-11-03, Aarav Patel,Kolkata,Webcam HD,15,970.00,0.15,1
+ORD-1494,2024-06-03,Diya Sharma,mumbai,Mechanical Keyboard,12,955.00,10%,2
+ORD-1495,2024-12-18,Vikram Sharma,mumbai,Webcam HD,15,$132.00,5%,4
+ORD-1496,2024-03-11,Vikram Patel,Bengaluru ,Webcam HD,8,275.00,10%,1
+ORD-1497,2024-12-30,Priya  Sharma,Chennai,Webcam HD,8,148.00,0.1,5
+ORD-1498,2024-06-08,Arjun Verma,DELHI,Wireless Mouse,8,"$1,076.00",0.05,5
+ORD-1499,2024-08-24,Arjun Verma,DELHI,USB-C Hub,unknown,$745.00,15%,5
+ORD-1500,05-19-2024,Ananya Sharma,MUMBAI,Wireless Mouse,10,590.00,0.05,1
+ORD-1501,2024-02-03,Vikram Iyer,MUMBAI,Mechanical Keyboard,14,$574.00,20%,1
+ORD-1502,2024-09-01,Vikram Sharma,Kolkata,Laptop Pro,8,₹25200,0.15,1
+ORD-1503,25/10/2024,Diya Sharma,Bangalore,Laptop Pro,-3,$492.00,10%,4
+ORD-1504,2024-10-06,Arjun Verma,-,USB-C Hub,13,₹81280,20%,4
+ORD-1505,2024-12-22,Vikram Iyer,MUMBAI,Noise-Cancelling Headphones,11,1140.00,10%,5
+ORD-1506,2024-06-07,Priya  Iyer,delhi ,Mechanical Keyboard,13,735.00,0.05,5
+ORD-1507,06-04-2024, Aarav Sharma,Bangalore,Laptop Pro,2,-,0.05,3
+ORD-1508,2024-02-14,Diya Patel,delhi ,USB-C Hub,6,534.00,0.1,2
+ORD-1509,2024-10-23, Rohan  Mehta,New Delhi,USB-C Hub,15,969.00,15%,3
+ORD-1510,2024-08-26,Vikram Sharma,MUMBAI,Laptop Pro,5,521.00,0.15,4
+ORD-1511,09-22-2024, Aarav Iyer,Kolkata,Laptop Pro,5,"$1,183.00",5%,4
+ORD-1512,2024-06-03, Aarav Mehta,Bengaluru ,Noise-Cancelling Headphones,3,$272.00,15%,1
+ORD-1513,2024-04-04, Rohan  Mehta,Kolkata,Mechanical Keyboard,7,324.00,10%,4
+ORD-1514,2024-12-07,Arjun Sharma,MUMBAI,Noise-Cancelling Headphones,14,$895.00,10%,5
+ORD-1515,2024-03-12,Pooja Reddy,mumbai,Monitor 4K,6,1100.00,0.1,3
+ORD-1516,2024-07-20,Arjun Sharma,Bengaluru ,Noise-Cancelling Headphones,9,1101.00,0%,2
+ORD-1517,2024-09-12,Vikram Sharma,Chennai,Webcam HD,3,$811.00,0,4
+ORD-1518,2024-03-30,Ananya Sharma,Bengaluru ,Monitor 4K,8,610.00,5%,1
+ORD-1519,2024-01-03,Pooja Patel,DELHI,Noise-Cancelling Headphones,11,1106.00,0.15,2
+ORD-1520,2024-08-06,Vikram Reddy,bengaluru,USB-C Hub,1,1132.00,0,2
+ORD-1521,2024-09-30,Arjun Patel,MUMBAI,Monitor 4K,2,₹79120,20%,1
+ORD-1522,2024-06-17,Diya Mehta,delhi ,Webcam HD,12,97.00,15%,1
+ORD-1523,2024-09-16,Priya  Sharma,New Delhi,Laptop Pro,13,426.00,15%,2
+ORD-1524,2024-10-08, Aarav Sharma,mumbai,USB-C Hub,1,$512.00,5%,1
+ORD-1525,08-12-2024,Ananya Reddy,Kolkata,Wireless Mouse,7,"$1,005.00",10%,2
+ORD-1526,2024-07-06,Ananya Verma,Mumbai,USB-C Hub,1,₹58720,0.05,3
+ORD-1527,2024-03-03,Arjun Patel,Chennai,Mechanical Keyboard,2,$68.00,0.15,3
+ORD-1528,10/09/2024,Pooja Sharma,Bangalore,Laptop Pro,11,$907.00,0.1,3
+ORD-1529,10-29-2024,Vikram Mehta,Bengaluru ,Mechanical Keyboard,15,141.00,0.1,5
+ORD-1530,2024-03-24,Vikram Patel,Delhi,USB-C Hub,2,₹42880,10%,5
+ORD-1531,2024-10-18, Aarav Mehta,Delhi,Mechanical Keyboard,,$759.00,0,5
+ORD-1532,2024-08-13,Priya  Mehta,DELHI,Wireless Mouse,10,$126.00,10%,2
+ORD-1533,11/05/2024,Pooja Mehta,mumbai,Monitor 4K,6,₹19840,15%,4
+ORD-1534,2024-05-24, Aarav Sharma,MUMBAI,Noise-Cancelling Headphones,5,88.00,0.1,5
+ORD-1535,2024-04-20,Diya Mehta,Kolkata,Laptop Pro,4,1182.00,0.1,5
+ORD-1536,2024-05-17,Diya Patel,mumbai,Wireless Mouse,2,₹41440,0.05,4
+ORD-1537,2024-10-18, Rohan  Mehta,MUMBAI,Noise-Cancelling Headphones,5,612.00,0.15,2
+ORD-1538,2024-01-08,Arjun Reddy,Bangalore,Noise-Cancelling Headphones,14,$908.00,10%,5
+ORD-1539,2024-03-01,Priya  Iyer,delhi ,Noise-Cancelling Headphones,6,944.00,0,5
+ORD-1540,2024-03-18,Pooja Sharma,MUMBAI,USB-C Hub,10,$597.00,0.15,5
+ORD-1541,2024-05-26,Vikram Reddy,Chennai,Noise-Cancelling Headphones,10,$668.00,0.1,3
+ORD-1542,2024-11-06, Aarav Patel,New Delhi,Monitor 4K,1,₹8480,15%,5
+ORD-1543,2024-09-23,Pooja Sharma,delhi ,Mechanical Keyboard,2,$305.00,20%,1
+ORD-1544,2024-06-20, Aarav Iyer,Chennai,Noise-Cancelling Headphones,7,230.00,5%,5
+ORD-1545,2024-12-10,Diya Reddy,Bangalore,USB-C Hub,2,"$1,082.00",10%,2
+ORD-1546,2024-11-10,Priya  Patel,Kolkata,Wireless Mouse,15,623.00,15%,3
+ORD-1547,2024-06-15, Aarav Patel,Kolkata,Laptop Pro,3,1015.00,10%,4
+ORD-1548,2024-05-13,Ananya Iyer,Mumbai,Laptop Pro,6,₹9440,20%,5
+ORD-1549,03/10/2024,Ananya Verma,MUMBAI,Laptop Pro,6,"$1,157.00",5%,2
+ORD-1550,2024-07-10,Vikram Sharma,Delhi,Webcam HD,NA,"$1,052.00",0%,2
+ORD-1551,2024-07-12,Diya Iyer,delhi ,Laptop Pro,13,875.00,0.1,5
+ORD-1552,08-05-2024,Priya  Patel,New Delhi,Laptop Pro,8,796.00,15%,2
+ORD-1553,2024-07-20,Diya Sharma,Bengaluru ,Laptop Pro,6,1001.00,0,4
+ORD-1554,2024-03-13, Aarav Patel,New Delhi,Laptop Pro,5,716.00,0.1,4
+ORD-1555,2024-11-29,Diya Verma,Chennai,Noise-Cancelling Headphones,12,$183.00,15%,1
+ORD-1556,2024-09-10,Pooja Mehta,bengaluru,Mechanical Keyboard,7,$627.00,20%,2
+ORD-1557,2024-12-16, Rohan  Verma,Mumbai,Mechanical Keyboard,15,302.00,5%,1
+ORD-1558,2024-04-12,Vikram Patel,Bangalore,Monitor 4K,9,null,0.1,5
+ORD-1559,2024-11-15,Arjun Patel,New Delhi,Laptop Pro,4,$598.00,20%,5
+ORD-1560,31/02/2024, Aarav Verma,New Delhi,Laptop Pro,3,NA,20%,4
+ORD-1561,2024-03-01,Arjun Mehta,mumbai,USB-C Hub,2,463.00,0.15,3
+ORD-1562,11-29-2024,Pooja Verma,Bangalore,Webcam HD,4,"$1,171.00",20%,2
+ORD-1563,09/04/2024,Vikram Patel,delhi ,USB-C Hub,1,₹46720,0.15,1
+ORD-1564,2024-11-07,Diya Sharma,bengaluru,Webcam HD,10,₹27040,20%,3
+ORD-1565,2024-05-22, Aarav Sharma,-,Noise-Cancelling Headphones,12,775.00,0,2
+ORD-1566,2024-03-29,Diya Mehta,DELHI,Noise-Cancelling Headphones,1,662.00,0%,1
+ORD-1567,2024-04-05, Rohan  Patel,Delhi,Wireless Mouse,15,530.00,20%,2
+ORD-1568,2024-06-10, Rohan  Sharma,Mumbai,USB-C Hub,8,752.00,0.05,2
+ORD-1569,2024-12-25,Priya  Patel,mumbai,Noise-Cancelling Headphones,12,$575.00,15%,2
+ORD-1570,2024-10-27, Rohan  Patel,mumbai,Noise-Cancelling Headphones,15,41.00,0.15,2
+ORD-1571,2024-11-11,Diya Reddy,New Delhi,USB-C Hub,8,846.00,0%,5
+ORD-1572,2024-03-24,Diya Patel,bengaluru,Wireless Mouse,3,$291.00,5%,3
+ORD-1573,23/08/2024,Pooja Sharma,DELHI,USB-C Hub,14,$441.00,0.15,4
+ORD-1574,2024-12-23,Arjun Mehta,New Delhi,Webcam HD,6,$298.00,0,4
+ORD-1575,2024-04-23,Ananya Patel,bengaluru,Webcam HD,?,$183.00,10%,2
+ORD-1576,2024-06-08,Arjun Sharma,MUMBAI,Wireless Mouse,14,₹19360,15%,5
+ORD-1577,2024-01-06,Pooja Sharma,Mumbai,Mechanical Keyboard,10,947.00,0,5
+ORD-1578,17/03/2024,Priya  Reddy,Chennai,Monitor 4K,10,$956.00,10%,3
+ORD-1579,2024-12-11,Arjun Verma,mumbai,Mechanical Keyboard,-,₹50720,0.15,2
+ORD-1580,2024-08-08,Diya Reddy,Chennai,Webcam HD,2,693.00,0.1,3
+ORD-1581,2024-08-04,Ananya Iyer,Chennai,Laptop Pro,2,417.00,15%,4
+ORD-1582,2024-05-20, Rohan  Patel,Bengaluru ,Mechanical Keyboard,5,?,5%,3
+ORD-1583,2024-01-10,Pooja Patel,Bengaluru ,Webcam HD,10,698.00,5%,4
+ORD-1584,2024-12-10,Priya  Iyer,delhi ,Noise-Cancelling Headphones,2,450.00,10%,5
+ORD-1585,2024-10-16,Ananya Verma,bengaluru,Noise-Cancelling Headphones,15,₹90000,0.15,2
+ORD-1586,2024-10-08,Arjun Reddy,mumbai,Webcam HD,15,$675.00,5%,4
+ORD-1587,2024-07-23, Rohan  Mehta,DELHI,Noise-Cancelling Headphones,11,881.00,0.15,5
+ORD-1588,2024-01-12,Ananya Verma,delhi ,USB-C Hub,?,1155.00,10%,2
+ORD-1589,2024-02-03, Rohan  Verma,Bengaluru ,Mechanical Keyboard,8,1049.00,0.15,1
+ORD-1590,2024-09-23,Arjun Iyer,Mumbai,Noise-Cancelling Headphones,10,₹89440,0.15,5
+ORD-1591,2024-08-07,Priya  Verma,Bengaluru ,Webcam HD,6,$870.00,15%,1
+ORD-1592,2024-05-05,Pooja Mehta,Bangalore,Noise-Cancelling Headphones,1,$311.00,0.1,2
+ORD-1593,2024-08-31,Vikram Patel,DELHI,Wireless Mouse,5,491.00,20%,5
+ORD-1594,2024-03-28,Diya Patel,bengaluru,USB-C Hub,11,371.00,0%,2
+ORD-1595,2024-11-28,Diya Patel,Delhi,Webcam HD,13,₹87840,0,5
+ORD-1596,2024-01-29,Vikram Sharma,DELHI,Noise-Cancelling Headphones,4,$959.00,0.05,1
+ORD-1597,2024-09-24,Priya  Verma,Bangalore,Mechanical Keyboard,1,678.00,20%,5
+ORD-1598,2024-01-05, Rohan  Patel,Kolkata,Wireless Mouse,13,₹76720,20%,3
+ORD-1599,2024-05-07,Arjun Iyer,delhi ,Webcam HD,6,"$1,068.00",20%,4
+ORD-1600,2024-04-03,Ananya Reddy,Mumbai,USB-C Hub,11,639.00,0.1,5
+ORD-1601,2024-09-21,Pooja Reddy,Mumbai,Wireless Mouse,14,646.00,15%,4
+ORD-1602,2024-01-29,Pooja Mehta,Mumbai,Laptop Pro,11,549.00,0.15,2
+ORD-1603,2024-05-20,Arjun Sharma,Chennai,Monitor 4K,1,₹65840,0.15,3
+ORD-1604,2024-05-25,Vikram Mehta,Chennai,Mechanical Keyboard,10,637.00,0%,1
+ORD-1605,2024-12-24,Vikram Mehta,Bangalore,Noise-Cancelling Headphones,8,491.00,0.15,1
+ORD-1606,2024-07-21,Vikram Mehta,bengaluru,USB-C Hub,?,90.00,0,1
+ORD-1607,2024-09-29, Rohan  Iyer,Bangalore,Monitor 4K,2,907.00,20%,5
+ORD-1608,2024-12-20,Pooja Mehta,Mumbai,Laptop Pro,1,486.00,0.05,5
+ORD-1609,2024-04-06, Rohan  Reddy,,Webcam HD,2,₹55600,0,2
+ORD-1610,2024-03-11,Arjun Mehta,Delhi,Mechanical Keyboard,4,$804.00,0,2
+ORD-1611,2024-03-24,Priya  Sharma,Chennai,USB-C Hub,2,"$1,063.00",0.15,Excellent
+ORD-1612,2024-02-21,Pooja Sharma,Kolkata,USB-C Hub,11,none,20%,5
+ORD-1613,2024-03-20, Rohan  Iyer,New Delhi,Webcam HD,10,$874.00,0,3
+ORD-1614,24/03/2024,Priya  Sharma,MUMBAI,Noise-Cancelling Headphones,10,,15%,4
+ORD-1615,2024-11-02, Aarav Patel,New Delhi,Laptop Pro,8,₹78080,20%,3
+ORD-1616,2024-07-06,Arjun Patel,Bengaluru ,Wireless Mouse,13,$317.00,10%,2
+ORD-1617,2024-06-17,Arjun Iyer,Mumbai,Webcam HD,6,$322.00,0%,2
+ORD-1618,2024-05-01,Diya Iyer,mumbai,Wireless Mouse,10,855.00,5%,3
+ORD-1619,2024-05-10, Rohan  Sharma,delhi ,Noise-Cancelling Headphones,5,$154.00,10%,1
+ORD-1620,2024-03-05, Aarav Verma,delhi ,Webcam HD,14,"$1,071.00",0,5
+ORD-1621,2024-09-29,Arjun Verma,mumbai,Wireless Mouse,11,$488.00,20%,4
+ORD-1622,2024-08-03,Arjun Verma,Delhi,Laptop Pro,5,₹36160,5%,2
+ORD-1623,2024-11-26,Pooja Sharma,New Delhi,USB-C Hub,12,$335.00,20%,5
+ORD-1624,2024-08-29,Vikram Sharma,Bengaluru ,Mechanical Keyboard,13,$724.00,0.15,2
+ORD-1625,2024-05-29,Vikram Iyer,Bengaluru ,Webcam HD,11,1037.00,10%,5
+ORD-1626,2024-07-01,Arjun Sharma,Bangalore,Wireless Mouse,2,1024.00,0,1
+ORD-1627,2024-05-02,Arjun Iyer,MUMBAI,Noise-Cancelling Headphones,13,926.00,10%,2
+ORD-1628,2024-02-20,Vikram Verma,Mumbai,USB-C Hub,4,591.00,0.15,5
+ORD-1629,2024-06-27,Pooja Mehta,mumbai,Monitor 4K,4,673.00,15%,4
+ORD-1630,2024-06-28, Rohan  Reddy,DELHI,USB-C Hub,null,660.00,20%,1
+ORD-1631,2024-12-05, Aarav Verma,MUMBAI,Wireless Mouse,12,₹50080,5%,3
+ORD-1632,2024-12-21,Ananya Reddy,New Delhi,Wireless Mouse,null,67.00,0.15,4
+ORD-1633,2024-05-13,Ananya Mehta,mumbai,USB-C Hub,6,"$1,131.00",0.1,5
+ORD-1634,2024-02-23, Rohan  Sharma,Kolkata,Monitor 4K,5,₹10640,0.15,1
+ORD-1635,2024-12-27,Arjun Verma,Bengaluru ,USB-C Hub,12,"$1,030.00",20%,3
+ORD-1636,2024-09-17,Diya Mehta,mumbai,Webcam HD,,$758.00,20%,2
+ORD-1637,04-01-2024,Priya  Verma,Chennai,Laptop Pro,7,1200.00,15%,3
+ORD-1638,2024-05-09, Aarav Iyer,Kolkata,Noise-Cancelling Headphones,2,"$1,097.00",10%,5
+ORD-1639,2024-07-15,Pooja Mehta,delhi ,Wireless Mouse,3,1121.00,0.15,2
+ORD-1640,2024-01-16,Diya Reddy,delhi ,Webcam HD,2,$739.00,0.15,5
+ORD-1641,2024-12-03,Priya  Iyer,bengaluru,Laptop Pro,4,1030.00,0,1
+ORD-1642,2024-12-05,Arjun Reddy,bengaluru,Mechanical Keyboard,5,$681.00,10%,1
+ORD-1643,2024-10-14, Rohan  Iyer,Mumbai,Webcam HD,14,110.00,10%,1
+ORD-1644,2024-07-16,Priya  Verma,MUMBAI,Noise-Cancelling Headphones,9,$784.00,0.15,1
+ORD-1645,2024-04-15,Arjun Sharma,Chennai,Laptop Pro,-2,702.00,0.15,5
+ORD-1646,2024-12-14,Priya  Patel,Kolkata,Noise-Cancelling Headphones,1,₹70080,15%,4
+ORD-1647,2024-03-06,Vikram Patel,Bangalore,Laptop Pro,12,₹44000,5%,1
+ORD-1648,2024-02-14,Pooja Reddy,Bangalore,Mechanical Keyboard,14,₹65520,0.05,1
+ORD-1649,04-17-2024,Arjun Verma,N/A,USB-C Hub,3,$742.00,5%,2
+ORD-1650,2024-06-20, Aarav Mehta,New Delhi,Monitor 4K,3,1145.00,5%,3
+ORD-1651,02-23-2024,Priya  Mehta,,Webcam HD,14,₹38720,5%,5
+ORD-1652,2024-12-15,Vikram Verma,Bangalore,Wireless Mouse,4,320.00,15%,3
+ORD-1653,2024-07-29,Pooja Patel,Kolkata,USB-C Hub,15,880.00,5%,5
+ORD-1654,2024-12-30,Priya  Patel,Bengaluru ,USB-C Hub,13,861.00,5%,5
+ORD-1655,2024-04-21, Rohan  Iyer,MUMBAI,Wireless Mouse,4,815.00,10%,2
+ORD-1656,2024-08-27, Aarav Sharma,Bengaluru ,Webcam HD,15,$97.00,5%,3
+ORD-1657,04-19-2024, Rohan  Verma,mumbai,Monitor 4K,6,383.00,20%,5
+ORD-1658,2024-10-09, Rohan  Sharma,New Delhi,Laptop Pro,8,223.00,0.05,3
+ORD-1659,2024-08-17,Ananya Iyer,mumbai,Laptop Pro,3,$639.00,15%,1
+ORD-1660,2024-01-09,Ananya Iyer,Mumbai,Wireless Mouse,15,$73.00,10%,4
+ORD-1661,12-02-2024, Aarav Iyer,DELHI,Webcam HD,12,1199.00,20%,3
+ORD-1662,2024-08-05,Diya Sharma,bengaluru,Wireless Mouse,15,946.00,5%,1
+ORD-1663,2024-07-10,Pooja Iyer,delhi ,Laptop Pro,6,169.00,0%,2
+ORD-1664,31/02/2024, Rohan  Reddy,New Delhi,Wireless Mouse,6,1109.00,20%,1
+ORD-1665,2024-01-04,Vikram Mehta,Bengaluru ,Wireless Mouse,2,₹32800,10%,2
+ORD-1666,2024-05-03,Priya  Sharma,DELHI,Laptop Pro,15,$148.00,0.1,3
+ORD-1667,2024-12-23,Ananya Mehta,mumbai,Mechanical Keyboard,6,1048.00,15%,4
+ORD-1668,2024-06-15, Rohan  Reddy,Bangalore,Mechanical Keyboard,7,884.00,5%,2
+ORD-1669,2024-04-21,Arjun Verma,Delhi,Mechanical Keyboard,14,1150.00,0,3
+ORD-1670,2024-06-14, Rohan  Mehta,Bangalore,Webcam HD,5,349.00,15%,2
+ORD-1671,02/02/2024,Pooja Mehta,New Delhi,Wireless Mouse,15,₹53200,0.05,2
+ORD-1672,2024-12-28,Vikram Sharma,Bangalore,Laptop Pro,7,328.00,0.1,3
+ORD-1673,31/02/2024,Ananya Mehta,Bengaluru ,Mechanical Keyboard,6,1017.00,0.05,1
+ORD-1674,2024-09-25,Priya  Verma,Delhi,USB-C Hub,1,$84.00,0.1,2
+ORD-1675,2024-02-25,Arjun Mehta,Mumbai,Wireless Mouse,1,₹22240,10%,Excellent
+ORD-1676,2024-07-21, Rohan  Verma,mumbai,Monitor 4K,9,139.00,10%,2
+ORD-1677,2024-07-01, Rohan  Sharma,bengaluru,Laptop Pro,7,$342.00,20%,2
+ORD-1678,2024-01-13, Aarav Mehta,New Delhi,Webcam HD,14,306.00,0,4
+ORD-1679,2024-04-12,Vikram Patel,NA,Monitor 4K,14,$361.00,0.1,2
+ORD-1680,2024-06-20,Arjun Sharma,Bangalore,Laptop Pro,11,"$1,073.00",0.1,2
+ORD-1681,2024-12-19,Ananya Verma,Delhi,Noise-Cancelling Headphones,15,,0.15,4
+ORD-1682,2024-07-19, Aarav Patel,Mumbai,Webcam HD,4,184.00,0.05,4
+ORD-1683,2024-02-19,Ananya Sharma,mumbai,Laptop Pro,5,$96.00,0.15,1
+ORD-1684,30/03/2024, Rohan  Verma,New Delhi,Mechanical Keyboard,9,584.00,15%,1
+ORD-1685,2024-08-26,Ananya Verma,delhi ,Webcam HD,12,1006.00,0.15,1
+ORD-1686,2024-10-13, Rohan  Patel,Delhi,USB-C Hub,8,992.00,0.1,2
+ORD-1687,2024-08-27,Priya  Reddy,Bangalore,Noise-Cancelling Headphones,7,202.00,0.1,2
+ORD-1688,2024-09-16,Arjun Sharma,Kolkata,Webcam HD,10,310.00,0%,5
+ORD-1689,2024-05-10,Pooja Iyer,Chennai,Webcam HD,12,789.00,15%,1
+ORD-1690,2024-03-20,Diya Verma,NA,Mechanical Keyboard,5,$520.00,0%,Excellent
+ORD-1691,2024-04-16,Priya  Iyer,delhi ,Mechanical Keyboard,1,639.00,0.15,4
+ORD-1692,2024-06-12,Priya  Sharma,bengaluru,Webcam HD,10,743.00,0%,1
+ORD-1693,2024-08-20, Aarav Mehta,mumbai,USB-C Hub,8,468.00,20%,4
+ORD-1694,2024-07-17, Rohan  Sharma,delhi ,Noise-Cancelling Headphones,8,625.00,5%,1
+ORD-1695,11/07/2024, Rohan  Verma,mumbai,Webcam HD,4,$935.00,0.15,5
+ORD-1696,2024-09-11,Vikram Iyer,Chennai,USB-C Hub,8,₹7440,0.05,2
+ORD-1697,02/03/2024,Arjun Sharma,DELHI,Noise-Cancelling Headphones,9,789.00,15%,2
+ORD-1698,31/02/2024,Priya  Reddy,Mumbai,Monitor 4K,13,₹24400,0,4
+ORD-1699,2024-03-15,Vikram Reddy,Bangalore,Monitor 4K,3,530.00,0,3
+ORD-1700,2024-04-08,Vikram Reddy,New Delhi,Noise-Cancelling Headphones,13,₹85440,20%,1
+ORD-1701,2024-02-13,Priya  Mehta,none,Mechanical Keyboard,15,724.00,0.05,5
+ORD-1702,2024-08-28,Pooja Verma,Bengaluru ,Noise-Cancelling Headphones,15,$580.00,10%,3
+ORD-1703,2024-09-22,Ananya Reddy,New Delhi,Webcam HD,13,629.00,0.05,3
+ORD-1704,2024-11-02,Diya Patel,Bangalore,USB-C Hub,5,"$1,188.00",0,5
+ORD-1705,2024-02-04,Diya Reddy,bengaluru,Monitor 4K,7,432.00,10%,2
+ORD-1706,28/01/2024,Pooja Mehta,delhi ,Monitor 4K,2,₹71280,20%,2
+ORD-1707,2024-11-05, Aarav Verma,DELHI,Laptop Pro,4,$376.00,0,3
+ORD-1708,2024-02-18,Diya Sharma,DELHI,Wireless Mouse,-3,₹73280,0.15,2
+ORD-1709,11-10-2024,Ananya Patel,New Delhi,Noise-Cancelling Headphones,9,726.00,15%,4
+ORD-1710,2024-04-16,Arjun Mehta,New Delhi,Mechanical Keyboard,1,1178.00,15%,4
+ORD-1711,2024-08-05,Pooja Sharma,Mumbai,Mechanical Keyboard,10,1084.00,20%,2
+ORD-1712,2024-01-26,Diya Mehta,DELHI,Webcam HD,3,$494.00,15%,2
+ORD-1713,2024-08-04, Rohan  Verma,Chennai,Laptop Pro,14,391.00,5%,1
+ORD-1714,05-19-2024,Priya  Verma,Delhi,Mechanical Keyboard,3,295.00,20%,2
+ORD-1715,31/02/2024,Arjun Patel,Bangalore,Noise-Cancelling Headphones,12,852.00,0.05,5
+ORD-1716,2024-01-19, Rohan  Reddy,Bengaluru ,Mechanical Keyboard,1,$669.00,0.1,2
+ORD-1717,07-21-2024, Rohan  Iyer,Bangalore,USB-C Hub,8,₹62800,15%,1
+ORD-1718,11-30-2024, Aarav Sharma,bengaluru,Monitor 4K,14,1006.00,20%,3
+ORD-1719,2024-04-21,Arjun Mehta,Bengaluru ,Mechanical Keyboard,6,129.00,0.05,5
+ORD-1720,2024-07-12, Aarav Verma,DELHI,Wireless Mouse,10,$811.00,0.05,4
+ORD-1721,2024-08-06,Priya  Sharma,NA,Wireless Mouse,8,$160.00,0.1,3
+ORD-1722,2024-08-28, Aarav Reddy,Chennai,USB-C Hub,3,₹87200,15%,5
+ORD-1723,2024-01-27,Pooja Reddy,DELHI,Monitor 4K,15,$534.00,5%,3
+ORD-1724,2024-03-24,Priya  Reddy,Delhi,Mechanical Keyboard,7,994.00,5%,2
+ORD-1725,2024-05-26, Rohan  Sharma,Bengaluru ,Mechanical Keyboard,2,42.00,5%,Excellent
+ORD-1726,2024-05-29, Aarav Verma,mumbai,Noise-Cancelling Headphones,15,659.00,20%,4
+ORD-1727,2024-05-29,Pooja Iyer,delhi ,Mechanical Keyboard,11,₹86320,20%,4
+ORD-1728,2024-06-05,Diya Sharma,New Delhi,Webcam HD,6,$456.00,0.05,1
+ORD-1729,2024-03-17, Aarav Patel,New Delhi,Noise-Cancelling Headphones,15,1155.00,10%,1
+ORD-1730,2024-07-18, Rohan  Sharma,Chennai,Webcam HD,6,889.00,15%,3
+ORD-1731,2024-06-20, Aarav Sharma,Mumbai,Wireless Mouse,13,43.00,5%,5
+ORD-1732,2024-06-19,Vikram Mehta,MUMBAI,Monitor 4K,10,427.00,15%,3
+ORD-1733,2024-10-28,Ananya Iyer,Bangalore,Monitor 4K,14,₹38480,5%,3
+ORD-1734,2024-01-21, Aarav Reddy,,Laptop Pro,14,none,0%,5
+ORD-1735,2024-04-30,Vikram Verma,Kolkata,Wireless Mouse,?,₹15040,15%,4
+ORD-1736,2024-04-14,Diya Patel,bengaluru,Noise-Cancelling Headphones,3,null,20%,4
+ORD-1737,2024-09-30,Diya Sharma,delhi ,USB-C Hub,7,$412.00,0.05,5
+ORD-1738,2024-09-02,Diya Iyer,MUMBAI,Webcam HD,9,849.00,0.15,4
+ORD-1739,2024-07-17,Diya Verma,null,Laptop Pro,-3,718.00,0.05,5
+ORD-1740,2024-08-30,Diya Sharma,Bengaluru ,Webcam HD,6,$528.00,0.15,2
+ORD-1741,2024-03-19,Diya Verma,mumbai,Laptop Pro,7,$71.00,0%,1
+ORD-1742,2024-05-15,Vikram Mehta,Bengaluru ,Webcam HD,5,"$1,151.00",0,4
+ORD-1743,2024-06-08,Diya Patel,Delhi,Wireless Mouse,10,33.00,5%,2
+ORD-1744,2024-04-04,Ananya Reddy,Delhi,Mechanical Keyboard,3,1068.00,0.15,2
+ORD-1745,2024-04-08,Diya Reddy,MUMBAI,Monitor 4K,14,₹22400,0,2
+ORD-1746,2024-12-09, Aarav Reddy,Delhi,Noise-Cancelling Headphones,4,591.00,0%,2
+ORD-1747,2024-07-07,Priya  Reddy,Bangalore,Noise-Cancelling Headphones,4,822.00,15%,3
+ORD-1748,2024-03-22,Diya Mehta,Mumbai,Wireless Mouse,3,$605.00,10%,2
+ORD-1749,2024-09-01,Vikram Iyer,DELHI,Laptop Pro,7,₹37840,20%,1
+ORD-1750,06-07-2024,Priya  Mehta,delhi ,Wireless Mouse,4,1163.00,0.1,Excellent
+ORD-1751,2024-12-19,Arjun Iyer,DELHI,Laptop Pro,7,$539.00,15%,5
+ORD-1752,2024-08-29, Rohan  Verma,mumbai,Mechanical Keyboard,8,₹39280,0%,4
+ORD-1753,2024-02-22,Priya  Verma,Chennai,Wireless Mouse,5,48.00,10%,5
+ORD-1754,2024-11-02,Pooja Sharma,Chennai,USB-C Hub,12,38.00,15%,5
+ORD-1755,2024-12-22, Aarav Iyer,Delhi,Noise-Cancelling Headphones,1,$588.00,15%,2
+ORD-1756,2024-02-01, Rohan  Reddy,Chennai,Wireless Mouse,13,638.00,0.15,1
+ORD-1757,2024-02-25,Pooja Reddy,MUMBAI,Wireless Mouse,12,1090.00,0.05,5
+ORD-1758,2024-08-17,Diya Mehta,Mumbai,Monitor 4K,13,66.00,20%,1
+ORD-1759,2024-02-27,Diya Verma,DELHI,Laptop Pro,4,283.00,0.1,5
+ORD-1760,2024-05-13,Diya Iyer,New Delhi,Wireless Mouse,11,$208.00,0.1,3
+ORD-1761,16/01/2024,Diya Sharma,,Webcam HD,13,87.00,20%,1
+ORD-1762,2024-11-27,Vikram Patel,Chennai,Wireless Mouse,11,$260.00,0.15,2
+ORD-1763,2024-05-27, Aarav Sharma,Mumbai,Monitor 4K,7,$985.00,10%,4
+ORD-1764,2024-02-15, Rohan  Mehta,Bengaluru ,Laptop Pro,5,1072.00,0,1
+ORD-1765,2024-07-27, Aarav Sharma,Bengaluru ,USB-C Hub,-5,"$1,101.00",20%,5
+ORD-1766,2024-09-27,Diya Reddy,Kolkata,Wireless Mouse,15,534.00,15%,1
+ORD-1767,2024-11-12,Arjun Verma,Kolkata,Noise-Cancelling Headphones,1,$522.00,0%,3
+ORD-1768,2024-07-18, Rohan  Patel,mumbai,Webcam HD,3,850.00,0.15,1
+ORD-1769,2024-07-12,Vikram Patel,bengaluru,Monitor 4K,4,₹19840,0,5
+ORD-1770,12-10-2024,Vikram Mehta,Delhi,Webcam HD,4,$452.00,0.05,4
+ORD-1771,2024-02-22,Arjun Iyer,delhi ,Monitor 4K,4,$212.00,0,4
+ORD-1772,2024-02-12, Rohan  Verma,mumbai,Mechanical Keyboard,14,₹68640,0.1,1
+ORD-1773,2024-07-31,Arjun Sharma,New Delhi,Noise-Cancelling Headphones,12,₹83440,10%,4
+ORD-1774,03-09-2024, Aarav Mehta,delhi ,Webcam HD,5,247.00,5%,2
+ORD-1775,2024-04-20,Arjun Iyer,mumbai,USB-C Hub,15,$99.00,0.1,1
+ORD-1776,2024-05-01,Ananya Sharma,Delhi,Monitor 4K,3,,20%,4
+ORD-1777,2024-02-15,Arjun Mehta,delhi ,USB-C Hub,3,$472.00,15%,1
+ORD-1778,2024-08-05,Priya  Verma,bengaluru,Webcam HD,1,$262.00,0.05,5
+ORD-1779,27/07/2024,Pooja Mehta,mumbai,Monitor 4K,11,₹62640,5%,3
+ORD-1780,2024-01-09,Vikram Mehta,MUMBAI,Webcam HD,11,886.00,20%,4
+ORD-1781,2024-05-31,Ananya Verma,Bengaluru ,Wireless Mouse,5,68.00,5%,2
+ORD-1782,2024-08-08, Rohan  Iyer,Chennai,Laptop Pro,7,266.00,0.05,2
+ORD-1783,2024-06-15,Diya Verma,bengaluru,Wireless Mouse,1,608.00,20%,4
+ORD-1784,2024-03-16,Priya  Reddy,Kolkata,USB-C Hub,10,₹63920,0.1,2
+ORD-1785,2024-10-19, Rohan  Reddy,Mumbai,Mechanical Keyboard,13,661.00,0.15,0
+ORD-1786,2024-11-03,Diya Reddy,MUMBAI,Monitor 4K,4,$710.00,20%,3
+ORD-1787,2024-02-07,Vikram Sharma,Kolkata,Monitor 4K,8,867.00,5%,5
+ORD-1788,2024-01-30,Priya  Reddy,MUMBAI,Noise-Cancelling Headphones,1,1162.00,0,5
+ORD-1789,14/05/2024,Pooja Patel,Kolkata,Monitor 4K,4,$440.00,0.15,3
+ORD-1790,2024-02-25,Pooja Verma,DELHI,Noise-Cancelling Headphones,1,$802.00,5%,3
+ORD-1791,2024-04-21, Aarav Sharma,Bengaluru ,Laptop Pro,10,$686.00,5%,1
+ORD-1792,2024-12-15,Priya  Mehta,DELHI,Mechanical Keyboard,9,373.00,15%,2
+ORD-1793,2024-03-28, Rohan  Mehta,Kolkata,Monitor 4K,14,499.00,20%,1
+ORD-1794,08-18-2024,Ananya Reddy,Bengaluru ,Monitor 4K,11,268.00,0%,1
+ORD-1795,07-11-2024,Pooja Mehta,DELHI,Wireless Mouse,3,₹16080,5%,3
+ORD-1796,2024-02-07,Vikram Mehta,DELHI,USB-C Hub,13,₹8400,0,2
+ORD-1797,2024-06-18,Pooja Iyer,bengaluru,Mechanical Keyboard,12,$538.00,0.1,1
+ORD-1798,2024-06-26, Rohan  Sharma,Delhi,Noise-Cancelling Headphones,15,391.00,0,4
+ORD-1799,2024-11-17,Ananya Reddy,bengaluru,Wireless Mouse,7,₹84800,20%,5
+ORD-1800,2024-01-01,Priya  Mehta,Delhi,Noise-Cancelling Headphones,15,763.00,20%,2
+ORD-1801,2024-03-31,Ananya Iyer,bengaluru,Mechanical Keyboard,3,$747.00,0.15,5
+ORD-1802,2024-04-23, Rohan  Patel,delhi ,USB-C Hub,11,696.00,20%,2
+ORD-1803,2024-04-23,Priya  Mehta,mumbai,Laptop Pro,9,242.00,20%,5
+ORD-1804,2024-06-13,Priya  Verma,Delhi,Wireless Mouse,15,1074.00,0.1,3
+ORD-1805,2024-01-20,Arjun Reddy,Mumbai,Mechanical Keyboard,4,₹19520,15%,1
+ORD-1806,08-17-2024,Pooja Verma,Mumbai,Webcam HD,13,$248.00,0.15,1
+ORD-1807,2024-10-14, Rohan  Patel,Mumbai,USB-C Hub,9,"$1,167.00",10%,4
+ORD-1808,2024-10-25,Pooja Iyer,Mumbai,Webcam HD,6,1069.00,0.1,3
+ORD-1809,2024-04-01, Aarav Verma,delhi ,Webcam HD,1,,0.05,2
+ORD-1810,2024-02-07,Arjun Mehta,delhi ,Webcam HD,4,36.00,20%,3
+ORD-1811,2024-09-25,Vikram Iyer,DELHI,Mechanical Keyboard,15,479.00,20%,2
+ORD-1812,2024-12-26,Ananya Mehta,bengaluru,Wireless Mouse,9,$241.00,0,1
+ORD-1813,01-31-2024,Priya  Reddy,New Delhi,Mechanical Keyboard,12,N/A,5%,4
+ORD-1814,2024-06-28,Priya  Reddy,Kolkata,USB-C Hub,14,1194.00,20%,1
+ORD-1815,2024-04-03, Aarav Patel,Bangalore,Noise-Cancelling Headphones,12,469.00,0.05,5
+ORD-1816,2024-07-29,Pooja Iyer,Kolkata,Webcam HD,4,"$1,157.00",20%,5
+ORD-1817,2024-06-06,Vikram Mehta,Chennai,Mechanical Keyboard,5,$531.00,0,5
+ORD-1818,2024-04-02,Priya  Iyer,Delhi,Wireless Mouse,3,138.00,20%,3
+ORD-1819,2024-09-22,Priya  Mehta,delhi ,Wireless Mouse,13,₹10880,0.15,4
+ORD-1820,2024-06-27, Aarav Verma,Kolkata,Monitor 4K,9,832.00,0.05,Excellent
+ORD-1821,2024-07-17, Rohan  Iyer,delhi ,Mechanical Keyboard,3,₹36400,0,5
+ORD-1822,2024-02-17,Diya Verma,New Delhi,Laptop Pro,1,876.00,5%,2
+ORD-1823,2024-03-01, Rohan  Sharma,Kolkata,Wireless Mouse,12,$207.00,10%,4
+ORD-1824,2024-12-04,Priya  Iyer,Bengaluru ,Noise-Cancelling Headphones,10,419.00,10%,5
+ORD-1825,2024-03-31, Rohan  Sharma,Kolkata,Monitor 4K,1,$693.00,0.1,3
+ORD-1826,07-13-2024, Aarav Sharma,Kolkata,Laptop Pro,11,1190.00,15%,2
+ORD-1827,2024-07-02,Pooja Mehta,DELHI,Wireless Mouse,2,344.00,5%,4
+ORD-1828,2024-11-02,Pooja Patel,MUMBAI,Webcam HD,3,₹22720,10%,1
+ORD-1829,2024-01-17,Pooja Patel,MUMBAI,Mechanical Keyboard,8,779.00,0%,2
+ORD-1830,2024-03-11,Ananya Sharma,bengaluru,Laptop Pro,9,?,15%,1
+ORD-1831,21/09/2024,Pooja Iyer,NA,Webcam HD,2,$328.00,15%,5
+ORD-1832,2024-02-22,Ananya Sharma,Delhi,Webcam HD,9,₹47120,10%,Excellent
+ORD-1833,2024-09-29,Arjun Verma,Bengaluru ,USB-C Hub,9,36.00,0.15,4
+ORD-1834,2024-07-20,Pooja Iyer,New Delhi,Webcam HD,1,₹7200,20%,1
+ORD-1835,2024-09-05,Vikram Mehta,none,Monitor 4K,9,164.00,0%,Excellent
+ORD-1836,06-11-2024,Ananya Iyer,bengaluru,Laptop Pro,14,1042.00,0.15,4
+ORD-1837,2024-07-14, Rohan  Patel,delhi ,Wireless Mouse,1,"$1,018.00",0.1,5
+ORD-1838,2024-10-25,Ananya Reddy,delhi ,Noise-Cancelling Headphones,15,$907.00,0,5
+ORD-1839,2024-02-15,Priya  Verma,Kolkata,Webcam HD,14,"$1,142.00",0.1,4
+ORD-1840,2024-12-04,Ananya Mehta,MUMBAI,USB-C Hub,13,271.00,0%,3
+ORD-1841,2024-10-03,Arjun Sharma,Bangalore,USB-C Hub,14,$393.00,0.15,2
+ORD-1842,2024-12-11,Pooja Verma,bengaluru,Monitor 4K,7,"$1,002.00",0.15,1
+ORD-1843,02-27-2024,Priya  Mehta,Kolkata,Wireless Mouse,15,₹92560,0%,4
+ORD-1844,2024-11-05, Aarav Verma,MUMBAI,Monitor 4K,10,₹72320,10%,2
+ORD-1845,2024-10-23, Aarav Reddy,DELHI,Laptop Pro,13,₹38320,20%,4
+ORD-1846,08-15-2024, Rohan  Verma,NA,Laptop Pro,14,256.00,15%,2
+ORD-1847,2024-01-01,Priya  Verma,bengaluru,Monitor 4K,14,69.00,0%,4
+ORD-1848,2024-04-08, Aarav Mehta,delhi ,Mechanical Keyboard,15,$158.00,0.15,1
+ORD-1849,2024-10-09,Ananya Iyer,delhi ,Webcam HD,3,832.00,0.1,5
+ORD-1850,2024-09-16, Aarav Iyer,mumbai,Monitor 4K,11,125.00,0.15,2
+ORD-1851,21/12/2024,Ananya Reddy,Bangalore,Laptop Pro,4,1126.00,0.1,1
+ORD-1852,06-16-2024, Aarav Patel,Delhi,Laptop Pro,5,$303.00,0.15,3
+ORD-1853,08-08-2024, Aarav Mehta,Mumbai,Wireless Mouse,none,669.00,0.05,3
+ORD-1854,09-16-2024, Aarav Sharma,mumbai,USB-C Hub,13,292.00,0%,5
+ORD-1855,2024-01-05,Arjun Verma,DELHI,Wireless Mouse,13,950.00,0%,4
+ORD-1856,2024-03-31,Diya Reddy,bengaluru,Webcam HD,9,,0.05,4
+ORD-1857,2024-04-10,Arjun Sharma,Bangalore,Webcam HD,5,938.00,20%,2
+ORD-1858,2024-05-08,Pooja Patel,mumbai,Noise-Cancelling Headphones,13,1115.00,20%,2
+ORD-1859,2024-12-21,Ananya Sharma,Mumbai,Laptop Pro,5,650.00,0.15,2
+ORD-1860,2024-05-26,Vikram Iyer,Kolkata,Monitor 4K,8,$922.00,5%,4
+ORD-1861,2024-10-11, Aarav Patel,mumbai,Noise-Cancelling Headphones,,$162.00,5%,1
+ORD-1862,2024-06-15,Diya Iyer,New Delhi,USB-C Hub,1,98.00,0%,5
+ORD-1863,2024-08-05,Ananya Reddy,mumbai,USB-C Hub,9,455.00,0.1,1
+ORD-1864,2024-05-03, Aarav Patel,bengaluru,Noise-Cancelling Headphones,7,1188.00,0.15,5
+ORD-1865,2024-02-23,Vikram Verma,Delhi,Webcam HD,10,"$1,131.00",0.05,2
+ORD-1866,2024-09-23, Aarav Iyer,Kolkata,Noise-Cancelling Headphones,15,346.00,0%,2
+ORD-1867,29/02/2024,Priya  Iyer,Delhi,Laptop Pro,8,$913.00,10%,0
+ORD-1868,2024-04-06, Rohan  Verma,New Delhi,Monitor 4K,4,₹15920,0%,5
+ORD-1869,18/01/2024,Arjun Reddy,Delhi,Mechanical Keyboard,3,32.00,15%,1
+ORD-1870,08-04-2024,Pooja Sharma,MUMBAI,USB-C Hub,2,unknown,20%,5
+ORD-1871,28/08/2024,Arjun Verma,mumbai,Webcam HD,7,1147.00,0.15,1
+ORD-1872,2024-10-12,Diya Mehta,Kolkata,Noise-Cancelling Headphones,2,770.00,0%,5
+ORD-1873,2024-02-14,Pooja Verma,Kolkata,Monitor 4K,3,₹64240,10%,3
+ORD-1874,2024-03-01,Vikram Sharma,DELHI,Mechanical Keyboard,13,177.00,5%,2
+ORD-1875,2024-03-24,Pooja Iyer,Bangalore,Laptop Pro,15,₹45280,20%,1
+ORD-1876,05/03/2024,Pooja Reddy,DELHI,Webcam HD,1,₹4880,5%,2
+ORD-1877,2024-05-22, Rohan  Verma,bengaluru,Monitor 4K,13,85000.00,15%,2
+ORD-1878,2024-02-07,Diya Mehta,mumbai,Laptop Pro,6,"$1,176.00",15%,0
+ORD-1879,2024-02-25, Aarav Reddy,Chennai,Laptop Pro,14,$927.00,0,3
+ORD-1880,2024-09-04,Arjun Mehta,bengaluru,Monitor 4K,6,625.00,20%,4
+ORD-1881,2024-05-11,Diya Sharma,delhi ,Monitor 4K,3,₹79680,0.15,3
+ORD-1882,04-23-2024,Arjun Mehta,New Delhi,Webcam HD,5,1098.00,15%,5
+ORD-1883,2024-08-17,Vikram Reddy,Mumbai,Monitor 4K,3,676.00,15%,3
+ORD-1884,2024-08-15, Aarav Mehta,mumbai,USB-C Hub,3,$446.00,15%,3
+ORD-1885,2024-11-18,Pooja Patel,New Delhi,Laptop Pro,8,₹85120,5%,4
+ORD-1886,2024-03-27,Pooja Mehta,mumbai,Webcam HD,2,₹30960,15%,1
+ORD-1887,12-24-2024,Pooja Sharma,New Delhi,Webcam HD,15,₹58800,15%,4
+ORD-1888,2024-12-26,Arjun Patel,mumbai,Noise-Cancelling Headphones,11,₹6560,0,3
+ORD-1889,31/02/2024,Ananya Iyer,Delhi,Wireless Mouse,12,607.00,0.1,2
+ORD-1890,2024-06-26,Arjun Mehta,DELHI,Laptop Pro,1,859.00,20%,5
+ORD-1891,2024-07-17,Pooja Verma,New Delhi,Mechanical Keyboard,3,$471.00,15%,Excellent
+ORD-1892,2024-07-12,Arjun Verma,N/A,Noise-Cancelling Headphones,-4,$460.00,0%,3
+ORD-1893,2024-11-17, Aarav Patel,New Delhi,USB-C Hub,1,90.00,0.15,5
+ORD-1894,09-18-2024,Priya  Patel,delhi ,Laptop Pro,13,-,0.15,5
+ORD-1895,2024-06-14, Aarav Iyer,Bengaluru ,Webcam HD,1,497.00,10%,5
+ORD-1896,2024-08-24,Arjun Iyer,Bangalore,Laptop Pro,3,$487.00,0.05,5
+ORD-1897,2024-02-04,Arjun Verma,Bangalore,Noise-Cancelling Headphones,-,"$1,183.00",20%,5
+ORD-1898,2024-06-09,Ananya Sharma,Chennai,Laptop Pro,12,128.00,0.15,2
+ORD-1899,2024-03-29, Rohan  Iyer,Delhi,Noise-Cancelling Headphones,3,1001.00,0.05,2
+ORD-1900,2024-01-31,Ananya Iyer,New Delhi,Noise-Cancelling Headphones,9,249.00,0%,Excellent
+ORD-1901,06/03/2024,Diya Verma,Delhi,USB-C Hub,4,293.00,0.15,2
+ORD-1902,2024-06-20,Ananya Verma,,USB-C Hub,15,₹74080,0,2
+ORD-1903,2024-07-31,Ananya Iyer,Mumbai,Mechanical Keyboard,3,"$1,112.00",5%,5
+ORD-1904,2024-03-18, Aarav Reddy,Bangalore,Laptop Pro,9,779.00,20%,2
+ORD-1905,07-20-2024,Ananya Mehta,Mumbai,USB-C Hub,7,₹66080,0.15,0
+ORD-1906,2024-03-26,Pooja Patel,delhi ,Laptop Pro,4,866.00,0,5
+ORD-1907,2024-09-30,Arjun Patel,delhi ,Noise-Cancelling Headphones,11,516.00,0.1,2
+ORD-1908,2024-08-23,Pooja Iyer,bengaluru,Wireless Mouse,4,$96.00,0.1,3
+ORD-1909,2024-07-08,Ananya Patel,Kolkata,USB-C Hub,7,574.00,10%,5
+ORD-1910,2024-07-20,Pooja Mehta,delhi ,Mechanical Keyboard,2,387.00,0.05,1
+ORD-1911,2024-07-23,Ananya Patel,MUMBAI,USB-C Hub,14,$515.00,15%,1
+ORD-1912,2024-03-03,Vikram Verma,Kolkata,Monitor 4K,15,347.00,15%,5
+ORD-1913,2024-04-25,Diya Mehta,NA,Mechanical Keyboard,15,367.00,0.1,3
+ORD-1914,2024-03-31, Aarav Iyer,Kolkata,Noise-Cancelling Headphones,2,1043.00,15%,2
+ORD-1915,2024-08-24, Rohan  Reddy,New Delhi,Wireless Mouse,15,151.00,20%,3
+ORD-1916,12-03-2024,Arjun Sharma,Bangalore,Webcam HD,2,₹52640,0,5
+ORD-1917,2024-04-21, Aarav Mehta,DELHI,Laptop Pro,10,₹58640,0.1,4
+ORD-1918,2024-03-06,Ananya Mehta,Kolkata,Noise-Cancelling Headphones,3,333.00,15%,3
+ORD-1919,2024-12-19, Aarav Mehta,New Delhi,Wireless Mouse,9,$741.00,15%,2
+ORD-1920,2024-03-02,Ananya Mehta,Delhi,Laptop Pro,NA,344.00,0.15,2
+ORD-1921,2024-12-07,Ananya Iyer,bengaluru,Webcam HD,4,$689.00,0,2
+ORD-1922,2024-11-20,Pooja Verma,bengaluru,Noise-Cancelling Headphones,12,402.00,15%,4
+ORD-1923,2024-05-05,Diya Iyer,Kolkata,Webcam HD,4,37.00,15%,1
+ORD-1924,03-30-2024,Priya  Sharma,Kolkata,Mechanical Keyboard,8,$773.00,0,1
+ORD-1925,2024-07-07,Priya  Mehta,Kolkata,USB-C Hub,10,212.00,0%,1
+ORD-1926,11/03/2024,Diya Verma,DELHI,Noise-Cancelling Headphones,unknown,$221.00,0.15,4
+ORD-1927,2024-08-24,Priya  Iyer,bengaluru,Mechanical Keyboard,8,₹81200,0.15,4
+ORD-1928,2024-11-28,Vikram Verma,Kolkata,Noise-Cancelling Headphones,12,657.00,0.05,5
+ORD-1929,04-29-2024,Vikram Reddy,delhi ,USB-C Hub,8,799.00,5%,Excellent
+ORD-1930,2024-08-03,Ananya Reddy,MUMBAI,Mechanical Keyboard,10,$946.00,10%,1
+ORD-1931,17/01/2024,Priya  Sharma,mumbai,Noise-Cancelling Headphones,10,815.00,15%,3
+ORD-1932,04-24-2024,Arjun Patel,Bangalore,Noise-Cancelling Headphones,-,741.00,0.1,3
+ORD-1933,2024-11-09,Diya Patel,Mumbai,USB-C Hub,15,$623.00,0.05,5
+ORD-1934,2024-12-27, Rohan  Mehta,Bengaluru ,USB-C Hub,9,1174.00,0.1,2
+ORD-1935,31/02/2024,Pooja Verma,Bengaluru ,Mechanical Keyboard,2,1005.00,15%,4
+ORD-1936,2024-10-26, Rohan  Iyer,none,USB-C Hub,7,156.00,15%,1
+ORD-1937,2024-06-19,Ananya Sharma,New Delhi,USB-C Hub,14,990.00,10%,3
+ORD-1938,07-22-2024, Aarav Verma,bengaluru,Monitor 4K,5,400.00,5%,2
+ORD-1939,2024-12-01,Pooja Iyer,MUMBAI,Monitor 4K,11,$836.00,20%,3
+ORD-1940,2024-01-26,Ananya Mehta,Bangalore,Mechanical Keyboard,5,₹32800,20%,1
+ORD-1941,2024-11-08,Ananya Sharma,mumbai,Noise-Cancelling Headphones,3,$432.00,0,4
+ORD-1942,04-20-2024, Aarav Reddy,null,USB-C Hub,12,276.00,0.1,4
+ORD-1943,2024-06-10,Priya  Verma,New Delhi,Laptop Pro,15,$497.00,20%,2
+ORD-1944,2024-05-31,Arjun Patel,Delhi,Laptop Pro,3,$296.00,0.15,1
+ORD-1945,2024-11-24,Priya  Verma,Bengaluru ,Webcam HD,3,565.00,0%,2
+ORD-1946,2024-04-02,Ananya Reddy,Chennai,USB-C Hub,5,$546.00,0,5
+ORD-1947,04-05-2024, Aarav Iyer,delhi ,Monitor 4K,4,734.00,0%,1
+ORD-1948,09-05-2024,Diya Reddy,New Delhi,Monitor 4K,10,540.00,0.1,4
+ORD-1949,2024-05-07,Ananya Verma,Mumbai,Wireless Mouse,7,681.00,0.05,0
+ORD-1950,2024-04-13,Pooja Mehta,Delhi,USB-C Hub,9,₹56160,10%,3
+ORD-1951,2024-04-07,Pooja Verma,DELHI,Mechanical Keyboard,3,673.00,0%,2
+ORD-1952,07-23-2024,Arjun Verma,DELHI,Laptop Pro,15,$347.00,0.15,3
+ORD-1953,2024-04-29, Aarav Iyer,MUMBAI,Wireless Mouse,11,₹31440,0%,2
+ORD-1954,2024-04-24, Rohan  Sharma,bengaluru,Webcam HD,3,₹12480,0.05,1
+ORD-1955,2024-08-10, Rohan  Iyer,Delhi,Laptop Pro,6,561.00,0.05,Excellent
+ORD-1956,2024-10-18,Diya Mehta,Bangalore,Wireless Mouse,13,819.00,0,3
+ORD-1957,2024-11-08,Diya Patel,New Delhi,Wireless Mouse,NA,118.00,0,5
+ORD-1958,2024-02-16, Aarav Sharma,Bengaluru ,Monitor 4K,10,₹88240,5%,4
+ORD-1959,27/12/2024, Rohan  Patel,null,Noise-Cancelling Headphones,9,₹66880,0,2
+ORD-1960,2024-06-30,Arjun Verma,DELHI,Noise-Cancelling Headphones,1,147.00,0.05,5
+ORD-1961,2024-09-13,Arjun Verma,New Delhi,Webcam HD,2,1060.00,0,4
+ORD-1962,2024-01-01, Rohan  Reddy,New Delhi,Wireless Mouse,11,"$1,132.00",0.1,1
+ORD-1963,2024-12-28,Diya Iyer,Bangalore,Mechanical Keyboard,7,783.00,0.15,1
+ORD-1964,2024-11-06,Priya  Verma,delhi ,USB-C Hub,14,"$1,117.00",0.05,0
+ORD-1965,2024-12-25, Rohan  Patel,MUMBAI,Webcam HD,10,217.00,0,4
+ORD-1966,2024-08-15,Arjun Reddy,Bangalore,USB-C Hub,10,868.00,20%,Excellent
+ORD-1967,2024-08-22,Arjun Reddy,Bengaluru ,Webcam HD,2,1067.00,0.1,5
+ORD-1968,2024-04-15,Arjun Sharma,MUMBAI,USB-C Hub,5,$618.00,5%,1
+ORD-1969,22/08/2024,Ananya Sharma,bengaluru,Monitor 4K,-5,₹31280,0%,5
+ORD-1970,2024-06-17,Priya  Patel,Bengaluru ,Noise-Cancelling Headphones,12,₹19360,10%,2
+ORD-1971,2024-07-18,Priya  Mehta,Bengaluru ,USB-C Hub,-3,₹65440,20%,3
+ORD-1972,2024-01-27,Pooja Iyer,NA,Monitor 4K,11,$96.00,10%,3
+ORD-1973,2024-03-08, Rohan  Sharma,mumbai,Mechanical Keyboard,14,791.00,15%,5
+ORD-1974,2024-03-11,Vikram Reddy,DELHI,Laptop Pro,4,unknown,0.1,3
+ORD-1975,2024-07-09, Rohan  Iyer,New Delhi,Monitor 4K,-1,$305.00,5%,1
+ORD-1976,2024-07-20,Vikram Mehta,Chennai,Webcam HD,11,$318.00,10%,5
+ORD-1977,2024-12-30,Diya Reddy,Mumbai,Wireless Mouse,12,665.00,0,1
+ORD-1978,07-04-2024,Vikram Sharma,Mumbai,USB-C Hub,11,464.00,10%,1
+ORD-1979,2024-12-25,Diya Iyer,Bengaluru ,Wireless Mouse,9,1119.00,0.05,5
+ORD-1980,2024-08-06,Diya Patel,bengaluru,Laptop Pro,9,₹79840,5%,3
+ORD-1981,2024-06-16,Priya  Reddy,delhi ,Monitor 4K,7,₹80320,0,5
+ORD-1982,2024-06-07, Aarav Sharma,Mumbai,Mechanical Keyboard,15,₹57920,20%,3
+ORD-1983,2024-01-09,Vikram Mehta,DELHI,Laptop Pro,7,1094.00,0.1,5
+ORD-1984,2024-08-12, Aarav Verma,Bangalore,USB-C Hub,13,"$1,089.00",20%,5
+ORD-1985,2024-11-07,Vikram Patel,DELHI,USB-C Hub,10,950.00,0.05,3
+ORD-1986,2024-08-05,Diya Sharma,bengaluru,Laptop Pro,11,85.00,0,4
+ORD-1987,31/02/2024,Priya  Mehta,Chennai,Webcam HD,14,"$1,198.00",0.15,5
+ORD-1988,2024-10-26,Ananya Verma,Kolkata,USB-C Hub,1,-,0,0
+ORD-1989,31/02/2024,Arjun Sharma,bengaluru,Wireless Mouse,5,$300.00,0,3
+ORD-1990,09-14-2024,Ananya Reddy,DELHI,USB-C Hub,7,167.00,10%,4
+ORD-1991,2024-09-17,Pooja Iyer,Bengaluru ,Laptop Pro,9,683.00,10%,2
+ORD-1992,2024-07-16, Rohan  Mehta,mumbai,Webcam HD,5,$529.00,5%,2
+ORD-1993,2024-10-05,Diya Mehta,mumbai,Wireless Mouse,7,₹43760,0.05,3
+ORD-1994,2024-06-20,Ananya Sharma,Mumbai,Laptop Pro,1,$411.00,20%,2
+ORD-1995,2024-02-22,Priya  Reddy,Bengaluru ,Wireless Mouse,15,$69.00,0,5
+ORD-1996,2024-10-18,Priya  Verma,Bengaluru ,Monitor 4K,6,743.00,0,3
+ORD-1997,2024-11-24,Diya Mehta,delhi ,Webcam HD,5,96.00,0.1,4
+ORD-1998,2024-09-19,Pooja Verma,Bangalore,Laptop Pro,12,$42.00,0.05,4
+ORD-1999,2024-10-06,Priya  Verma,Delhi,USB-C Hub,14,501.00,0,Excellent
+ORD-2000,2024-01-11,Priya  Iyer,Mumbai,Laptop Pro,6,$516.00,10%,2
+ORD-2001,10-05-2024,Priya  Patel,bengaluru,Mechanical Keyboard,5,$858.00,5%,1
+ORD-2002,2024-03-29,Arjun Reddy,New Delhi,USB-C Hub,12,$806.00,0,2
+ORD-2003,2024-10-31,Priya  Mehta,Chennai,Wireless Mouse,7,unknown,10%,4
+ORD-2004,10-15-2024,Arjun Mehta,Bengaluru ,Mechanical Keyboard,1,$949.00,0.15,1
+ORD-2005,03-13-2024, Rohan  Mehta,mumbai,Webcam HD,12,$859.00,0.15,4
+ORD-2006,2024-05-11,Pooja Verma,New Delhi,Webcam HD,15,₹23520,0%,1
+ORD-2007,2024-10-25, Rohan  Reddy,DELHI,Mechanical Keyboard,3,$886.00,0,5
+ORD-2008,2024-12-12,Diya Verma,bengaluru,USB-C Hub,2,242.00,0.1,4
+ORD-2009,2024-11-06,Priya  Patel,bengaluru,Noise-Cancelling Headphones,7,$145.00,0.15,Excellent
+ORD-2010,12-02-2024,Ananya Reddy,Bengaluru ,Laptop Pro,10,$292.00,0.1,2
+ORD-2011,2024-04-27, Aarav Verma,Delhi,Monitor 4K,9,$865.00,0.05,4
+ORD-2012,2024-01-08,Diya Mehta,Delhi,Laptop Pro,?,534.00,0,Excellent
+ORD-2013,31/02/2024,Priya  Iyer,delhi ,Mechanical Keyboard,3,506.00,0.1,1
+ORD-2014,2024-06-02,Vikram Iyer,bengaluru,Mechanical Keyboard,4,108.00,0.05,1
+ORD-2015,08-16-2024, Rohan  Sharma,mumbai,Laptop Pro,6,555.00,5%,1
+ORD-2016,2024-06-14, Aarav Sharma,MUMBAI,Monitor 4K,10,$584.00,0,1
+ORD-2017,2024-12-18,Pooja Verma,Bengaluru ,Webcam HD,-4,313.00,0.05,3
+ORD-2018,2024-07-29,Arjun Sharma,Delhi,Laptop Pro,2,1171.00,0%,3
+ORD-2019,2024-05-26,Priya  Sharma,unknown,Monitor 4K,7,861.00,0.05,Excellent
+ORD-2020,2024-04-12,Arjun Reddy,MUMBAI,Laptop Pro,11,$566.00,0%,3
+ORD-2021,2024-06-05,Priya  Iyer,New Delhi,Webcam HD,1,$244.00,0.1,2
+ORD-2022,2024-09-08,Priya  Iyer,delhi ,Mechanical Keyboard,3,$675.00,0.15,1
+ORD-2023,2024-12-26,Vikram Mehta,DELHI,Webcam HD,15,930.00,0,1
+ORD-2024,11-23-2024,Ananya Patel,delhi ,Webcam HD,8,₹51360,0,4
+ORD-2025,2024-03-18,Diya Sharma,Chennai,Webcam HD,10,377.00,0,4
+ORD-2026,2024-09-28,Diya Mehta,Mumbai,Wireless Mouse,5,"$1,049.00",0.15,4
+ORD-2027,2024-07-26, Rohan  Verma,delhi ,Laptop Pro,15,$784.00,20%,4
+ORD-2028,2024-09-27,Priya  Mehta,Chennai,Noise-Cancelling Headphones,1,₹11520,10%,1
+ORD-2029,2024-01-17,Diya Iyer,delhi ,Wireless Mouse,12,227.00,0.1,2
+ORD-2030,2024-12-16,Diya Sharma,Mumbai,Laptop Pro,11,₹78400,5%,2
+ORD-2031,2024-12-27,Diya Reddy,Bangalore,Monitor 4K,13,$983.00,20%,5
+ORD-2032,2024-08-28,Arjun Mehta,Bengaluru ,Noise-Cancelling Headphones,8,₹21760,10%,1
+ORD-2033,07/10/2024, Rohan  Verma,bengaluru,USB-C Hub,9,₹7120,0,2
+ORD-2034,2024-07-19,Arjun Mehta,MUMBAI,Monitor 4K,7,991.00,0.05,3
+ORD-2035,2024-02-15,Vikram Verma,DELHI,Mechanical Keyboard,1,470.00,0.05,1
+ORD-2036,2024-10-22, Rohan  Sharma,Delhi,Laptop Pro,7,$177.00,0.15,4
+ORD-2037,2024-12-23,Vikram Reddy,Bengaluru ,Webcam HD,2,NA,20%,2
+ORD-2038,2024-08-05,Diya Verma,mumbai,Noise-Cancelling Headphones,3,1143.00,0%,5
+ORD-2039,2024-06-23,Pooja Patel,Kolkata,Webcam HD,12,$810.00,0%,2
+ORD-2040,2024-08-14, Aarav Verma,delhi ,USB-C Hub,11,"$1,009.00",0.05,2
+ORD-2041,08-14-2024,Arjun Verma,mumbai,Noise-Cancelling Headphones,1,356.00,0,5
+ORD-2042,31/02/2024,Priya  Reddy,MUMBAI,Noise-Cancelling Headphones,2,447.00,20%,2
+ORD-2043,2024-08-08, Aarav Iyer,Kolkata,Noise-Cancelling Headphones,15,"$1,096.00",10%,2
+ORD-2044,2024-01-14,Pooja Verma,New Delhi,Monitor 4K,15,695.00,15%,4
+ORD-2045,2024-09-13, Rohan  Reddy,DELHI,Mechanical Keyboard,14,$81.00,5%,2
+ORD-2046,2024-04-02,Diya Reddy,delhi ,Laptop Pro,14,784.00,0.1,2
+ORD-2047,2024-02-28, Aarav Verma,Delhi,USB-C Hub,7,$41.00,0,5
+ORD-2048,2024-02-18,Diya Reddy,Bangalore,Webcam HD,1,171.00,0,1
+ORD-2049,2024-01-17,Arjun Verma,DELHI,USB-C Hub,4,256.00,20%,0
+ORD-2050,2024-01-17,Priya  Iyer,mumbai,Monitor 4K,9,₹55200,0,2
+ORD-2051,2024-03-22,Pooja Verma,Delhi,USB-C Hub,7,146.00,5%,3
+ORD-2052,2024-10-28,Arjun Sharma,Bangalore,Noise-Cancelling Headphones,?,642.00,0.05,1
+ORD-2053,31/10/2024,Ananya Verma,delhi ,USB-C Hub,15,512.00,5%,2
+ORD-2054,2024-01-04, Aarav Verma,mumbai,Noise-Cancelling Headphones,1,₹20560,0.1,5
+ORD-2055,2024-12-21,Ananya Sharma,DELHI,USB-C Hub,3,$898.00,0,3
+ORD-2056,03-23-2024,Priya  Reddy,Bengaluru ,Mechanical Keyboard,10,$299.00,0.1,3
+ORD-2057,03-22-2024,Priya  Sharma,Mumbai,Noise-Cancelling Headphones,8,₹58000,15%,3
+ORD-2058,2024-03-06,Arjun Sharma,Kolkata,Webcam HD,5,809.00,20%,1
+ORD-2059,2024-03-22,Diya Patel,DELHI,USB-C Hub,2,₹12240,0,1
+ORD-2060,2024-06-02,Diya Mehta,Bengaluru ,Mechanical Keyboard,10,₹22720,0.1,3
+ORD-2061,2024-12-24,Ananya Verma,Delhi,USB-C Hub,1,908.00,10%,4
+ORD-2062,2024-11-12, Rohan  Patel,Mumbai,Mechanical Keyboard,6,₹84480,5%,4
+ORD-2063,2024-01-10, Rohan  Verma,DELHI,USB-C Hub,13,₹54240,0.1,1
+ORD-2064,2024-12-05, Rohan  Verma,Bangalore,Wireless Mouse,13,$540.00,0.05,3
+ORD-2065,31/10/2024, Aarav Mehta,?,Mechanical Keyboard,1,-,10%,1
+ORD-2066,27/11/2024, Rohan  Patel,Bengaluru ,Laptop Pro,10,₹37920,0%,5
+ORD-2067,21/12/2024, Aarav Reddy,bengaluru,Wireless Mouse,6,844.00,20%,4
+ORD-2068,12-31-2024,Ananya Verma,New Delhi,Mechanical Keyboard,2,935.00,0%,5
+ORD-2069,2024-08-10,Priya  Reddy,Mumbai,Webcam HD,4,966.00,0.05,4
+ORD-2070,2024-05-08,Priya  Mehta,MUMBAI,Webcam HD,6,229.00,0,3
+ORD-2071,2024-03-27,Vikram Reddy,delhi ,Webcam HD,6,902.00,10%,2
+ORD-2072,2024-10-01, Aarav Sharma,bengaluru,Monitor 4K,3,$430.00,0.1,3
+ORD-2073,2024-09-03,Arjun Sharma,New Delhi,USB-C Hub,14,₹7280,0.1,4
+ORD-2074,2024-04-23,Arjun Reddy,Bangalore,Laptop Pro,9,949.00,0%,2
+ORD-2075,2024-07-07,Diya Sharma,bengaluru,Noise-Cancelling Headphones,1,$330.00,0.15,1
+ORD-2076,2024-01-11,Arjun Reddy,Delhi,USB-C Hub,4,₹74720,0.15,1
+ORD-2077,2024-12-24,Arjun Patel,Chennai,Wireless Mouse,8,600.00,0,5
+ORD-2078,2024-07-17,Pooja Iyer,DELHI,Noise-Cancelling Headphones,14,"$1,056.00",0.05,3
+ORD-2079,03-01-2024, Aarav Sharma,bengaluru,Mechanical Keyboard,9,₹67760,20%,1
+ORD-2080,2024-10-24,Ananya Reddy,Bengaluru ,Webcam HD,2,1175.00,0.1,1
+ORD-2081,2024-11-08,Pooja Mehta,null,Laptop Pro,6,₹51520,0.05,1
+ORD-2082,2024-02-02,Ananya Sharma,none,Monitor 4K,5,500.00,20%,1
+ORD-2083,2024-02-27, Aarav Sharma,MUMBAI,Noise-Cancelling Headphones,2,728.00,0.05,5
+ORD-2084,2024-11-30, Aarav Mehta,Delhi,Laptop Pro,3,₹69520,15%,1
+ORD-2085,2024-03-17,Pooja Mehta,Mumbai,Webcam HD,13,N/A,15%,3
+ORD-2086,03/10/2024, Aarav Mehta,Kolkata,Laptop Pro,7,₹20000,0.15,0
+ORD-2087,2024-01-30,Priya  Sharma,Kolkata,USB-C Hub,13,$806.00,0.05,0
+ORD-2088,2024-06-01,Priya  Reddy,Bengaluru ,Laptop Pro,4,none,15%,1
+ORD-2089,11-28-2024,Diya Iyer,Mumbai,Wireless Mouse,13,656.00,0.1,3
+ORD-2090,13/12/2024,Priya  Verma,MUMBAI,Webcam HD,15,1069.00,5%,4
+ORD-2091,03-06-2024,Priya  Iyer,Bangalore,Monitor 4K,7,606.00,0.05,1
+ORD-2092,2024-11-05, Rohan  Mehta,DELHI,Laptop Pro,8,1190.00,10%,5
+ORD-2093,2024-10-10, Rohan  Sharma,Chennai,Mechanical Keyboard,15,$913.00,0.05,3
+ORD-2094,2024-02-18,Priya  Reddy,Bengaluru ,Laptop Pro,1,"$85,000.00",0.1,1
+ORD-2095,2024-11-29,Priya  Verma,Bengaluru ,Laptop Pro,4,"$1,082.00",0.15,4
+ORD-2096,2024-06-01,Priya  Reddy,Delhi,USB-C Hub,3,₹11040,0.1,1
+ORD-2097,2024-10-13,Pooja Verma,bengaluru,Webcam HD,6,$848.00,0.15,0
+ORD-2098,2024-02-21, Rohan  Patel,Kolkata,Noise-Cancelling Headphones,14,₹3040,20%,2
+ORD-2099,06-10-2024, Rohan  Sharma,Bangalore,Mechanical Keyboard,8,741.00,0,5
+ORD-2100,2024-10-29,Priya  Reddy,Mumbai,Noise-Cancelling Headphones,5,588.00,0.15,Excellent
+ORD-2101,2024-03-06,Pooja Sharma,Delhi,Noise-Cancelling Headphones,2,171.00,0.1,2
+ORD-2102,2024-02-10,Priya  Patel,NA,Monitor 4K,6,₹58720,0.05,4
+ORD-2103,2024-11-04, Aarav Verma,Bangalore,Laptop Pro,-2,50.00,0%,5
+ORD-2104,03/10/2024,Vikram Iyer,MUMBAI,Mechanical Keyboard,12,106.00,0,4
+ORD-2105,2024-03-18,Ananya Mehta,MUMBAI,USB-C Hub,4,₹35360,0,1
+ORD-2106,2024-08-09,Vikram Verma,Delhi,Monitor 4K,12,265.00,0.15,2
+ORD-2107,2024-02-21,Priya  Iyer,mumbai,Wireless Mouse,11,$269.00,20%,1
+ORD-2108,2024-08-28,Ananya Sharma,Mumbai,USB-C Hub,13,₹11280,0.1,4
+ORD-2109,2024-05-04,Arjun Sharma,MUMBAI,Wireless Mouse,6,₹63520,20%,2
+ORD-2110,17/08/2024, Aarav Patel,bengaluru,Mechanical Keyboard,1,$830.00,0.15,1
+ORD-2111,2024-05-16,Pooja Verma,null,Monitor 4K,3,$145.00,5%,Excellent
+ORD-2112,2024-12-18, Aarav Verma,Chennai,Monitor 4K,10,407.00,0.1,4
+ORD-2113,2024-05-11, Aarav Iyer,mumbai,USB-C Hub,5,$609.00,10%,5
+ORD-2114,2024-09-28,Arjun Reddy,MUMBAI,Mechanical Keyboard,13,784.00,0.15,Excellent
+ORD-2115,2024-02-22,Pooja Sharma,Bangalore,Laptop Pro,3,$888.00,5%,1
+ORD-2116,14/12/2024,Pooja Verma,Kolkata,Noise-Cancelling Headphones,8,217.00,10%,2
+ORD-2117,2024-06-06,Priya  Sharma,Chennai,Noise-Cancelling Headphones,13,₹54400,0.15,5
+ORD-2118,2024-08-10,Priya  Reddy,New Delhi,Mechanical Keyboard,9,₹40480,0,0
+ORD-2119,2024-04-05,Ananya Verma,Chennai,Laptop Pro,1,230.00,0.05,5
+ORD-2120,2024-12-15,Priya  Reddy,Delhi,Wireless Mouse,6,516.00,15%,2
+ORD-2121,2024-08-30,Vikram Iyer,bengaluru,Webcam HD,3,NA,5%,5
+ORD-2122,2024-09-21,Pooja Patel,delhi ,Monitor 4K,10,43.00,15%,4
+ORD-2123,2024-06-14,Arjun Iyer,New Delhi,Laptop Pro,?,$607.00,15%,2
+ORD-2124,2024-08-27,Pooja Sharma,Chennai,Laptop Pro,5,"$1,004.00",0.05,3
+ORD-2125,2024-11-15,Arjun Reddy,Delhi,Noise-Cancelling Headphones,12,$134.00,15%,2
+ORD-2126,2024-03-11,Arjun Patel,DELHI,Laptop Pro,7,415.00,0.1,3
+ORD-2127,2024-06-10,Arjun Sharma,New Delhi,Monitor 4K,8,₹90720,0,3
+ORD-2128,2024-05-24,Diya Iyer,MUMBAI,USB-C Hub,4,$551.00,10%,5
+ORD-2129,04-26-2024,Vikram Reddy,Kolkata,Mechanical Keyboard,15,359.00,15%,2
+ORD-2130,09-15-2024,Vikram Sharma,bengaluru,Monitor 4K,4,947.00,0.05,1
+ORD-2131,2024-12-23,Vikram Mehta,Chennai,Monitor 4K,5,826.00,0%,5
+ORD-2132,2024-11-13,Arjun Patel,Delhi,Webcam HD,3,$879.00,0.15,4
+ORD-2133,2024-05-22, Aarav Sharma,mumbai,Webcam HD,6,₹18320,0.15,5
+ORD-2134,2024-09-28,Priya  Patel,MUMBAI,USB-C Hub,3,550.00,0.05,Excellent
+ORD-2135,2024-04-13,Vikram Patel,null,Webcam HD,1,₹12400,0%,4
+ORD-2136,12-21-2024,Arjun Iyer,bengaluru,Wireless Mouse,14,₹47520,20%,5
+ORD-2137,2024-09-06,Arjun Iyer,delhi ,Wireless Mouse,9,51.00,0.15,1
+ORD-2138,2024-11-23,Vikram Patel,-,Monitor 4K,1,$312.00,0,1
+ORD-2139,2024-06-30,Priya  Reddy,Mumbai,Monitor 4K,-2,664.00,0,3
+ORD-2140,2024-12-02,Arjun Iyer,Kolkata,Monitor 4K,9,1094.00,0.05,1
+ORD-2141,2024-05-05,Ananya Sharma,Chennai,Noise-Cancelling Headphones,12,598.00,5%,1
+ORD-2142,2024-10-29, Rohan  Reddy,delhi ,Webcam HD,13,$209.00,20%,5
+ORD-2143,10-07-2024, Rohan  Verma,DELHI,Wireless Mouse,4,₹79600,15%,5
+ORD-2144,2024-06-10,Priya  Reddy,Bangalore,Laptop Pro,13,₹78320,0,5
+ORD-2145,2024-08-19,Arjun Mehta,mumbai,Mechanical Keyboard,5,781.00,5%,5
+ORD-2146,25/09/2024, Aarav Iyer,Delhi,Noise-Cancelling Headphones,4,842.00,0,5
+ORD-2147,2024-03-20, Aarav Sharma,Kolkata,Webcam HD,3,79.00,5%,2
+ORD-2148,2024-10-28,Pooja Sharma,Mumbai,Noise-Cancelling Headphones,7,$647.00,0.05,5
+ORD-2149,31/02/2024,Pooja Reddy,New Delhi,Noise-Cancelling Headphones,13,471.00,0.15,2
+ORD-2150,2024-11-12,Priya  Sharma,Mumbai,USB-C Hub,9,1125.00,0.1,2
+ORD-2151,2024-01-26, Aarav Verma,MUMBAI,Webcam HD,2,101.00,20%,3
+ORD-2152,2024-05-29, Rohan  Mehta,New Delhi,Webcam HD,7,$635.00,0.05,4
+ORD-2153,2024-03-01,Ananya Iyer,DELHI,Monitor 4K,11,924.00,10%,1
+ORD-2154,2024-12-27,Arjun Reddy,DELHI,USB-C Hub,12,788.00,5%,Excellent
+ORD-2155,2024-06-02,Diya Reddy,DELHI,Noise-Cancelling Headphones,10,755.00,5%,0
+ORD-2156,2024-03-25,Priya  Reddy,Kolkata,Webcam HD,2,$491.00,20%,5
+ORD-2157,2024-04-14,Ananya Sharma,DELHI,Monitor 4K,9,$854.00,0,3
+ORD-2158,2024-10-21,Pooja Iyer,bengaluru,Wireless Mouse,2,₹63840,0,2
+ORD-2159,2024-03-09,Priya  Patel,New Delhi,USB-C Hub,2,452.00,15%,0
+ORD-2160,2024-11-10,Pooja Reddy,delhi ,USB-C Hub,4,527.00,0,4
+ORD-2161,2024-10-08, Rohan  Reddy,Bengaluru ,Monitor 4K,15,806.00,0.1,3
+ORD-2162,07/11/2024,Vikram Patel,bengaluru,USB-C Hub,N/A,710.00,5%,5
+ORD-2163,2024-04-02,Ananya Verma,New Delhi,Wireless Mouse,5,799.00,20%,5
+ORD-2164,2024-08-26,Ananya Sharma,Delhi,USB-C Hub,-,₹48720,0%,5
+ORD-2165,2024-12-22, Aarav Reddy,delhi ,USB-C Hub,4,912.00,20%,4
+ORD-2166,2024-12-09,Diya Patel,Bangalore,Webcam HD,11,₹2320,0%,2
+ORD-2167,01-28-2024,Vikram Iyer,MUMBAI,Webcam HD,6,$63.00,15%,2
+ORD-2168,02/09/2024, Rohan  Verma,Mumbai,USB-C Hub,1,₹17600,10%,1
+ORD-2169,2024-04-28,Vikram Verma,mumbai,Mechanical Keyboard,11,$119.00,0.1,2
+ORD-2170,2024-04-02, Rohan  Mehta,New Delhi,Noise-Cancelling Headphones,14,$868.00,0.15,3
+ORD-2171,2024-01-03,Ananya Patel,DELHI,Noise-Cancelling Headphones,6,531.00,15%,3
+ORD-2172,2024-04-28,Ananya Iyer,MUMBAI,Mechanical Keyboard,14,₹12800,0%,4
+ORD-2173,2024-05-16,Pooja Verma,Bengaluru ,Noise-Cancelling Headphones,8,579.00,20%,4
+ORD-2174,2024-10-09,Priya  Iyer,Chennai,Webcam HD,10,$333.00,0.05,2
+ORD-2175,2024-06-14,Priya  Mehta,bengaluru,Noise-Cancelling Headphones,1,₹69600,0,5
+ORD-2176,2024-07-31, Rohan  Reddy,delhi ,Mechanical Keyboard,4,₹77600,0.1,1
+ORD-2177,2024-10-01,Vikram Reddy,Delhi,Monitor 4K,5,"$1,200.00",0.15,3
+ORD-2178,2024-07-22,Vikram Sharma,Kolkata,Wireless Mouse,6,855.00,0,3
+ORD-2179,2024-12-07,Pooja Verma,Mumbai,Monitor 4K,8,$77.00,10%,4
+ORD-2180,19/10/2024,Vikram Patel,Chennai,Wireless Mouse,10,$94.00,0.05,4
+ORD-2181,2024-12-17,Diya Patel,bengaluru,Webcam HD,1,$170.00,10%,4
+ORD-2182,2024-10-23,Diya Reddy,Delhi,Webcam HD,3,104.00,0,1
+ORD-2183,2024-05-06,Arjun Sharma,bengaluru,Noise-Cancelling Headphones,5,$344.00,20%,1
+ORD-2184,2024-02-21,Vikram Sharma,Bangalore,Laptop Pro,13,₹83120,0,4
+ORD-2185,2024-03-23,Ananya Reddy,delhi ,Laptop Pro,14,₹50960,15%,4
+ORD-2186,2024-04-06,Ananya Iyer,Kolkata,Mechanical Keyboard,11,$801.00,5%,1
+ORD-2187,2024-02-12,Priya  Iyer,MUMBAI,Noise-Cancelling Headphones,9,₹43440,0.1,2
+ORD-2188,09-06-2024,Ananya Sharma,Bengaluru ,Monitor 4K,9,₹88080,10%,3
+ORD-2189,2024-12-05,Pooja Reddy,DELHI,Webcam HD,12,$201.00,0%,1
+ORD-2190,2024-02-12,Diya Sharma,New Delhi,Laptop Pro,11,887.00,0.15,Excellent
+ORD-2191,07-28-2024,Pooja Iyer,delhi ,Mechanical Keyboard,8,$859.00,5%,5
+ORD-2192,10-11-2024,Vikram Reddy,mumbai,Webcam HD,10,$633.00,0,3
+ORD-2193,2024-12-26, Aarav Reddy,mumbai,Wireless Mouse,8,323.00,0,3
+ORD-2194,2024-11-02,Pooja Verma,Delhi,Webcam HD,2,614.00,0.1,1
+ORD-2195,2024-05-27,Arjun Verma,Kolkata,Wireless Mouse,11,"$1,069.00",0,5
+ORD-2196,2024-12-10,Arjun Mehta,DELHI,Laptop Pro,12,$935.00,0.1,3
+ORD-2197,2024-09-09,Vikram Patel,bengaluru,Webcam HD,12,26.00,15%,5
+ORD-2198,2024-02-04,Arjun Iyer,Bangalore,Webcam HD,1,194.00,10%,5
+ORD-2199,2024-04-22, Rohan  Patel,Bengaluru ,Monitor 4K,7,630.00,5%,5
+ORD-2200,2024-05-03,Arjun Mehta,Delhi,Webcam HD,12,283.00,20%,3
+ORD-2201,2024-01-15,Vikram Patel,DELHI,USB-C Hub,4,461.00,20%,1
+ORD-2202,2024-03-12, Rohan  Mehta,DELHI,Monitor 4K,15,$210.00,15%,3
+ORD-2203,2024-10-04,Pooja Sharma,Bengaluru ,Wireless Mouse,4,997.00,0,2
+ORD-2204,2024-06-03,Priya  Sharma,Delhi,Mechanical Keyboard,2,515.00,0.05,0
+ORD-2205,2024-12-28, Aarav Iyer,mumbai,Mechanical Keyboard,12,1033.00,10%,2
+ORD-2206,2024-06-25,Vikram Verma,MUMBAI,Noise-Cancelling Headphones,13,1119.00,0.1,1
+ORD-2207,2024-04-10,Arjun Sharma,Bangalore,Mechanical Keyboard,7,721.00,0.1,2
+ORD-2208,2024-09-01,Priya  Iyer,Delhi,Wireless Mouse,2,₹66000,15%,2
+ORD-2209,2024-03-04, Rohan  Mehta,Kolkata,Monitor 4K,6,$873.00,0.05,1
+ORD-2210,2024-08-20,Arjun Reddy,Bengaluru ,Noise-Cancelling Headphones,12,174.00,0.1,4
+ORD-2211,2024-02-22,Vikram Iyer,mumbai,Monitor 4K,15,$455.00,15%,3
+ORD-2212,2024-07-20,Pooja Iyer,mumbai,Laptop Pro,5,₹53760,0.15,4
+ORD-2213,2024-05-13, Aarav Reddy,Mumbai,Webcam HD,6,$271.00,20%,4
+ORD-2214,2024-06-19,Priya  Mehta,DELHI,Webcam HD,8,₹31360,0,3
+ORD-2215,2024-03-08, Aarav Patel,Delhi,Wireless Mouse,15,1035.00,5%,5
+ORD-2216,2024-07-10, Rohan  Verma,Delhi,Wireless Mouse,3,216.00,0.1,2
+ORD-2217,2024-06-11, Aarav Sharma,Bangalore,Laptop Pro,4,312.00,0%,2
+ORD-2218,2024-12-12, Rohan  Iyer,Mumbai,Webcam HD,4,₹36800,0.15,1
+ORD-2219,2024-01-05,Ananya Verma,MUMBAI,Monitor 4K,6,$883.00,0.05,1
+ORD-2220,10/07/2024, Aarav Mehta,Delhi,Laptop Pro,7,249.00,0,5
+ORD-2221,05-26-2024,Diya Patel,Mumbai,Wireless Mouse,15,₹85360,10%,3
+ORD-2222,15/09/2024,Vikram Sharma,Kolkata,Laptop Pro,15,675.00,15%,1
+ORD-2223,2024-12-02,Arjun Sharma,Chennai,Wireless Mouse,2,243.00,20%,4
+ORD-2224,2024-12-30,Pooja Reddy,Delhi,Noise-Cancelling Headphones,9,₹35920,10%,5
+ORD-2225,2024-05-02,Diya Iyer,DELHI,USB-C Hub,3,218.00,15%,4
+ORD-2226,11-05-2024,Ananya Patel,New Delhi,Laptop Pro,4,347.00,5%,1
+ORD-2227,2024-09-22, Aarav Iyer,bengaluru,Mechanical Keyboard,1,"$1,121.00",0.05,5
+ORD-2228,2024-09-04,Ananya Sharma,delhi ,Laptop Pro,3,678.00,0.05,4
+ORD-2229,07/02/2024,Priya  Reddy,Mumbai,Wireless Mouse,8,468.00,0.15,4
+ORD-2230,2024-02-25,Vikram Sharma,MUMBAI,Webcam HD,10,$798.00,0.05,Excellent
+ORD-2231,2024-03-23,Vikram Verma,MUMBAI,Noise-Cancelling Headphones,8,435.00,10%,4
+ORD-2232,2024-09-01, Rohan  Reddy,Kolkata,Monitor 4K,6,$101.00,0.05,Excellent
+ORD-2233,2024-07-24,Priya  Sharma,Bangalore,USB-C Hub,15,₹35280,20%,5
+ORD-2234,2024-02-16,Diya Reddy,MUMBAI,Noise-Cancelling Headphones,14,null,5%,4
+ORD-2235,2024-09-22, Rohan  Sharma,Bengaluru ,Wireless Mouse,3,85000.00,15%,1
+ORD-2236,2024-01-09,Ananya Patel,New Delhi,Webcam HD,7,₹35200,5%,2
+ORD-2237,01-07-2024,Vikram Mehta,Bengaluru ,Laptop Pro,4,160.00,10%,2
+ORD-2238,2024-02-03,Arjun Reddy,Kolkata,Laptop Pro,15,₹44960,0,1
+ORD-2239,2024-03-12,Diya Sharma,Bengaluru ,USB-C Hub,5,₹76960,0.05,2
+ORD-2240,2024-01-05,Arjun Iyer,Bengaluru ,Monitor 4K,9,₹22400,15%,1
+ORD-2241,2024-08-06,Pooja Sharma,DELHI,Noise-Cancelling Headphones,4,862.00,15%,2
+ORD-2242,2024-03-29, Rohan  Verma,Chennai,Monitor 4K,null,941.00,0,5
+ORD-2243,2024-08-25,Vikram Sharma,delhi ,Wireless Mouse,8,977.00,20%,5
+ORD-2244,2024-01-13,Diya Verma,Mumbai,Laptop Pro,13,$818.00,0.1,3
+ORD-2245,2024-02-17,Vikram Patel,Mumbai,Monitor 4K,11,N/A,0.15,5
+ORD-2246,2024-06-27, Aarav Reddy,DELHI,Monitor 4K,12,?,20%,1
+ORD-2247,2024-06-25,Ananya Sharma,Bengaluru ,Wireless Mouse,1,812.00,0.15,2
+ORD-2248,2024-03-12,Vikram Patel,Chennai,Noise-Cancelling Headphones,13,$693.00,15%,5
+ORD-2249,2024-12-13,Arjun Iyer,Bangalore,Webcam HD,5,$788.00,0.15,5
+ORD-2250,2024-06-30, Rohan  Reddy,bengaluru,Wireless Mouse,14,493.00,0.1,4
+ORD-2251,2024-05-03,Ananya Iyer,bengaluru,Mechanical Keyboard,none,524.00,0.15,2
+ORD-2252,2024-11-01, Aarav Sharma,none,USB-C Hub,12,₹7200,0,5
+ORD-2253,2024-12-22, Rohan  Patel,Bengaluru ,USB-C Hub,6,$34.00,5%,3
+ORD-2254,12-18-2024,Priya  Mehta,Delhi,Noise-Cancelling Headphones,5,$454.00,0.15,2
+ORD-2255,2024-11-13,Priya  Patel,Chennai,Laptop Pro,6,₹6720,0.1,4
+ORD-2256,2024-02-26,Diya Mehta,bengaluru,Noise-Cancelling Headphones,6,189.00,0.1,4
+ORD-2257,2024-06-25,Vikram Reddy,Chennai,Laptop Pro,8,₹32480,0.15,1
+ORD-2258,2024-07-10,Priya  Reddy,MUMBAI,USB-C Hub,7,83.00,5%,1
+ORD-2259,2024-02-12,Pooja Iyer,Bengaluru ,Monitor 4K,12,"$1,036.00",0.05,2
+ORD-2260,2024-12-12,Pooja Sharma,DELHI,Webcam HD,14,"$1,112.00",20%,1
+ORD-2261,2024-05-04,Diya Sharma,DELHI,Webcam HD,5,296.00,0.1,1
+ORD-2262,2024-04-09,Priya  Reddy,New Delhi,Mechanical Keyboard,15,198.00,5%,3
+ORD-2263,2024-12-15,Arjun Verma,MUMBAI,Webcam HD,15,$950.00,0.15,1
+ORD-2264,2024-04-27,Pooja Verma,MUMBAI,Monitor 4K,8,471.00,10%,4
+ORD-2265,2024-06-26,Ananya Mehta,New Delhi,Laptop Pro,1,85000.00,0.1,2
+ORD-2266,11-22-2024,Arjun Iyer,bengaluru,Mechanical Keyboard,4,₹9760,0.05,3
+ORD-2267,2024-05-02,Ananya Patel,New Delhi,Webcam HD,3,$171.00,0%,3
+ORD-2268,2024-02-20,Arjun Verma,DELHI,Laptop Pro,11,182.00,0,0
+ORD-2269,2024-11-28,Pooja Verma,Delhi,Mechanical Keyboard,5,"$1,020.00",0.15,1
+ORD-2270,2024-01-05,Pooja Sharma,Delhi,Webcam HD,10,$681.00,0.1,5
+ORD-2271,2024-11-25,Priya  Iyer,DELHI,Monitor 4K,14,₹20800,0.05,5
+ORD-2272,2024-08-05,Priya  Iyer,MUMBAI,Webcam HD,1,$787.00,0.05,2
+ORD-2273,2024-12-17,Vikram Iyer,delhi ,USB-C Hub,7,$385.00,0.1,4
+ORD-2274,2024-03-30,Arjun Patel,delhi ,Monitor 4K,7,449.00,0.15,4
+ORD-2275,2024-01-12, Rohan  Iyer,Delhi,USB-C Hub,10,491.00,5%,5
+ORD-2276,2024-09-04, Rohan  Patel,Delhi,USB-C Hub,11,₹25760,0%,1
+ORD-2277,2024-08-16,Priya  Mehta,Bangalore,USB-C Hub,12,₹87280,0%,2
+ORD-2278,2024-02-26,Diya Reddy,mumbai,Monitor 4K,9,$233.00,5%,3
+ORD-2279,2024-02-18,Diya Sharma,mumbai,Webcam HD,12,₹69840,0,5
+ORD-2280,2024-07-19,Ananya Iyer,New Delhi,Noise-Cancelling Headphones,7,₹82880,20%,2
+ORD-2281,2024-09-26,Ananya Patel,Chennai,Monitor 4K,11,359.00,0,2
+ORD-2282,2024-03-19, Rohan  Patel,DELHI,Wireless Mouse,15,$725.00,0.15,3
+ORD-2283,2024-04-01,Ananya Iyer,New Delhi,Mechanical Keyboard,9,₹66720,15%,2
+ORD-2284,31/02/2024,Priya  Verma,Bangalore,Monitor 4K,6,119.00,0.05,1
+ORD-2285,2024-12-25,Arjun Reddy,Kolkata,Webcam HD,9,156.00,0,Excellent
+ORD-2286,2024-09-02,Ananya Sharma,DELHI,USB-C Hub,3,578.00,0.15,2
+ORD-2287,06-09-2024, Aarav Verma,delhi ,Noise-Cancelling Headphones,3,₹50560,20%,3
+ORD-2288,2024-06-06,Diya Patel,Kolkata,Noise-Cancelling Headphones,6,none,0,5
+ORD-2289,2024-04-08, Aarav Iyer,mumbai,Laptop Pro,9,391.00,20%,5
+ORD-2290,10-30-2024,Arjun Sharma,New Delhi,Mechanical Keyboard,10,₹71360,0.05,1
+ORD-2291,2024-11-07,Ananya Patel,Mumbai,Wireless Mouse,3,"$85,000.00",0.05,3
+ORD-2292,2024-05-01,Vikram Verma,bengaluru,Mechanical Keyboard,12,₹8080,0.1,5
+ORD-2293,24/06/2024,Pooja Mehta,mumbai,Webcam HD,6,359.00,0,4
+ORD-2294,2024-05-07,Ananya Sharma,Mumbai,USB-C Hub,14,988.00,5%,5
+ORD-2295,2024-10-08,Vikram Reddy,Chennai,Noise-Cancelling Headphones,7,1082.00,0.15,Excellent
+ORD-2296,2024-12-24,Vikram Iyer,MUMBAI,Monitor 4K,10,₹74080,10%,3
+ORD-2297,2024-08-02, Rohan  Verma,Chennai,Monitor 4K,2,812.00,0.15,3
+ORD-2298,10-21-2024,Pooja Patel,Mumbai,USB-C Hub,-3,₹68960,0.15,3
+ORD-2299,2024-02-06,Priya  Reddy,Bangalore,Laptop Pro,3,701.00,0,3
+ORD-2300,2024-11-18,Diya Sharma,New Delhi,Webcam HD,14,₹10480,20%,2
+ORD-2301,07-12-2024,Priya  Patel,Kolkata,Wireless Mouse,none,1056.00,0.15,1
+ORD-2302,06-16-2024,Ananya Verma,MUMBAI,Wireless Mouse,4,553.00,10%,2
+ORD-2303,08-13-2024, Rohan  Iyer,Chennai,Laptop Pro,2,939.00,0.15,2
+ORD-2304,10-02-2024,Ananya Patel,bengaluru,Monitor 4K,13,1040.00,0.05,2
+ORD-2305,2024-08-16,Priya  Reddy,New Delhi,Mechanical Keyboard,8,$601.00,5%,5
+ORD-2306,2024-06-01,Arjun Patel,New Delhi,Laptop Pro,1,$120.00,10%,2
+ORD-2307,2024-05-14, Aarav Sharma,Kolkata,Mechanical Keyboard,3,435.00,0,5
+ORD-2308,2024-01-31,Diya Mehta,mumbai,Webcam HD,12,1052.00,15%,5
+ORD-2309,05-21-2024,Priya  Iyer,Bangalore,Mechanical Keyboard,11,$861.00,0.05,4
+ORD-2310,2024-12-28,Ananya Sharma,mumbai,Monitor 4K,-5,$163.00,10%,2
+ORD-2311,2024-01-09,Vikram Reddy,MUMBAI,Wireless Mouse,1,751.00,0,2
+ORD-2312,2024-05-09, Rohan  Iyer,Mumbai,Webcam HD,4,$695.00,0,2
+ORD-2313,2024-10-02,Ananya Sharma,Mumbai,Webcam HD,2,442.00,15%,2
+ORD-2314,06-11-2024, Aarav Mehta,Bengaluru ,Monitor 4K,3,268.00,0.15,1
+ORD-2315,2024-06-18,Diya Mehta,MUMBAI,Mechanical Keyboard,4,1126.00,0,1
+ORD-2316,2024-05-12, Aarav Mehta,DELHI,USB-C Hub,10,$782.00,0.05,1
+ORD-2317,2024-08-29, Aarav Verma,MUMBAI,Laptop Pro,15,754.00,20%,1
+ORD-2318,02-15-2024,Vikram Patel,Chennai,Mechanical Keyboard,11,665.00,0.05,5
+ORD-2319,2024-11-01,Diya Iyer,Bengaluru ,USB-C Hub,5,₹15440,0,4
+ORD-2320,2024-01-09, Rohan  Iyer,bengaluru,Noise-Cancelling Headphones,3,277.00,0.15,3
+ORD-2321,2024-03-28,Ananya Verma,DELHI,Laptop Pro,8,₹95840,5%,3
+ORD-2322,10-09-2024,Ananya Mehta,DELHI,Laptop Pro,8,₹45760,10%,5
+ORD-2323,2024-06-20, Aarav Verma,bengaluru,Webcam HD,3,"$1,081.00",10%,3
+ORD-2324,2024-06-02,Arjun Iyer,Bengaluru ,USB-C Hub,5,195.00,10%,4
+ORD-2325,2024-08-08, Rohan  Verma,bengaluru,Mechanical Keyboard,7,511.00,0.05,1
+ORD-2326,2024-10-11,Diya Iyer,Kolkata,Webcam HD,13,-,0.1,5
+ORD-2327,2024-05-05,Priya  Verma,Bengaluru ,Noise-Cancelling Headphones,13,"$1,178.00",0.15,1
+ORD-2328,08-30-2024,Arjun Patel,Chennai,Wireless Mouse,8,41.00,0.1,5
+ORD-2329,2024-12-05,Pooja Reddy,bengaluru,Wireless Mouse,13,₹20080,15%,4
+ORD-2330,11-23-2024,Ananya Patel,Mumbai,USB-C Hub,5,₹47920,10%,4
+ORD-2331,2024-12-16,Arjun Iyer,Chennai,Monitor 4K,8,₹47280,0%,4
+ORD-2332,2024-11-29,Arjun Reddy,New Delhi,USB-C Hub,6,172.00,0,1
+ORD-2333,2024-10-16,Vikram Verma,delhi ,Mechanical Keyboard,2,$695.00,0.05,5
+ORD-2334,2024-06-05,Vikram Sharma,Delhi,Monitor 4K,7,125.00,0,3
+ORD-2335,2024-06-19, Rohan  Reddy,bengaluru,Mechanical Keyboard,2,733.00,0.15,4
+ORD-2336,2024-11-20,Pooja Reddy,New Delhi,Mechanical Keyboard,5,"$1,199.00",0.1,2
+ORD-2337,01-22-2024,Pooja Mehta,mumbai,USB-C Hub,11,470.00,10%,4
+ORD-2338,2024-04-21,Diya Mehta,Mumbai,Noise-Cancelling Headphones,10,$70.00,5%,3
+ORD-2339,2024-10-20,Pooja Iyer,DELHI,USB-C Hub,15,589.00,15%,4
+ORD-2340,06-12-2024,Priya  Iyer,-,USB-C Hub,13,455.00,0.05,4
+ORD-2341,2024-03-13,Diya Sharma,Delhi,Mechanical Keyboard,4,636.00,0.15,3
+ORD-2342,2024-08-20,Pooja Reddy,Kolkata,Laptop Pro,12,1123.00,0.15,3
+ORD-2343,2024-06-07,Pooja Reddy,New Delhi,Monitor 4K,14,₹25680,20%,4
+ORD-2344,2024-02-20,Vikram Reddy,bengaluru,Webcam HD,2,421.00,0%,Excellent
+ORD-2345,2024-05-08,Diya Mehta,delhi ,USB-C Hub,10,1026.00,0.05,3
+ORD-2346,2024-09-12, Aarav Sharma,unknown,Laptop Pro,2,64.00,10%,4
+ORD-2347,21/10/2024,Pooja Mehta,Chennai,Monitor 4K,6,$225.00,0.15,5
+ORD-2348,2024-08-15, Rohan  Verma,Bangalore,Wireless Mouse,6,"$1,104.00",0.05,1
+ORD-2349,2024-06-25,Ananya Patel,New Delhi,Laptop Pro,5,362.00,0%,5
+ORD-2350,2024-12-21, Rohan  Reddy,Kolkata,Laptop Pro,11,492.00,15%,3
+ORD-2351,2024-05-01, Rohan  Iyer,delhi ,Wireless Mouse,9,$824.00,5%,2
+ORD-2352,2024-06-14,Pooja Reddy,Bangalore,Webcam HD,3,707.00,10%,3
+ORD-2353,2024-12-24,Arjun Reddy,delhi ,Laptop Pro,12,₹89200,5%,3
+ORD-2354,2024-10-09,Vikram Reddy,Bangalore,Webcam HD,5,229.00,20%,1
+ORD-2355,2024-05-04,Arjun Patel,delhi ,Wireless Mouse,15,unknown,15%,5
+ORD-2356,2024-12-04, Rohan  Sharma,Bangalore,Mechanical Keyboard,1,1014.00,0.15,5
+ORD-2357,14/10/2024,Arjun Reddy,bengaluru,Mechanical Keyboard,4,356.00,10%,1
+ORD-2358,2024-12-16,Diya Iyer,Mumbai,Webcam HD,10,"$1,021.00",0%,1
+ORD-2359,07-10-2024,Ananya Iyer,bengaluru,Wireless Mouse,1,₹77680,0.15,3
+ORD-2360,2024-01-02,Ananya Patel,Delhi,Monitor 4K,13,590.00,20%,3
+ORD-2361,2024-11-23, Aarav Verma,mumbai,Webcam HD,15,544.00,20%,1
+ORD-2362,2024-05-05,Priya  Sharma,Bengaluru ,Noise-Cancelling Headphones,15,₹38080,15%,2
+ORD-2363,09-13-2024,Ananya Iyer,delhi ,Wireless Mouse,7,$34.00,15%,2
+ORD-2364,2024-10-13,Priya  Iyer,Bangalore,Mechanical Keyboard,1,44.00,0.15,1
+ORD-2365,01/05/2024,Pooja Sharma,Mumbai,Monitor 4K,12,949.00,0,3
+ORD-2366,2024-10-27,Pooja Mehta,delhi ,Monitor 4K,1,$723.00,0%,4
+ORD-2367,2024-02-23, Rohan  Reddy,Mumbai,Mechanical Keyboard,6,881.00,0%,5
+ORD-2368,2024-04-14,Arjun Sharma,bengaluru,Webcam HD,14,913.00,0.15,4
+ORD-2369,2024-01-18,Priya  Reddy,Bangalore,Monitor 4K,11,445.00,0%,4
+ORD-2370,2024-01-29,Ananya Verma,bengaluru,Monitor 4K,13,₹7280,5%,2
+ORD-2371,2024-04-20, Aarav Reddy,MUMBAI,Webcam HD,14,798.00,20%,2
+ORD-2372,2024-07-19,Pooja Patel,mumbai,Wireless Mouse,1,808.00,0%,3
+ORD-2373,2024-10-23,Vikram Verma,N/A,USB-C Hub,3,1109.00,0.15,4
+ORD-2374,2024-10-08,Diya Mehta,N/A,Laptop Pro,3,₹29600,15%,5
+ORD-2375,2024-04-16, Rohan  Patel,Bangalore,Monitor 4K,15,₹87040,0,2
+ORD-2376,2024-08-30,Diya Iyer,Delhi,Wireless Mouse,9,-,0%,3
+ORD-2377,2024-03-17,Priya  Mehta,Delhi,Laptop Pro,5,$775.00,10%,1
+ORD-2378,2024-07-26,Arjun Sharma,delhi ,USB-C Hub,10,$941.00,20%,3
+ORD-2379,2024-04-06, Rohan  Verma,DELHI,Wireless Mouse,9,46.00,0.1,3
+ORD-2380,2024-09-13,Pooja Sharma,Delhi,Noise-Cancelling Headphones,10,N/A,10%,5
+ORD-2381,2024-03-05,Pooja Patel,Delhi,Webcam HD,4,₹80080,0.15,2
+ORD-2382,31/02/2024,Priya  Verma,mumbai,Webcam HD,14,₹20080,0%,2
+ORD-2383,2024-09-21,Vikram Patel,Bengaluru ,Webcam HD,4,$914.00,0.15,3
+ORD-2384,2024-09-22, Rohan  Mehta,delhi ,USB-C Hub,14,₹52320,20%,2
+ORD-2385,27/11/2024,Diya Reddy,Mumbai,Mechanical Keyboard,1,$87.00,10%,4
+ORD-2386,2024-03-26,Diya Iyer,DELHI,USB-C Hub,1,$477.00,0.1,1
+ORD-2387,2024-03-16, Aarav Sharma,DELHI,Webcam HD,2,554.00,0.05,2
+ORD-2388,2024-04-21,Priya  Sharma,Mumbai,Wireless Mouse,4,686.00,5%,5
+ORD-2389,2024-03-26, Aarav Reddy,New Delhi,Mechanical Keyboard,4,,0.1,1
+ORD-2390,2024-06-03, Rohan  Iyer,mumbai,USB-C Hub,12,606.00,10%,4
+ORD-2391,2024-05-17,Pooja Verma,Kolkata,Monitor 4K,-3,459.00,5%,2
+ORD-2392,2024-05-07, Rohan  Verma,Delhi,Mechanical Keyboard,11,₹36080,20%,3
+ORD-2393,2024-10-02,Priya  Iyer,New Delhi,USB-C Hub,7,123.00,0.15,3
+ORD-2394,2024-01-28, Rohan  Patel,Delhi,USB-C Hub,14,$637.00,20%,2
+ORD-2395,2024-01-19,Vikram Sharma,New Delhi,Webcam HD,6,68.00,15%,1
+ORD-2396,2024-06-09,Diya Iyer,New Delhi,Wireless Mouse,3,?,0.1,1
+ORD-2397,2024-08-09,Arjun Mehta,?,Laptop Pro,1,668.00,5%,3
+ORD-2398,12-20-2024, Aarav Iyer,Delhi,Noise-Cancelling Headphones,1,₹14880,0,5
+ORD-2399,10-02-2024,Pooja Sharma,MUMBAI,Noise-Cancelling Headphones,9,1096.00,0,4
+ORD-2400,2024-06-28,Priya  Verma,bengaluru,Monitor 4K,3,"$1,098.00",10%,5
+ORD-2401,2024-08-17,Pooja Sharma,Delhi,Mechanical Keyboard,12,83.00,0.05,3
+ORD-2402,07-29-2024,Pooja Reddy,Mumbai,Monitor 4K,9,"$1,079.00",0%,3
+ORD-2403,2024-06-28, Aarav Verma,Mumbai,Wireless Mouse,1,$923.00,5%,3
+ORD-2404,2024-05-02,Vikram Mehta,Kolkata,Wireless Mouse,9,₹80800,0%,1
+ORD-2405,2024-03-11,Ananya Mehta,Kolkata,Laptop Pro,1,1063.00,20%,4
+ORD-2406,2024-09-01, Rohan  Mehta,none,Wireless Mouse,1,$81.00,10%,1
+ORD-2407,2024-02-24, Rohan  Verma,Mumbai,Mechanical Keyboard,10,1041.00,0,3
+ORD-2408,2024-01-03, Aarav Patel,Mumbai,Laptop Pro,8,234.00,0,2
+ORD-2409,2024-06-21,Arjun Verma,delhi ,Webcam HD,8,1104.00,10%,4
+ORD-2410,2024-10-09,Diya Verma,Delhi,Wireless Mouse,12,₹92960,0%,1
+ORD-2411,2024-04-25,Arjun Sharma,Delhi,Noise-Cancelling Headphones,11,₹21920,0,4
+ORD-2412,2024-09-13,Ananya Patel,Bengaluru ,Wireless Mouse,7,317.00,0%,3
+ORD-2413,2024-04-11, Aarav Patel,bengaluru,Noise-Cancelling Headphones,-3,₹16000,20%,3
+ORD-2414,2024-05-20,Arjun Patel,Mumbai,Noise-Cancelling Headphones,4,166.00,15%,2
+ORD-2415,11-03-2024,Priya  Sharma,Delhi,Wireless Mouse,8,568.00,5%,5
+ORD-2416,2024-07-20,Ananya Sharma,Kolkata,Mechanical Keyboard,14,814.00,15%,3
+ORD-2417,2024-05-03,Vikram Sharma,Bengaluru ,Mechanical Keyboard,13,$218.00,20%,5
+ORD-2418,2024-06-02, Aarav Reddy,bengaluru,Monitor 4K,2,₹78560,15%,0
+ORD-2419,2024-04-23,Arjun Sharma,New Delhi,Webcam HD,9,236.00,0%,1
+ORD-2420,05-17-2024,Arjun Iyer,mumbai,USB-C Hub,5,490.00,0%,2
+ORD-2421,09-02-2024,Arjun Patel,New Delhi,USB-C Hub,-1,662.00,0.15,1
+ORD-2422,2024-11-27,Ananya Iyer,Bengaluru ,Webcam HD,15,341.00,10%,5
+ORD-2423,2024-12-04,Ananya Sharma,MUMBAI,Monitor 4K,12,$185.00,0%,5
+ORD-2424,08/08/2024,Pooja Sharma,Kolkata,Laptop Pro,6,972.00,0.1,5
+ORD-2425,2024-05-14,Ananya Patel,Bengaluru ,Mechanical Keyboard,none,null,0.15,1
+ORD-2426,2024-07-22,Diya Sharma,Bengaluru ,Webcam HD,1,$380.00,0.15,1
+ORD-2427,2024-02-07, Rohan  Iyer,Mumbai,Webcam HD,2,$310.00,0.15,3
+ORD-2428,2024-10-20,Vikram Mehta,Chennai,Webcam HD,3,$427.00,0.05,4
+ORD-2429,2024-11-17,Ananya Sharma,Chennai,Mechanical Keyboard,2,"$1,111.00",15%,3
+ORD-2430,2024-02-02,Diya Reddy,DELHI,Wireless Mouse,12,$918.00,0.05,1
+ORD-2431,2024-04-25,Diya Verma,Kolkata,Wireless Mouse,15,1117.00,0.1,4
+ORD-2432,2024-03-25,Arjun Mehta,Mumbai,USB-C Hub,13,533.00,5%,1
+ORD-2433,23/04/2024, Aarav Iyer,Bengaluru ,Noise-Cancelling Headphones,8,1005.00,0.15,2
+ORD-2434,2024-11-08,Arjun Iyer,Delhi,Noise-Cancelling Headphones,4,983.00,10%,Excellent
+ORD-2435,31/02/2024,Ananya Mehta,mumbai,Noise-Cancelling Headphones,8,984.00,10%,5
+ORD-2436,2024-02-04,Arjun Verma,Mumbai,Noise-Cancelling Headphones,11,₹37440,0,4
+ORD-2437,2024-02-22, Rohan  Mehta,New Delhi,Wireless Mouse,-1,765.00,15%,5
+ORD-2438,2024-04-24,Vikram Mehta,Bangalore,Noise-Cancelling Headphones,2,376.00,0%,4
+ORD-2439,11-11-2024,Arjun Patel,bengaluru,Mechanical Keyboard,7,₹28240,0%,3
+ORD-2440,12-16-2024, Rohan  Verma,delhi ,Laptop Pro,12,"$1,126.00",15%,0
+ORD-2441,2024-03-09,Priya  Patel,New Delhi,Laptop Pro,5,$316.00,0.05,4
+ORD-2442,13/10/2024, Aarav Verma,MUMBAI,Noise-Cancelling Headphones,14,898.00,10%,0
+ORD-2443,2024-02-02,Arjun Patel,Bangalore,Laptop Pro,5,₹56240,0.05,2
+ORD-2444,2024-05-31,Ananya Iyer,?,Monitor 4K,2,424.00,0.1,5
+ORD-2445,2024-09-14,Ananya Mehta,Mumbai,Wireless Mouse,1,651.00,10%,1
+ORD-2446,2024-03-22, Aarav Verma,Bangalore,Mechanical Keyboard,3,848.00,0.1,Excellent
+ORD-2447,2024-09-30,Pooja Iyer,delhi ,Webcam HD,15,658.00,0.1,3
+ORD-2448,11-01-2024,Ananya Sharma,mumbai,Monitor 4K,8,205.00,5%,4
+ORD-2449,2024-08-14,Diya Patel,MUMBAI,Laptop Pro,14,₹60400,5%,2
+ORD-2450,2024-04-13,Ananya Sharma,bengaluru,Wireless Mouse,12,169.00,0%,3
+ORD-2451,2024-02-29, Aarav Verma,Bangalore,Monitor 4K,3,980.00,0.1,5
+ORD-2452,2024-03-15, Aarav Iyer,Bengaluru ,Monitor 4K,9,553.00,15%,1
+ORD-2453,2024-10-27,Vikram Patel,Chennai,Noise-Cancelling Headphones,6,$972.00,5%,4
+ORD-2454,2024-08-06,Pooja Mehta,New Delhi,USB-C Hub,10,₹19840,0,5
+ORD-2455,2024-08-24,Priya  Mehta,bengaluru,Webcam HD,4,₹83360,0.15,3
+ORD-2456,2024-12-21,Priya  Mehta,Kolkata,Webcam HD,2,,5%,2
+ORD-2457,2024-12-30,Diya Verma,Bengaluru ,Monitor 4K,9,$707.00,5%,4
+ORD-2458,2024-08-22,Priya  Reddy,Mumbai,Monitor 4K,12,$134.00,0%,5
+ORD-2459,2024-10-26,Pooja Mehta,Delhi,Wireless Mouse,8,540.00,5%,4
+ORD-2460,2024-02-25, Rohan  Verma,Kolkata,Wireless Mouse,13,54.00,0,5
+ORD-2461,2024-07-05,Pooja Reddy,Kolkata,Laptop Pro,6,₹57680,20%,Excellent
+ORD-2462,2024-11-06, Rohan  Iyer,DELHI,Mechanical Keyboard,10,$151.00,5%,5
+ORD-2463,2024-08-05,Priya  Sharma,DELHI,Laptop Pro,6,72.00,0.05,3
+ORD-2464,2024-01-20,Ananya Iyer,Delhi,Mechanical Keyboard,3,₹20720,0.05,1
+ORD-2465,2024-10-22, Rohan  Verma,mumbai,Wireless Mouse,NA,351.00,0.05,4
+ORD-2466,2024-08-20, Rohan  Iyer,Chennai,Monitor 4K,3,"$1,146.00",0.05,1
+ORD-2467,2024-08-03, Aarav Iyer,Chennai,Mechanical Keyboard,3,?,10%,3
+ORD-2468,2024-06-24,Pooja Reddy,Mumbai,Mechanical Keyboard,5,₹4240,0,1
+ORD-2469,2024-03-13,Diya Iyer,DELHI,Monitor 4K,1,304.00,0%,1
+ORD-2470,2024-06-23,Arjun Reddy,Delhi,USB-C Hub,9,1080.00,0,5
+ORD-2471,2024-03-14,Diya Mehta,Mumbai,Wireless Mouse,6,$578.00,0,1
+ORD-2472,12-25-2024, Aarav Reddy,Chennai,Noise-Cancelling Headphones,2,776.00,20%,2
+ORD-2473,2024-10-23,Priya  Sharma,Kolkata,USB-C Hub,6,₹12960,5%,3
+ORD-2474,2024-01-07,Priya  Patel,DELHI,Noise-Cancelling Headphones,12,N/A,15%,4
+ORD-2475,2024-12-11,Vikram Iyer,Bengaluru ,Mechanical Keyboard,8,658.00,0%,1
+ORD-2476,2024-06-27,Priya  Reddy,Kolkata,Webcam HD,4,₹41040,0.15,5
+ORD-2477,2024-07-13,Pooja Mehta,Delhi,Webcam HD,13,₹16480,0.1,5
+ORD-2478,05-19-2024,Arjun Verma,mumbai,Monitor 4K,1,$753.00,15%,2
+ORD-2479,2024-10-29,Pooja Mehta,Chennai,Monitor 4K,2,1119.00,20%,2
+ORD-2480,2024-07-29,Arjun Patel,Chennai,Noise-Cancelling Headphones,15,₹6800000,0.05,4
+ORD-2481,2024-01-05,Diya Patel,Bengaluru ,Monitor 4K,15,"$1,147.00",0.1,5
+ORD-2482,08-16-2024,Arjun Sharma,New Delhi,Mechanical Keyboard,9,₹43280,10%,5
+ORD-2483,2024-06-25,Vikram Patel,MUMBAI,Monitor 4K,10,956.00,0,4
+ORD-2484,2024-04-30,Pooja Iyer,Chennai,Monitor 4K,7,31.00,15%,5
+ORD-2485,05-07-2024,Diya Sharma,Mumbai,Webcam HD,5,1005.00,5%,4
+ORD-2486,2024-12-25,Arjun Sharma,Bangalore,Laptop Pro,5,"$1,086.00",0%,3
+ORD-2487,2024-04-19,Pooja Reddy,Kolkata,Noise-Cancelling Headphones,9,$872.00,0%,1
+ORD-2488,04-17-2024,Pooja Mehta,DELHI,Monitor 4K,13,122.00,10%,4
+ORD-2489,2024-08-09,Arjun Reddy,DELHI,Noise-Cancelling Headphones,3,718.00,0.1,3
+ORD-2490,2024-07-18, Rohan  Sharma,bengaluru,Monitor 4K,14,"$1,115.00",0.15,2
+ORD-2491,2024-02-16,Priya  Mehta,Delhi,Wireless Mouse,9,918.00,0.1,5
+ORD-2492,2024-04-05,Diya Iyer,Chennai,Wireless Mouse,15,"$1,014.00",20%,Excellent
+ORD-2493,2024-04-26,Priya  Reddy,Kolkata,Noise-Cancelling Headphones,15,$895.00,5%,1
+ORD-2494,2024-06-22, Aarav Patel,DELHI,Webcam HD,11,284.00,0.05,1
+ORD-2495,2024-06-18,Priya  Mehta,Chennai,Noise-Cancelling Headphones,8,$963.00,0.15,3
+ORD-2496,2024-11-22,Vikram Iyer,bengaluru,Mechanical Keyboard,6,803.00,5%,2
+ORD-2497,2024-11-15,Vikram Patel,mumbai,USB-C Hub,8,₹6720,0.15,3
+ORD-2498,20/05/2024, Aarav Iyer,Kolkata,Monitor 4K,2,₹23040,15%,5
+ORD-2499,2024-03-14,Priya  Patel,mumbai,Monitor 4K,9,$59.00,5%,4
+ORD-2500,2024-11-21,Priya  Patel,mumbai,Mechanical Keyboard,10,₹62240,0,3
+ORD-2501,2024-06-24,Ananya Mehta,Bengaluru ,Noise-Cancelling Headphones,5,1077.00,10%,3
+ORD-2502,03-14-2024, Rohan  Sharma,Kolkata,Webcam HD,3,177.00,10%,4
+ORD-2503,2024-06-12,Vikram Sharma,DELHI,Mechanical Keyboard,15,N/A,0%,2
+ORD-2504,2024-03-27,Vikram Sharma,N/A,Monitor 4K,4,$618.00,0.1,5
+ORD-2505,2024-12-03,Pooja Patel,Chennai,Laptop Pro,10,542.00,0%,5
+ORD-2506,2024-04-14, Rohan  Reddy,bengaluru,Noise-Cancelling Headphones,4,910.00,0.05,1
+ORD-2507,2024-01-14,Diya Mehta,bengaluru,Laptop Pro,5,650.00,0%,3
+ORD-2508,2024-10-20,Arjun Iyer,delhi ,Noise-Cancelling Headphones,9,$448.00,0,3
+ORD-2509,2024-09-04,Ananya Verma,Bengaluru ,Laptop Pro,13,₹80480,0.05,Excellent
+ORD-2510,2024-05-19, Rohan  Patel,unknown,Laptop Pro,13,825.00,15%,2
+ORD-2511,04-16-2024, Aarav Verma,Bangalore,Noise-Cancelling Headphones,11,137.00,0.05,4
+ORD-2512,2024-01-31,Ananya Verma,Bengaluru ,USB-C Hub,14,₹66960,10%,4
+ORD-2513,2024-09-24,Arjun Patel,delhi ,USB-C Hub,4,536.00,20%,3
+ORD-2514,2024-12-21, Rohan  Iyer,Bangalore,USB-C Hub,-5,1034.00,0%,3
+ORD-2515,2024-04-18,Priya  Verma,Delhi,Wireless Mouse,3,506.00,5%,2
+ORD-2516,29/09/2024,Vikram Sharma,New Delhi,Mechanical Keyboard,5,871.00,15%,1
+ORD-2517,2024-04-26,Diya Patel,Bangalore,Mechanical Keyboard,9,₹6800000,0.15,3
+ORD-2518,2024-02-05,Pooja Patel,Delhi,Webcam HD,2,1082.00,0.05,3
+ORD-2519,2024-07-22,Pooja Patel,New Delhi,Mechanical Keyboard,13,80.00,0.15,3
+ORD-2520,15/01/2024,Arjun Mehta,delhi ,Laptop Pro,3,$336.00,0.15,2
+ORD-2521,2024-04-16,Diya Reddy,Delhi,Monitor 4K,8,$68.00,0,1
+ORD-2522,2024-04-06, Aarav Sharma,Delhi,Wireless Mouse,5,1175.00,0.1,4
+ORD-2523,2024-12-30,Diya Iyer,DELHI,Monitor 4K,10,$817.00,0.05,3
+ORD-2524,2024-08-31,Pooja Mehta,Chennai,Noise-Cancelling Headphones,8,₹35520,0.05,1
+ORD-2525,2024-10-09,Diya Verma,Bengaluru ,Mechanical Keyboard,11,119.00,0%,3
+ORD-2526,02/05/2024,Ananya Patel,Bengaluru ,USB-C Hub,15,615.00,5%,5
+ORD-2527,2024-09-04,Priya  Iyer,MUMBAI,Noise-Cancelling Headphones,2,451.00,0.05,3
+ORD-2528,2024-02-03,Arjun Sharma,Kolkata,Monitor 4K,15,$29.00,0%,3
+ORD-2529,2024-02-22,Pooja Iyer,Bangalore,USB-C Hub,13,643.00,0.15,4
+ORD-2530,22/08/2024, Aarav Mehta,bengaluru,Laptop Pro,3,709.00,20%,4
+ORD-2531,2024-01-31,Vikram Reddy,?,USB-C Hub,9,₹37200,0,2
+ORD-2532,2024-01-08,Arjun Iyer,Chennai,Monitor 4K,1,528.00,0%,5
+ORD-2533,2024-09-12, Rohan  Mehta,bengaluru,Wireless Mouse,3,916.00,0.1,4
+ORD-2534,2024-06-23,Priya  Mehta,Kolkata,USB-C Hub,3,"$1,053.00",10%,1
+ORD-2535,03-08-2024,Pooja Verma,DELHI,Mechanical Keyboard,1,468.00,0%,4
+ORD-2536,2024-11-09, Rohan  Patel,Mumbai,Webcam HD,4,$711.00,10%,3
+ORD-2537,2024-12-28,Ananya Verma,Delhi,Laptop Pro,14,454.00,20%,3
+ORD-2538,2024-06-30,Diya Sharma,Bangalore,Wireless Mouse,14,473.00,0,4
+ORD-2539,2024-01-04,Ananya Mehta,Delhi,Wireless Mouse,-2,416.00,15%,1
+ORD-2540,10-07-2024,Arjun Mehta,Bangalore,Laptop Pro,11,$786.00,10%,4
+ORD-2541,2024-06-06, Rohan  Iyer,Kolkata,Noise-Cancelling Headphones,10,$347.00,20%,5
+ORD-2542,2024-07-04,Ananya Iyer,bengaluru,Wireless Mouse,4,960.00,0%,1
+ORD-2543,2024-10-31,Arjun Iyer,mumbai,Webcam HD,11,?,15%,1
+ORD-2544,2024-04-24, Aarav Verma,Bengaluru ,Monitor 4K,3,"$1,170.00",0.15,2
+ORD-2545,2024-03-27, Aarav Verma,Kolkata,Mechanical Keyboard,7,491.00,15%,3
+ORD-2546,2024-12-05,Arjun Iyer,New Delhi,Laptop Pro,2,57.00,15%,2
+ORD-2547,2024-12-02,Diya Mehta,Chennai,Wireless Mouse,5,1180.00,0.15,3
+ORD-2548,2024-07-21,Priya  Mehta,Chennai,Wireless Mouse,13,941.00,15%,3
+ORD-2549,2024-01-30,Pooja Reddy,delhi ,Mechanical Keyboard,12,$774.00,20%,4
+ORD-2550,2024-06-02,Pooja Reddy,New Delhi,Monitor 4K,1,$691.00,0.15,1
+ORD-2551,2024-10-04,Arjun Mehta,bengaluru,Webcam HD,8,$585.00,10%,1
+ORD-2552,01-30-2024,Vikram Mehta,Kolkata,Monitor 4K,7,₹29040,0%,1
+ORD-2553,12-17-2024, Aarav Patel,Bangalore,Laptop Pro,,454.00,15%,4
+ORD-2554,2024-05-21,Arjun Iyer,delhi ,Mechanical Keyboard,13,717.00,0,4
+ORD-2555,2024-11-22, Aarav Sharma,delhi ,USB-C Hub,4,788.00,0,3
+ORD-2556,2024-03-26,Diya Patel,Delhi,Laptop Pro,2,₹32160,0,1
+ORD-2557,2024-04-07,Arjun Iyer,-,USB-C Hub,14,₹38400,10%,5
+ORD-2558,2024-11-08,Arjun Sharma,bengaluru,Noise-Cancelling Headphones,6,$60.00,0,2
+ORD-2559,2024-04-09,Pooja Mehta,Mumbai,Laptop Pro,14,461.00,0%,4
+ORD-2560,07-17-2024,Pooja Sharma,DELHI,Mechanical Keyboard,12,92.00,0%,1
+ORD-2561,2024-10-10, Aarav Verma,delhi ,Noise-Cancelling Headphones,12,₹39680,0.05,5
+ORD-2562,2024-01-31,Arjun Iyer,Kolkata,USB-C Hub,12,1059.00,10%,5
+ORD-2563,02/07/2024, Aarav Patel,delhi ,Wireless Mouse,13,85000.00,0,4
+ORD-2564,2024-12-20,Arjun Sharma,bengaluru,Webcam HD,6,$564.00,0,3
+ORD-2565,2024-07-30, Rohan  Mehta,MUMBAI,Monitor 4K,11,1143.00,0,2
+ORD-2566,2024-05-28,Pooja Verma,MUMBAI,Wireless Mouse,13,₹89360,20%,3
+ORD-2567,2024-11-18,Arjun Reddy,bengaluru,USB-C Hub,-4,₹23200,5%,4
+ORD-2568,2024-06-06,Priya  Iyer,bengaluru,Monitor 4K,11,870.00,10%,1
+ORD-2569,2024-09-11,Pooja Iyer,DELHI,USB-C Hub,3,$724.00,0,3
+ORD-2570,2024-08-19,Diya Mehta,DELHI,Laptop Pro,15,$491.00,20%,1
+ORD-2571,2024-04-27,Ananya Iyer,Chennai,Laptop Pro,NA,325.00,0%,1
+ORD-2572,2024-10-02, Rohan  Sharma,New Delhi,Noise-Cancelling Headphones,14,1011.00,0%,5
+ORD-2573,2024-04-21,Arjun Patel,bengaluru,Laptop Pro,1,"$1,185.00",0.15,5
+ORD-2574,2024-04-21,Priya  Iyer,mumbai,Webcam HD,12,$640.00,10%,2
+ORD-2575,04-13-2024, Rohan  Mehta,bengaluru,Noise-Cancelling Headphones,1,₹56240,15%,3
+ORD-2576,2024-08-10,Priya  Patel,bengaluru,Mechanical Keyboard,14,"$1,050.00",0.15,2
+ORD-2577,2024-10-11,Vikram Verma,DELHI,Mechanical Keyboard,1,₹80720,0,Excellent
+ORD-2578,2024-07-17,Priya  Sharma,Bengaluru ,Mechanical Keyboard,8,$663.00,5%,3
+ORD-2579,2024-05-21,Priya  Patel,Bengaluru ,Mechanical Keyboard,,₹9440,0.15,3
+ORD-2580,2024-11-16,Vikram Verma,Bangalore,Monitor 4K,15,$292.00,0.15,2
+ORD-2581,05-27-2024,Priya  Verma,New Delhi,Laptop Pro,14,₹54640,15%,5
+ORD-2582,2024-10-11, Aarav Iyer,Delhi,Mechanical Keyboard,?,813.00,20%,2
+ORD-2583,2024-03-20,Vikram Reddy,DELHI,Laptop Pro,14,"$1,056.00",0.05,2
+ORD-2584,2024-01-06,Vikram Mehta,MUMBAI,Monitor 4K,15,$848.00,10%,2
+ORD-2585,2024-04-15,Diya Sharma,bengaluru,Laptop Pro,5,$911.00,0,4
+ORD-2586,08-30-2024,Pooja Iyer,Chennai,Wireless Mouse,9,219.00,0.1,3
+ORD-2587,2024-03-26,Priya  Reddy,delhi ,Wireless Mouse,15,831.00,0.15,3
+ORD-2588,2024-02-06,Arjun Reddy,Bengaluru ,Laptop Pro,14,₹92960,0.15,5
+ORD-2589,2024-07-26, Rohan  Sharma,New Delhi,Monitor 4K,1,₹52400,20%,1
+ORD-2590,2024-07-20, Aarav Reddy,Mumbai,Webcam HD,5,₹95440,5%,4
+ORD-2591,2024-07-17,Arjun Mehta,Delhi,Webcam HD,3,$910.00,0.15,3
+ORD-2592,2024-02-23,Diya Reddy,Bangalore,Monitor 4K,8,85000.00,0.15,2
+ORD-2593,2024-01-03,Priya  Verma,bengaluru,Noise-Cancelling Headphones,9,885.00,0.1,4
+ORD-2594,2024-04-18,Pooja Mehta,Mumbai,Mechanical Keyboard,3,1028.00,0.15,3
+ORD-2595,2024-12-01,Pooja Iyer,Mumbai,Mechanical Keyboard,14,$513.00,10%,3
+ORD-2596,2024-05-03, Aarav Verma,Mumbai,Noise-Cancelling Headphones,7,$669.00,0,3
+ORD-2597,2024-09-03, Aarav Iyer,bengaluru,USB-C Hub,3,272.00,15%,1
+ORD-2598,2024-04-17, Rohan  Reddy,Chennai,Mechanical Keyboard,12,$552.00,20%,5
+ORD-2599,2024-08-09, Rohan  Reddy,Kolkata,Mechanical Keyboard,13,$832.00,0%,5
+ORD-2600,2024-06-20,Diya Iyer,Mumbai,Webcam HD,2,$68.00,20%,4
+ORD-2601,2024-05-14,Pooja Patel,bengaluru,Wireless Mouse,1,899.00,10%,5
+ORD-2602,2024-01-12,Priya  Sharma,Kolkata,Wireless Mouse,8,84.00,0,5
+ORD-2603,2024-03-22,Diya Iyer,New Delhi,Monitor 4K,8,₹43520,20%,2
+ORD-2604,16/08/2024, Aarav Reddy,bengaluru,Webcam HD,2,116.00,0.1,4
+ORD-2605,2024-08-13, Aarav Patel,New Delhi,USB-C Hub,8,461.00,0%,4
+ORD-2606,10/11/2024,Priya  Iyer,Bangalore,Monitor 4K,13,₹65840,0.1,5
+ORD-2607,2024-05-16,Pooja Verma,Chennai,Monitor 4K,3,93.00,10%,1
+ORD-2608,2024-03-22,Ananya Patel,Bengaluru ,Noise-Cancelling Headphones,4,$68.00,0.05,3
+ORD-2609,2024-01-16,Ananya Sharma,Delhi,Webcam HD,15,359.00,5%,1
+ORD-2610,2024-04-12,Ananya Sharma,?,Monitor 4K,5,"$1,107.00",15%,5
+ORD-2611,2024-04-21,Diya Patel,Bangalore,Wireless Mouse,12,332.00,5%,4
+ORD-2612,2024-09-20,Diya Patel,mumbai,Webcam HD,3,767.00,20%,2
+ORD-2613,2024-03-04,Vikram Mehta,Mumbai,USB-C Hub,2,$718.00,0.05,3
+ORD-2614,2024-12-01,Ananya Patel,mumbai,Laptop Pro,10,764.00,0.05,1
+ORD-2615,2024-12-05,Ananya Mehta,Bangalore,Noise-Cancelling Headphones,6,$393.00,0.05,5
+ORD-2616,31/02/2024,Vikram Iyer,Mumbai,Webcam HD,5,1146.00,20%,4
+ORD-2617,2024-06-23, Aarav Reddy,mumbai,Monitor 4K,15,$370.00,15%,2
+ORD-2618,2024-07-22,Vikram Patel,delhi ,Noise-Cancelling Headphones,8,126.00,0.05,3
+ORD-2619,2024-03-03, Aarav Patel,mumbai,Webcam HD,12,874.00,15%,1
+ORD-2620,01-27-2024,Arjun Sharma,mumbai,Noise-Cancelling Headphones,3,₹17280,0.15,2
+ORD-2621,2024-01-19,Diya Sharma,bengaluru,USB-C Hub,2,93.00,10%,1
+ORD-2622,25/01/2024, Aarav Iyer,Kolkata,Noise-Cancelling Headphones,10,$912.00,0.05,5
+ORD-2623,12-01-2024,Ananya Iyer,New Delhi,Monitor 4K,8,1089.00,0.05,2
+ORD-2624,06-02-2024, Aarav Patel,Chennai,Webcam HD,5,$329.00,0.15,2
+ORD-2625,2024-07-27,Diya Patel,Kolkata,Noise-Cancelling Headphones,14,644.00,20%,5
+ORD-2626,2024-11-11, Aarav Mehta,MUMBAI,Mechanical Keyboard,10,596.00,0.15,3
+ORD-2627,2024-07-18, Rohan  Patel,delhi ,Noise-Cancelling Headphones,3,323.00,0.05,2
+ORD-2628,2024-08-27,Priya  Mehta,MUMBAI,Noise-Cancelling Headphones,7,1032.00,15%,3
+ORD-2629,2024-12-17,Pooja Patel,MUMBAI,Noise-Cancelling Headphones,6,$967.00,0.15,4
+ORD-2630,2024-11-29,Vikram Patel,MUMBAI,Wireless Mouse,7,$244.00,20%,2
+ORD-2631,2024-08-08,Pooja Reddy,Delhi,Wireless Mouse,2,₹95600,20%,2
+ORD-2632,12/06/2024,Ananya Verma,Mumbai,Wireless Mouse,12,1177.00,0.05,1
+ORD-2633,04-16-2024,Diya Mehta,Chennai,Webcam HD,12,"$1,030.00",0.15,3
+ORD-2634,07-04-2024,Pooja Mehta,Bangalore,Laptop Pro,10,$904.00,0.15,1
+ORD-2635,07-06-2024,Ananya Reddy,Bengaluru ,Webcam HD,3,$247.00,0.05,2
+ORD-2636,01-23-2024,Ananya Reddy,Mumbai,Wireless Mouse,7,$867.00,0%,3
+ORD-2637,2024-08-02,Pooja Sharma,MUMBAI,Mechanical Keyboard,11,₹41600,0.1,Excellent
+ORD-2638,2024-12-16,Ananya Verma,mumbai,Mechanical Keyboard,3,195.00,0.05,2
+ORD-2639,12-22-2024,Priya  Mehta,Mumbai,Monitor 4K,6,₹15360,0.05,1
+ORD-2640,2024-01-17,Diya Iyer,bengaluru,Webcam HD,6,$251.00,0,3
+ORD-2641,2024-06-10,Ananya Reddy,mumbai,Noise-Cancelling Headphones,4,85000.00,0.1,5
+ORD-2642,2024-03-02, Rohan  Patel,Delhi,Noise-Cancelling Headphones,8,₹3680,0.05,2
+ORD-2643,2024-04-18,Diya Reddy,Bangalore,Noise-Cancelling Headphones,7,₹88640,0%,5
+ORD-2644,2024-01-30,Priya  Sharma,MUMBAI,Monitor 4K,12,₹14000,0,3
+ORD-2645,2024-07-16,Priya  Reddy,mumbai,Webcam HD,10,$439.00,5%,0
+ORD-2646,2024-01-07,Arjun Iyer,Chennai,Wireless Mouse,14,352.00,0%,5
+ORD-2647,01/03/2024,Priya  Sharma,New Delhi,Mechanical Keyboard,2,NA,15%,2
+ORD-2648,12-07-2024,Priya  Verma,Kolkata,Noise-Cancelling Headphones,14,"$1,030.00",10%,1
+ORD-2649,2024-08-06,Diya Mehta,MUMBAI,Laptop Pro,11,676.00,0,3
+ORD-2650,2024-04-14,Vikram Iyer,Chennai,Noise-Cancelling Headphones,9,382.00,0%,2
+ORD-2651,2024-10-09,Priya  Sharma,Bangalore,USB-C Hub,6,707.00,0.05,1
+ORD-2652,2024-02-01,Pooja Verma,DELHI,Mechanical Keyboard,2,"$1,189.00",20%,1
+ORD-2653,09-01-2024, Rohan  Sharma,bengaluru,Wireless Mouse,13,₹80160,0.1,5
+ORD-2654,2024-09-02,Ananya Sharma,Kolkata,Monitor 4K,2,₹76000,0%,4
+ORD-2655,2024-05-05,Diya Reddy,mumbai,Webcam HD,6,691.00,0.05,2
+ORD-2656,2024-06-03,Vikram Mehta,delhi ,Laptop Pro,1,$313.00,0.1,4
+ORD-2657,2024-08-18,Arjun Mehta,New Delhi,Wireless Mouse,7,968.00,0.1,5
+ORD-2658,05-16-2024, Rohan  Sharma,Delhi,USB-C Hub,12,$995.00,0,0
+ORD-2659,2024-09-15,Diya Sharma,Bengaluru ,Noise-Cancelling Headphones,13,527.00,0.1,1
+ORD-2660,08-22-2024,Arjun Verma,MUMBAI,USB-C Hub,3,812.00,0%,Excellent
+ORD-2661,2024-04-28,Ananya Patel,DELHI,Wireless Mouse,1,1028.00,0.1,5
+ORD-2662,2024-08-29,Ananya Patel,New Delhi,Monitor 4K,1,$929.00,0,1
+ORD-2663,2024-03-28,Vikram Sharma,MUMBAI,Monitor 4K,7,543.00,0%,4
+ORD-2664,2024-03-12, Rohan  Mehta,mumbai,Mechanical Keyboard,9,263.00,0.05,3
+ORD-2665,2024-02-13,Diya Verma,Mumbai,Wireless Mouse,5,"$1,056.00",0.05,4
+ORD-2666,2024-10-24,Vikram Iyer,delhi ,Webcam HD,2,$947.00,0.15,5
+ORD-2667,2024-07-25,Arjun Patel,Bangalore,Wireless Mouse,4,814.00,10%,5
+ORD-2668,2024-04-07, Rohan  Verma,NA,Laptop Pro,15,306.00,0.05,1
+ORD-2669,2024-05-08,Arjun Reddy,New Delhi,Webcam HD,6,₹42400,10%,4
+ORD-2670,2024-03-09,Priya  Reddy,Kolkata,Noise-Cancelling Headphones,11,898.00,0.05,4
+ORD-2671,05-29-2024,Priya  Verma,New Delhi,Noise-Cancelling Headphones,14,174.00,5%,2
+ORD-2672,2024-08-09,Pooja Iyer,bengaluru,Monitor 4K,8,₹73120,0.05,1
+ORD-2673,2024-09-18,Vikram Verma,Kolkata,Wireless Mouse,11,898.00,0.05,4
+ORD-2674,2024-02-10, Aarav Patel,delhi ,Noise-Cancelling Headphones,3,190.00,0%,Excellent
+ORD-2675,09-10-2024,Arjun Verma,Mumbai,Monitor 4K,10,843.00,0.1,1
+ORD-2676,2024-02-07, Aarav Iyer,Mumbai,Noise-Cancelling Headphones,10,₹56480,15%,3
+ORD-2677,2024-04-16,Arjun Patel,delhi ,Laptop Pro,6,244.00,0,0
+ORD-2678,2024-05-08, Aarav Iyer,DELHI,Wireless Mouse,12,1022.00,20%,2
+ORD-2679,02-27-2024,Pooja Verma,bengaluru,Webcam HD,13,496.00,10%,2
+ORD-2680,2024-10-24,Arjun Verma,delhi ,Laptop Pro,4,$513.00,0.1,4
+ORD-2681,2024-10-24, Aarav Sharma,bengaluru,Laptop Pro,-4,$634.00,10%,3
+ORD-2682,2024-01-13,Diya Patel,MUMBAI,Laptop Pro,9,$937.00,5%,1
+ORD-2683,2024-01-11,Arjun Sharma,Chennai,Wireless Mouse,1,₹69360,5%,1
+ORD-2684,2024-06-21,Priya  Verma,Delhi,Noise-Cancelling Headphones,3,286.00,0.15,1
+ORD-2685,2024-10-10,Diya Mehta,Bangalore,USB-C Hub,8,$976.00,0.05,4
+ORD-2686,2024-01-22,Ananya Patel,Bengaluru ,USB-C Hub,7,1069.00,20%,1
+ORD-2687,2024-12-02,Pooja Verma,Kolkata,Webcam HD,13,₹54240,10%,1
+ORD-2688,2024-06-05, Aarav Iyer,Kolkata,Monitor 4K,7,₹39280,20%,3
+ORD-2689,12-02-2024,Priya  Mehta,mumbai,Noise-Cancelling Headphones,13,473.00,20%,4
+ORD-2690,2024-09-26, Aarav Patel,Chennai,Noise-Cancelling Headphones,2,$89.00,0.1,Excellent
+ORD-2691,09-10-2024,Diya Sharma,DELHI,USB-C Hub,6,none,15%,5
+ORD-2692,2024-02-11, Aarav Sharma,DELHI,Webcam HD,8,₹11680,5%,1
+ORD-2693,06-16-2024,Priya  Iyer,Mumbai,Wireless Mouse,4,300.00,0,1
+ORD-2694,2024-05-13, Aarav Patel,Bangalore,Monitor 4K,15,₹95920,20%,2
+ORD-2695,2024-08-06,Priya  Sharma,Mumbai,USB-C Hub,2,₹85520,15%,Excellent
+ORD-2696,2024-05-18, Rohan  Verma,Kolkata,Mechanical Keyboard,13,$702.00,0%,3
+ORD-2697,2024-02-28,Vikram Patel,MUMBAI,Laptop Pro,7,₹35360,0.05,4
+ORD-2698,2024-07-06, Rohan  Reddy,MUMBAI,Laptop Pro,11,665.00,0.1,3
+ORD-2699,2024-06-10,Vikram Sharma,DELHI,Mechanical Keyboard,10,780.00,10%,2
+ORD-2700,2024-10-30,Priya  Patel,Kolkata,Noise-Cancelling Headphones,11,$376.00,15%,5
+ORD-2701,2024-04-18,Vikram Mehta,mumbai,Wireless Mouse,8,1025.00,0,3
+ORD-2702,10/08/2024,Priya  Mehta,bengaluru,Wireless Mouse,3,$961.00,10%,5
+ORD-2703,11-30-2024,Arjun Sharma,delhi ,Laptop Pro,8,346.00,0.05,5
+ORD-2704,2024-03-13,Arjun Sharma,DELHI,Mechanical Keyboard,15,$238.00,0.1,2
+ORD-2705,2024-05-06,Arjun Iyer,Mumbai,Wireless Mouse,3,522.00,0.1,3
+ORD-2706,2024-12-30,Diya Mehta,DELHI,Mechanical Keyboard,8,614.00,0.05,3
+ORD-2707,2024-04-19, Aarav Patel,Bangalore,Mechanical Keyboard,14,$579.00,5%,3
+ORD-2708,2024-10-09,Vikram Iyer,mumbai,Laptop Pro,13,$293.00,0.05,2
+ORD-2709,2024-08-14,Ananya Iyer,DELHI,Wireless Mouse,5,469.00,0.15,5
+ORD-2710,2024-10-23,Arjun Mehta,DELHI,Mechanical Keyboard,unknown,₹29040,15%,3
+ORD-2711,2024-02-04,Pooja Sharma,mumbai,Wireless Mouse,null,159.00,5%,2
+ORD-2712,2024-02-23, Aarav Mehta,Mumbai,Laptop Pro,1,352.00,0%,1
+ORD-2713,08-29-2024, Rohan  Verma,Bangalore,Laptop Pro,2,"$1,094.00",0,3
+ORD-2714,03-08-2024, Rohan  Verma,Bengaluru ,Webcam HD,8,₹59440,0,Excellent
+ORD-2715,2024-08-10,Arjun Reddy,mumbai,Laptop Pro,5,$274.00,20%,4
+ORD-2716,06-22-2024,Arjun Verma,delhi ,USB-C Hub,14,₹73680,0%,3
+ORD-2717,2024-05-27,Priya  Reddy,New Delhi,Noise-Cancelling Headphones,6,₹9520,0.05,3
+ORD-2718,2024-10-20,Pooja Mehta,Chennai,Webcam HD,1,929.00,0,1
+ORD-2719,2024-01-28,Priya  Reddy,MUMBAI,USB-C Hub,10,508.00,0,3
+ORD-2720,2024-08-08,Priya  Iyer,DELHI,USB-C Hub,8,"$1,144.00",0.15,1
+ORD-2721,2024-07-10,Ananya Patel,Bengaluru ,Wireless Mouse,13,$476.00,15%,3
+ORD-2722,2024-04-04,Arjun Reddy,-,Mechanical Keyboard,6,260.00,0,Excellent
+ORD-2723,2024-06-19,Arjun Patel,Delhi,Noise-Cancelling Headphones,15,$575.00,20%,5
+ORD-2724,2024-05-16,Vikram Reddy,Chennai,Webcam HD,12,"$1,045.00",15%,2
+ORD-2725,2024-01-17,Arjun Verma,Kolkata,Mechanical Keyboard,5,428.00,0%,4
+ORD-2726,2024-07-02,Priya  Patel,Chennai,USB-C Hub,9,$920.00,5%,5
+ORD-2727,2024-11-17,Ananya Mehta,Bangalore,Wireless Mouse,11,"$1,196.00",0.05,5
+ORD-2728,31/02/2024,Pooja Reddy,delhi ,Wireless Mouse,12,38.00,10%,1
+ORD-2729,2024-02-26,Priya  Iyer,Mumbai,USB-C Hub,4,198.00,0.15,4
+ORD-2730,2024-07-09,Arjun Patel,Bangalore,Mechanical Keyboard,1,₹83920,10%,2
+ORD-2731,2024-02-01,Arjun Sharma,Bengaluru ,Monitor 4K,8,$763.00,20%,1
+ORD-2732,2024-03-28,Ananya Mehta,bengaluru,Mechanical Keyboard,1,803.00,0%,1
+ORD-2733,2024-04-09,Vikram Mehta,New Delhi,Wireless Mouse,2,254.00,5%,4
+ORD-2734,2024-12-22,Diya Reddy,Mumbai,Wireless Mouse,5,$734.00,0.15,2
+ORD-2735,2024-12-30,Arjun Iyer,MUMBAI,Monitor 4K,11,441.00,0.1,5
+ORD-2736,12-15-2024,Priya  Reddy,Bengaluru ,Noise-Cancelling Headphones,14,910.00,20%,2
+ORD-2737,2024-05-25,Priya  Sharma,Bengaluru ,Mechanical Keyboard,12,$124.00,5%,5
+ORD-2738,2024-01-05,Arjun Verma,DELHI,Laptop Pro,11,179.00,5%,3
+ORD-2739,18/03/2024, Rohan  Reddy,MUMBAI,Mechanical Keyboard,10,₹36720,10%,5
+ORD-2740,2024-01-08,Ananya Patel,Bengaluru ,Webcam HD,11,585.00,0.05,1
+ORD-2741,2024-05-06, Aarav Mehta,Bengaluru ,Monitor 4K,5,"$85,000.00",20%,Excellent
+ORD-2742,2024-03-30,Arjun Sharma,DELHI,Webcam HD,11,$476.00,0.1,4
+ORD-2743,2024-06-13,Vikram Verma,DELHI,Mechanical Keyboard,15,530.00,0.1,2
+ORD-2744,01-31-2024,Pooja Mehta,New Delhi,Noise-Cancelling Headphones,3,992.00,5%,4
+ORD-2745,2024-12-26,Pooja Patel,Bengaluru ,Webcam HD,2,249.00,0,3
+ORD-2746,2024-02-15,Vikram Verma,?,Webcam HD,10,₹16480,0.15,2
+ORD-2747,2024-10-28,Pooja Verma,Chennai,Laptop Pro,3,363.00,0.15,5
+ORD-2748,2024-10-06, Rohan  Patel,New Delhi,Monitor 4K,1,₹9120,0.1,4
+ORD-2749,2024-05-25, Rohan  Iyer,Kolkata,USB-C Hub,4,$617.00,0.1,4
+ORD-2750,2024-02-03,Priya  Reddy,Bangalore,USB-C Hub,13,$164.00,20%,5
+ORD-2751,2024-07-28,Vikram Iyer,New Delhi,Noise-Cancelling Headphones,3,$398.00,5%,0
+ORD-2752,2024-06-15,Diya Patel,Kolkata,USB-C Hub,11,$292.00,20%,2
+ORD-2753,29/08/2024,Ananya Mehta,Bangalore,Wireless Mouse,2,₹4640,10%,3
+ORD-2754,2024-10-17,Vikram Reddy,MUMBAI,Noise-Cancelling Headphones,6,430.00,15%,1
+ORD-2755,2024-09-15, Rohan  Iyer,Bengaluru ,USB-C Hub,15,34.00,0.1,1
+ORD-2756,2024-10-23, Rohan  Reddy,DELHI,Mechanical Keyboard,3,456.00,0.05,4
+ORD-2757,2024-08-30,Vikram Mehta,Kolkata,Noise-Cancelling Headphones,15,906.00,15%,5
+ORD-2758,2024-09-19, Aarav Verma,Chennai,Monitor 4K,10,₹29680,20%,5
+ORD-2759,2024-08-06,Ananya Mehta,Mumbai,USB-C Hub,9,$491.00,5%,Excellent
+ORD-2760,2024-05-17, Rohan  Verma,New Delhi,Mechanical Keyboard,13,₹42560,20%,4
+ORD-2761,07-06-2024,Diya Patel,Bengaluru ,Laptop Pro,15,424.00,15%,2
+ORD-2762,2024-01-24,Priya  Reddy,DELHI,Laptop Pro,6,$62.00,0,5
+ORD-2763,2024-01-04,Vikram Mehta,Chennai,Laptop Pro,6,$460.00,0.15,5
+ORD-2764,02-28-2024, Rohan  Mehta,Bangalore,USB-C Hub,8,₹11520,20%,3
+ORD-2765,2024-05-01, Aarav Sharma,bengaluru,Noise-Cancelling Headphones,10,$258.00,0%,2
+ORD-2766,2024-10-06,Arjun Reddy,Bangalore,Mechanical Keyboard,14,$112.00,0.05,2
+ORD-2767,2024-03-26, Rohan  Mehta,delhi ,Mechanical Keyboard,13,911.00,10%,Excellent
+ORD-2768,2024-04-06,Pooja Verma,New Delhi,Webcam HD,N/A,108.00,5%,1
+ORD-2769,2024-02-09,Priya  Reddy,Delhi,Mechanical Keyboard,9,$556.00,15%,5
+ORD-2770,2024-11-08, Aarav Sharma,Delhi,Noise-Cancelling Headphones,5,107.00,20%,2
+ORD-2771,2024-08-14,Ananya Patel,delhi ,Webcam HD,3,$47.00,0.15,Excellent
+ORD-2772,30/09/2024,Vikram Reddy,Bengaluru ,Laptop Pro,1,846.00,15%,4
+ORD-2773,2024-05-19,Priya  Iyer,bengaluru,Monitor 4K,11,208.00,0,3
+ORD-2774,2024-05-06,Arjun Sharma,delhi ,Laptop Pro,5,711.00,0,3
+ORD-2775,2024-02-19, Aarav Patel,Mumbai,USB-C Hub,14,980.00,20%,2
+ORD-2776,2024-03-24,Pooja Iyer,DELHI,Laptop Pro,10,398.00,0.05,4
+ORD-2777,2024-04-20,Vikram Reddy,Delhi,Wireless Mouse,15,522.00,0.05,2
+ORD-2778,2024-10-26, Rohan  Reddy,mumbai,Wireless Mouse,9,"$1,157.00",0.1,2
+ORD-2779,2024-01-02,Vikram Iyer,MUMBAI,Wireless Mouse,2,561.00,5%,4
+ORD-2780,2024-09-27,Vikram Verma,Delhi,USB-C Hub,13,₹21200,20%,3
+ORD-2781,2024-05-15,Diya Sharma,delhi ,Noise-Cancelling Headphones,3,₹51120,0.05,4
+ORD-2782,2024-05-08,Diya Patel,Bangalore,Wireless Mouse,6,464.00,0%,0
+ORD-2783,2024-05-13,Vikram Patel,Mumbai,Mechanical Keyboard,11,505.00,0,1
+ORD-2784,2024-03-12,Vikram Iyer,Bangalore,Monitor 4K,7,369.00,0%,5
+ORD-2785,2024-07-12,Arjun Patel,Mumbai,Monitor 4K,13,155.00,10%,Excellent
+ORD-2786,2024-08-12,Priya  Verma,mumbai,Laptop Pro,2,₹70000,20%,5
+ORD-2787,2024-04-26,Priya  Mehta,delhi ,USB-C Hub,5,313.00,0.1,1
+ORD-2788,2024-02-13, Rohan  Mehta,unknown,Wireless Mouse,12,1117.00,0.1,5
+ORD-2789,2024-08-21,Ananya Reddy,Bangalore,Noise-Cancelling Headphones,10,495.00,0%,0
+ORD-2790,2024-01-21, Aarav Verma,delhi ,USB-C Hub,none,495.00,0.15,4
+ORD-2791,2024-08-05, Aarav Sharma,Kolkata,Mechanical Keyboard,15,"$1,020.00",0.15,2
+ORD-2792,2024-06-08,Pooja Verma,N/A,Webcam HD,1,1052.00,15%,2
+ORD-2793,2024-10-29,Pooja Iyer,Kolkata,USB-C Hub,15,482.00,10%,1
+ORD-2794,2024-10-09, Rohan  Mehta,Delhi,Laptop Pro,13,372.00,5%,4
+ORD-2795,2024-04-17,Vikram Sharma,Bengaluru ,Monitor 4K,4,"$1,083.00",15%,2
+ORD-2796,2024-10-15,Vikram Reddy,bengaluru,USB-C Hub,11,"$1,012.00",0,4
+ORD-2797,2024-05-18, Rohan  Iyer,New Delhi,USB-C Hub,9,"$1,045.00",0.05,5
+ORD-2798,2024-12-03,Ananya Sharma,Bengaluru ,Laptop Pro,13,812.00,10%,3
+ORD-2799,2024-05-07, Rohan  Iyer,Kolkata,Laptop Pro,2,$480.00,0.15,2
+ORD-2800,2024-07-30,Diya Mehta,MUMBAI,USB-C Hub,5,₹60480,0%,3
+ORD-2801,2024-02-25,Ananya Patel,mumbai,Wireless Mouse,10,302.00,0.1,3
+ORD-2802,06-21-2024,Diya Iyer,?,USB-C Hub,N/A,890.00,5%,5
+ORD-2803,2024-02-24,Arjun Mehta,New Delhi,Noise-Cancelling Headphones,8,$953.00,0%,2
+ORD-2804,2024-03-21,Diya Mehta,New Delhi,Mechanical Keyboard,6,1143.00,0.1,5
+ORD-2805,11-04-2024,Vikram Reddy,mumbai,Monitor 4K,12,₹47200,0,2
+ORD-2806,2024-01-16,Priya  Reddy,Chennai,Monitor 4K,6,NA,10%,1
+ORD-2807,07-11-2024, Aarav Iyer,Kolkata,Webcam HD,13,728.00,0,4
+ORD-2808,2024-11-21,Diya Reddy,New Delhi,Laptop Pro,5,$50.00,0.15,3
+ORD-2809,2024-06-25, Aarav Reddy,New Delhi,Webcam HD,7,1028.00,10%,5
+ORD-2810,2024-08-27,Arjun Patel,delhi ,Webcam HD,10,642.00,0.1,0
+ORD-2811,2024-06-09, Rohan  Patel,New Delhi,Monitor 4K,3,$294.00,5%,5
+ORD-2812,2024-11-24,Arjun Iyer,Mumbai,Monitor 4K,7,1020.00,5%,2
+ORD-2813,2024-09-10,Diya Verma,DELHI,Wireless Mouse,12,$185.00,15%,1
+ORD-2814,2024-04-14, Rohan  Verma,MUMBAI,Wireless Mouse,1,₹87840,5%,3
+ORD-2815,2024-11-24, Aarav Verma,Mumbai,Wireless Mouse,13,"$85,000.00",5%,2
+ORD-2816,2024-06-06, Rohan  Sharma,MUMBAI,Wireless Mouse,11,$494.00,15%,5
+ORD-2817,2024-12-10,Diya Reddy,DELHI,Noise-Cancelling Headphones,15,156.00,0.15,2
+ORD-2818,2024-07-16,Ananya Verma,Bangalore,Wireless Mouse,3,873.00,0.1,1
+ORD-2819,2024-01-16,Pooja Reddy,New Delhi,Noise-Cancelling Headphones,3,538.00,5%,3
+ORD-2820,2024-01-28,Diya Mehta,delhi ,Wireless Mouse,6,$335.00,0.05,5
+ORD-2821,31/02/2024,Pooja Reddy,mumbai,Laptop Pro,8,₹69760,0.05,5
+ORD-2822,2024-03-09,Vikram Mehta,Kolkata,USB-C Hub,10,73.00,0.1,3
+ORD-2823,2024-08-22,Diya Iyer,Chennai,Wireless Mouse,7,,0.05,4
+ORD-2824,2024-03-13, Rohan  Iyer,mumbai,Webcam HD,13,$56.00,0.1,1
+ORD-2825,12-09-2024,Ananya Mehta,bengaluru,Laptop Pro,1,$311.00,20%,1
+ORD-2826,2024-11-12, Aarav Reddy,DELHI,Laptop Pro,5,537.00,10%,1
+ORD-2827,2024-09-08, Aarav Mehta,Bangalore,Mechanical Keyboard,14,947.00,0.15,3
+ORD-2828,05-03-2024,Arjun Reddy,bengaluru,Mechanical Keyboard,3,701.00,0,4
+ORD-2829,17/12/2024, Aarav Sharma,Delhi,USB-C Hub,NA,626.00,0,Excellent
+ORD-2830,2024-01-18, Aarav Mehta,Bangalore,Webcam HD,12,₹83280,0.1,1
+ORD-2831,10-21-2024,Diya Sharma,delhi ,Wireless Mouse,3,1134.00,10%,1
+ORD-2832,2024-11-03,Ananya Verma,Bengaluru ,USB-C Hub,10,943.00,0.15,4
+ORD-2833,07-18-2024,Ananya Mehta,DELHI,Webcam HD,6,₹13600,15%,5
+ORD-2834,2024-05-26, Aarav Verma,bengaluru,Wireless Mouse,13,1189.00,0%,5
+ORD-2835,2024-08-29,Priya  Reddy,delhi ,Wireless Mouse,2,987.00,0.05,5
+ORD-2836,01-18-2024, Aarav Verma,Bangalore,USB-C Hub,6,"$1,056.00",0,4
+ORD-2837,2024-10-31,Vikram Iyer,DELHI,Mechanical Keyboard,8,156.00,15%,3
+ORD-2838,2024-07-01, Aarav Iyer,Mumbai,Noise-Cancelling Headphones,9,324.00,0,1
+ORD-2839,2024-02-27,Pooja Sharma,bengaluru,Webcam HD,7,$612.00,20%,5
+ORD-2840,2024-10-05,Vikram Iyer,New Delhi,USB-C Hub,3,"$1,018.00",0.05,2
+ORD-2841,2024-10-03, Rohan  Reddy,DELHI,USB-C Hub,6,182.00,0.1,2
+ORD-2842,2024-12-12,Vikram Reddy,Kolkata,Monitor 4K,3,1072.00,0,2
+ORD-2843,2024-04-17, Rohan  Verma,Bangalore,Webcam HD,9,221.00,0.05,1
+ORD-2844,2024-12-25, Rohan  Patel,MUMBAI,Wireless Mouse,5,₹17520,0%,2
+ORD-2845,2024-01-27,Arjun Patel,DELHI,Monitor 4K,6,unknown,0.15,5
+ORD-2846,2024-11-30,Arjun Sharma,Delhi,Monitor 4K,7,₹89840,0%,5
+ORD-2847,2024-10-22, Aarav Mehta,Kolkata,Noise-Cancelling Headphones,15,$462.00,15%,4
+ORD-2848,03-18-2024,Diya Iyer,Chennai,Mechanical Keyboard,14,$606.00,5%,2
+ORD-2849,14/12/2024,Vikram Patel,Delhi,Noise-Cancelling Headphones,7,506.00,0.1,3
+ORD-2850,2024-08-20,Arjun Iyer,Bengaluru ,USB-C Hub,11,$28.00,0,1
+ORD-2851,2024-04-03,Arjun Verma,Kolkata,Laptop Pro,6,$433.00,15%,1
+ORD-2852,2024-10-06,Vikram Iyer,DELHI,Laptop Pro,3,₹46800,0%,4
+ORD-2853,2024-11-24,Diya Patel,mumbai,Laptop Pro,1,733.00,0,2
+ORD-2854,2024-09-12, Aarav Verma,Mumbai,Noise-Cancelling Headphones,15,₹92480,5%,5
+ORD-2855,2024-01-25, Aarav Reddy,Bangalore,Webcam HD,-2,879.00,20%,2
+ORD-2856,2024-02-02,Ananya Mehta,Chennai,Webcam HD,13,369.00,5%,3
+ORD-2857,2024-09-03,Arjun Iyer,Mumbai,Wireless Mouse,6,"$1,099.00",5%,5
+ORD-2858,03-06-2024,Pooja Sharma,Delhi,USB-C Hub,5,₹85680,0%,4
+ORD-2859,2024-01-31,Vikram Patel,Chennai,Wireless Mouse,8,₹22400,0.15,5
+ORD-2860,2024-06-17,Priya  Patel,Mumbai,Monitor 4K,1,931.00,0%,0
+ORD-2861,2024-04-08,Pooja Sharma,DELHI,Webcam HD,11,"$85,000.00",0.1,5
+ORD-2862,2024-09-04, Rohan  Patel,bengaluru,USB-C Hub,4,227.00,15%,2
+ORD-2863,2024-07-16,Arjun Sharma,New Delhi,Webcam HD,-5,757.00,20%,3
+ORD-2864,2024-10-13,Priya  Reddy,delhi ,Laptop Pro,8,₹51840,15%,5
+ORD-2865,2024-08-22,Vikram Sharma,mumbai,Monitor 4K,10,813.00,0,4
+ORD-2866,2024-01-27,Diya Iyer,Kolkata,Mechanical Keyboard,10,594.00,0,4
+ORD-2867,2024-12-12,Pooja Reddy,mumbai,Monitor 4K,4,$656.00,0%,4
+ORD-2868,2024-03-15,Pooja Iyer,delhi ,Monitor 4K,10,265.00,15%,5
+ORD-2869,2024-01-14,Arjun Verma,bengaluru,Webcam HD,8,$489.00,15%,5
+ORD-2870,2024-01-12,Priya  Patel,Mumbai,Monitor 4K,5,₹6800000,15%,1
+ORD-2871,06-08-2024,Vikram Verma,Bengaluru ,Mechanical Keyboard,12,355.00,20%,3
+ORD-2872,2024-12-30,Pooja Patel,mumbai,Laptop Pro,10,1008.00,0.15,5
+ORD-2873,2024-10-13, Aarav Reddy,Kolkata,Mechanical Keyboard,14,685.00,0.05,1
+ORD-2874,2024-12-31,Vikram Sharma,New Delhi,Noise-Cancelling Headphones,,$348.00,0.15,4
+ORD-2875,31/02/2024,Arjun Patel,DELHI,Mechanical Keyboard,12,984.00,0,2
+ORD-2876,2024-12-18,Pooja Patel,Chennai,Mechanical Keyboard,14,$368.00,0.1,2
+ORD-2877,2024-09-18, Aarav Reddy,MUMBAI,Laptop Pro,8,1074.00,5%,3
+ORD-2878,2024-07-20,Pooja Patel,Bangalore,Wireless Mouse,13,138.00,0%,2
+ORD-2879,2024-12-20,Ananya Mehta,Chennai,Wireless Mouse,7,175.00,5%,2
+ORD-2880,2024-07-12,Priya  Sharma,Kolkata,Monitor 4K,14,$787.00,0,3
+ORD-2881,2024-07-05,Arjun Iyer,?,Monitor 4K,5,214.00,5%,5
+ORD-2882,2024-07-23,Vikram Mehta,mumbai,Noise-Cancelling Headphones,8,₹75120,5%,2
+ORD-2883,2024-05-16,Vikram Iyer,Delhi,Noise-Cancelling Headphones,7,₹28080,0.05,4
+ORD-2884,2024-03-18,Priya  Sharma,Bangalore,Laptop Pro,1,$244.00,0.1,1
+ORD-2885,2024-05-06,Ananya Sharma,Kolkata,Noise-Cancelling Headphones,13,303.00,20%,1
+ORD-2886,10-30-2024,Diya Iyer,bengaluru,Laptop Pro,4,₹37440,0.05,4
+ORD-2887,2024-06-23,Arjun Sharma,Bengaluru ,Monitor 4K,2,508.00,10%,1
+ORD-2888,2024-08-08,Vikram Mehta,delhi ,Wireless Mouse,6,₹94720,0.1,3
+ORD-2889,31/02/2024,Diya Reddy,Delhi,Wireless Mouse,5,911.00,0.05,5
+ORD-2890,2024-01-12,Pooja Verma,New Delhi,Monitor 4K,5,₹18400,0,2
+ORD-2891,2024-08-29,Pooja Reddy,bengaluru,Mechanical Keyboard,3,871.00,0,1
+ORD-2892,2024-12-18,Diya Mehta,Delhi,Monitor 4K,14,596.00,20%,4
+ORD-2893,2024-04-10,Vikram Sharma,Bangalore,Mechanical Keyboard,7,₹90240,0.1,5
+ORD-2894,2024-06-22,Priya  Sharma,Delhi,Wireless Mouse,14,unknown,0.1,2
+ORD-2895,2024-01-10,Ananya Mehta,Bangalore,Wireless Mouse,5,$220.00,0,2
+ORD-2896,2024-09-27, Aarav Iyer,Bengaluru ,Noise-Cancelling Headphones,11,1021.00,20%,1
+ORD-2897,2024-04-27,Ananya Iyer,MUMBAI,Laptop Pro,8,985.00,5%,3
+ORD-2898,2024-11-11,Diya Iyer,Bangalore,Mechanical Keyboard,5,$766.00,0%,3
+ORD-2899,2024-05-24, Aarav Iyer,New Delhi,Monitor 4K,12,₹89520,0.05,3
+ORD-2900,2024-07-07, Aarav Verma,Delhi,Mechanical Keyboard,14,₹42000,15%,3
+ORD-2901,2024-12-30,Arjun Iyer,Chennai,Mechanical Keyboard,13,164.00,10%,5
+ORD-2902,2024-11-22,Vikram Reddy,delhi ,Noise-Cancelling Headphones,3,₹39600,5%,4
+ORD-2903,2024-09-15, Rohan  Sharma,Bengaluru ,Monitor 4K,10,200.00,0%,1
+ORD-2904,2024-02-19, Aarav Mehta,Bengaluru ,Laptop Pro,6,"$1,025.00",0,1
+ORD-2905,2024-01-01,Pooja Iyer,DELHI,USB-C Hub,14,625.00,0%,5
+ORD-2906,2024-06-25,Arjun Reddy,delhi ,Wireless Mouse,5,$446.00,5%,4
+ORD-2907,2024-05-08,Vikram Sharma,mumbai,Monitor 4K,4,85000.00,0,2
+ORD-2908,2024-07-30,Diya Reddy,none,Mechanical Keyboard,7,"$1,043.00",0.1,3
+ORD-2909,2024-07-18,Arjun Reddy,Delhi,Wireless Mouse,7,1198.00,0,4
+ORD-2910,2024-01-29,Arjun Sharma,Mumbai,Webcam HD,12,$875.00,15%,5
+ORD-2911,2024-12-09,Arjun Verma,Bangalore,USB-C Hub,4,103.00,5%,4
+ORD-2912,2024-12-30,Pooja Verma,MUMBAI,USB-C Hub,14,₹11040,0.05,4
+ORD-2913,2024-11-05,Vikram Mehta,DELHI,Webcam HD,12,1139.00,5%,1
+ORD-2914,2024-12-21,Diya Verma,delhi ,USB-C Hub,14,₹6800000,10%,5
+ORD-2915,03/08/2024,Diya Mehta,MUMBAI,Webcam HD,2,$761.00,20%,3
+ORD-2916,2024-06-29, Aarav Reddy,mumbai,USB-C Hub,4,779.00,0.05,2
+ORD-2917,2024-11-07, Rohan  Reddy,Bangalore,Monitor 4K,12,422.00,10%,4
+ORD-2918,12-12-2024, Aarav Mehta,bengaluru,Wireless Mouse,-1,"$1,152.00",0.1,3
+ORD-2919,2024-01-14,Priya  Reddy,,Laptop Pro,?,"$1,021.00",0.15,5
+ORD-2920,2024-07-11,Priya  Mehta,mumbai,Wireless Mouse,14,₹74720,0.05,4
+ORD-2921,2024-09-14,Vikram Sharma,Bangalore,USB-C Hub,8,₹42080,15%,3
+ORD-2922,2024-01-14,Pooja Mehta,Bengaluru ,Laptop Pro,8,948.00,0.15,4
+ORD-2923,2024-04-28,Vikram Patel,bengaluru,USB-C Hub,9,₹58720,0,5
+ORD-2924,2024-08-10,Priya  Reddy,Bangalore,Mechanical Keyboard,11,$348.00,0,1
+ORD-2925,2024-10-07, Aarav Sharma,Bengaluru ,Webcam HD,4,$284.00,0%,0
+ORD-2926,2024-08-12, Rohan  Verma,NA,Monitor 4K,3,619.00,0.15,1
+ORD-2927,2024-06-21,Diya Mehta,mumbai,Monitor 4K,15,1134.00,15%,0
+ORD-2928,2024-11-18,Ananya Reddy,Chennai,Webcam HD,14,₹71600,20%,5
+ORD-2929,2024-09-12, Aarav Iyer,,Noise-Cancelling Headphones,6,119.00,5%,5
+ORD-2930,2024-12-19,Priya  Reddy,mumbai,USB-C Hub,-5,₹51840,10%,4
+ORD-2931,2024-10-10, Aarav Patel,Bangalore,Noise-Cancelling Headphones,9,₹6800000,0.05,5
+ORD-2932,2024-08-11, Rohan  Mehta,unknown,Noise-Cancelling Headphones,2,₹33040,0,2
+ORD-2933,2024-04-03, Aarav Reddy,Bengaluru ,Webcam HD,5,1199.00,5%,5
+ORD-2934,2024-01-18,Arjun Sharma,MUMBAI,Webcam HD,2,892.00,0.1,3
+ORD-2935,2024-10-15, Rohan  Patel,mumbai,USB-C Hub,-4,₹80800,0,5
+ORD-2936,2024-01-14, Aarav Verma,DELHI,Wireless Mouse,13,$761.00,0%,3
+ORD-2937,2024-08-27,Pooja Iyer,MUMBAI,Mechanical Keyboard,NA,$901.00,0,2
+ORD-2938,2024-12-26, Aarav Iyer,Mumbai,USB-C Hub,11,1159.00,0.1,3
+ORD-2939,2024-08-11, Rohan  Verma,bengaluru,Laptop Pro,11,$831.00,0,5
+ORD-2940,05/09/2024,Arjun Reddy,New Delhi,USB-C Hub,5,401.00,0,1
+ORD-2941,2024-05-13,Diya Patel,Mumbai,Noise-Cancelling Headphones,9,1138.00,0,Excellent
+ORD-2942,2024-08-12, Aarav Verma,Bangalore,Webcam HD,NA,₹67200,0.05,4
+ORD-2943,10-08-2024,Diya Verma,mumbai,USB-C Hub,3,₹62560,5%,4
+ORD-2944,2024-10-26,Ananya Iyer,Mumbai,Mechanical Keyboard,1,1180.00,15%,4
+ORD-2945,2024-01-19,Diya Patel,Mumbai,Webcam HD,2,$879.00,0.05,3
+ORD-2946,2024-11-02,Vikram Mehta,mumbai,USB-C Hub,10,259.00,5%,2
+ORD-2947,2024-10-07,Diya Patel,Chennai,Wireless Mouse,8,"$85,000.00",5%,3
+ORD-2948,2024-08-10,Vikram Sharma,mumbai,USB-C Hub,3,$906.00,0.1,1
+ORD-2949,2024-05-19, Rohan  Iyer,Bangalore,USB-C Hub,?,1133.00,0%,Excellent
+ORD-2950,2024-03-18,Arjun Verma,Kolkata,Monitor 4K,2,₹42640,15%,4
+ORD-2951,2024-11-10,Vikram Patel,Kolkata,Webcam HD,8,$962.00,15%,1
+ORD-2952,2024-06-26,Priya  Iyer,MUMBAI,Mechanical Keyboard,10,34.00,15%,1
+ORD-2953,2024-03-04,Ananya Sharma,Bangalore,Monitor 4K,null,₹51520,0,1
+ORD-2954,31/02/2024,Pooja Verma,DELHI,Monitor 4K,10,479.00,0,2
+ORD-2955,2024-07-03,Vikram Reddy,delhi ,Laptop Pro,1,1049.00,0.1,2
+ORD-2956,2024-09-10,Ananya Patel,mumbai,Laptop Pro,12,₹25920,10%,1
+ORD-2957,2024-01-17, Rohan  Reddy,Bangalore,Noise-Cancelling Headphones,N/A,1097.00,20%,3
+ORD-2958,04-19-2024,Vikram Verma,Kolkata,Wireless Mouse,4,989.00,0.05,1
+ORD-2959,2024-01-14,Pooja Iyer,DELHI,Mechanical Keyboard,11,388.00,0.05,5
+ORD-2960,2024-02-02,Pooja Patel,DELHI,Wireless Mouse,3,$301.00,0.1,2
+ORD-2961,2024-09-07, Rohan  Iyer,bengaluru,Mechanical Keyboard,5,955.00,20%,2
+ORD-2962,2024-09-24,Priya  Iyer,mumbai,Noise-Cancelling Headphones,-,"$1,139.00",5%,5
+ORD-2963,2024-02-29,Pooja Iyer,New Delhi,Webcam HD,9,$29.00,0%,1
+ORD-2964,06-08-2024,Ananya Sharma,New Delhi,Wireless Mouse,-4,365.00,0.15,2
+ORD-2965,2024-04-26,Priya  Iyer,DELHI,Wireless Mouse,2,$944.00,0.1,1
+ORD-2966,2024-01-15,Pooja Sharma,-,Mechanical Keyboard,4,$758.00,0%,3
+ORD-2967,05-02-2024, Rohan  Verma,bengaluru,Webcam HD,2,₹10880,10%,4
+ORD-2968,23/10/2024,Diya Patel,Bangalore,USB-C Hub,8,1035.00,0,5
+ORD-2969,2024-07-24,Vikram Patel,delhi ,USB-C Hub,2,$553.00,5%,4
+ORD-2970,2024-08-15, Aarav Mehta,Mumbai,Laptop Pro,11,864.00,0%,1
+ORD-2971,2024-03-03, Rohan  Reddy,delhi ,Mechanical Keyboard,NA,$447.00,0,1
+ORD-2972,2024-08-20,Pooja Patel,MUMBAI,USB-C Hub,1,87.00,0.15,1
+ORD-2973,2024-10-10,Vikram Iyer,Mumbai,Wireless Mouse,5,167.00,0.05,3
+ORD-2974,2024-03-05,Pooja Sharma,Mumbai,Wireless Mouse,7,1071.00,15%,2
+ORD-2975,07-19-2024,Pooja Sharma,Mumbai,Mechanical Keyboard,15,503.00,5%,3
+ORD-2976,2024-08-31,Priya  Mehta,Kolkata,USB-C Hub,13,$520.00,0.1,4
+ORD-2977,08-19-2024,Priya  Verma,bengaluru,Wireless Mouse,12,685.00,0.15,3
+ORD-2978,2024-05-07,Pooja Sharma,bengaluru,Webcam HD,6,519.00,0.15,0
+ORD-2979,2024-01-10, Aarav Mehta,bengaluru,Monitor 4K,1,-,0.1,2
+ORD-2980,2024-08-16,Pooja Patel,New Delhi,Noise-Cancelling Headphones,15,₹30160,15%,4
+ORD-2981,2024-09-19,Priya  Mehta,Chennai,Noise-Cancelling Headphones,13,437.00,5%,5
+ORD-2982,04-17-2024, Rohan  Iyer,Bangalore,Mechanical Keyboard,-2,₹87040,10%,3
+ORD-2983,2024-03-30, Aarav Mehta,Kolkata,Mechanical Keyboard,5,393.00,15%,5
+ORD-2984,2024-05-13,Ananya Iyer,Bengaluru ,USB-C Hub,14,699.00,0.1,0
+ORD-2985,2024-07-02,Diya Reddy,Chennai,Monitor 4K,13,₹31840,5%,1
+ORD-2986,2024-02-13,Vikram Reddy,New Delhi,Noise-Cancelling Headphones,8,₹55760,0.1,5
+ORD-2987,2024-12-30,Priya  Sharma,DELHI,Wireless Mouse,1,1167.00,20%,5
+ORD-2988,02-23-2024, Rohan  Verma,mumbai,Monitor 4K,4,₹80560,0.05,1
+ORD-2989,2024-08-16,Priya  Iyer,bengaluru,USB-C Hub,9,529.00,5%,1
+ORD-2990,2024-08-16, Rohan  Verma,mumbai,USB-C Hub,8,56.00,0,1
+ORD-2991,2024-12-07,Pooja Mehta,mumbai,Laptop Pro,15,1120.00,10%,4
+ORD-2992,2024-08-06,Arjun Verma,New Delhi,Wireless Mouse,1,805.00,0,1
+ORD-2993,2024-08-08, Aarav Verma,mumbai,Noise-Cancelling Headphones,8,$445.00,5%,4
+ORD-2994,2024-09-05,Priya  Verma,bengaluru,Monitor 4K,1,$612.00,10%,3
+ORD-2995,2024-03-06,Ananya Reddy,mumbai,Webcam HD,7,697.00,0.05,5
+ORD-2996,2024-01-13,Diya Mehta,Delhi,Monitor 4K,11,71.00,0.1,4
+ORD-2997,2024-05-22,Pooja Patel,Chennai,Noise-Cancelling Headphones,14,$940.00,0.1,3
+ORD-2998,2024-12-19, Aarav Sharma,Bengaluru ,Webcam HD,7,₹83600,0%,1
+ORD-2999,2024-06-27, Aarav Sharma,Bengaluru ,Laptop Pro,5,$912.00,15%,1
+ORD-3000,2024-05-10, Rohan  Patel,New Delhi,USB-C Hub,8,$743.00,0%,4
+ORD-1395,28/09/2024,Pooja Sharma,mumbai,Noise-Cancelling Headphones,2,374.00,0%,5
+ORD-1632,2024-05-03,Arjun Verma,delhi ,Webcam HD,7,587.00,0.05,1
+ORD-2592,2024-03-21,Pooja Iyer,DELHI,USB-C Hub,7,1069.00,10%,2
+ORD-1173,2024-12-06, Rohan  Mehta,delhi ,Webcam HD,8,285.00,10%,5
+ORD-2875,2024-06-02, Rohan  Iyer,Delhi,Monitor 4K,14,1139.00,0%,5
+ORD-2319,2024-09-01, Rohan  Patel,Bangalore,Mechanical Keyboard,8,$446.00,15%,5
+ORD-1260,2024-10-02,Vikram Verma,MUMBAI,Noise-Cancelling Headphones,12,₹15360,15%,5
+ORD-1892,31/02/2024,Arjun Reddy,MUMBAI,Webcam HD,2,78.00,0.15,3
+ORD-1986,2024-02-26,Vikram Sharma,Delhi,Wireless Mouse,12,₹4960,0.1,5
+ORD-1939,2024-06-14,Arjun Verma,Mumbai,Noise-Cancelling Headphones,12,714.00,0,3
+ORD-2452,19/06/2024, Rohan  Reddy,mumbai,Wireless Mouse,3,988.00,0.15,5
+ORD-1124,2024-10-11,Priya  Reddy,Kolkata,Mechanical Keyboard,7,₹71360,20%,5
+ORD-2688,2024-05-26,Priya  Sharma,MUMBAI,Webcam HD,8,₹83200,0.15,1
+ORD-1396,2024-12-14,Priya  Mehta,DELHI,USB-C Hub,2,820.00,0,4
+ORD-2073,2024-02-02, Rohan  Patel,Bengaluru ,Laptop Pro,8,638.00,15%,1
+ORD-2378,2024-10-22, Rohan  Mehta,Chennai,Wireless Mouse,15,$563.00,10%,1
+ORD-2209,06-27-2024,Arjun Iyer,New Delhi,Webcam HD,12,146.00,0.1,5
+ORD-2694,2024-04-06,Vikram Iyer,Kolkata,Noise-Cancelling Headphones,3,1110.00,0,1
+ORD-2672,2024-04-01,Priya  Mehta,Bangalore,Monitor 4K,3,₹60560,0.05,3
+ORD-2416,2024-08-26,Arjun Reddy,Bangalore,Monitor 4K,15,1103.00,20%,3
+ORD-1786,2024-11-11,Pooja Reddy,DELHI,Monitor 4K,13,$805.00,10%,1
+ORD-1042,2024-05-15,Pooja Reddy,delhi ,Wireless Mouse,4,$533.00,10%,5
+ORD-1651,2024-01-16,Diya Verma,delhi ,Laptop Pro,9,$643.00,0.15,1
+ORD-1564,2024-10-17,Ananya Reddy,Delhi,Webcam HD,3,237.00,0,4
+ORD-1171,2024-01-03, Aarav Sharma,DELHI,Laptop Pro,10,348.00,20%,4
+ORD-1874,2024-07-25, Aarav Sharma,Mumbai,Wireless Mouse,14,591.00,0.05,1
+ORD-2890,2024-02-05,Priya  Reddy,Kolkata,Mechanical Keyboard,8,856.00,20%,3
+ORD-2726,2024-06-19,Arjun Sharma,DELHI,Wireless Mouse,13,141.00,0,3
+ORD-2513,2024-09-22,Priya  Iyer,bengaluru,Monitor 4K,1,NA,5%,4
+ORD-1823,2024-09-08,Arjun Reddy,Mumbai,USB-C Hub,5,596.00,0.1,0
+ORD-2737,2024-01-23, Rohan  Patel,Kolkata,Mechanical Keyboard,7,₹85520,5%,5
+ORD-2791,2024-01-03,Ananya Mehta,Delhi,Laptop Pro,5,$475.00,0%,4
+ORD-2400,2024-01-25, Aarav Sharma,Delhi,Laptop Pro,2,961.00,20%,5
+ORD-1582,2024-07-07, Rohan  Mehta,Bangalore,Mechanical Keyboard,8,$293.00,0%,1
+ORD-2301,2024-10-30, Aarav Mehta,Chennai,USB-C Hub,4,890.00,20%,1
+ORD-2656,2024-05-17,Arjun Verma,Bengaluru ,Noise-Cancelling Headphones,9,$84.00,0,1
+ORD-1305,2024-07-02,Pooja Mehta,Kolkata,Wireless Mouse,7,518.00,0,4
+ORD-1893,2024-12-27,Pooja Verma,mumbai,Monitor 4K,12,$419.00,5%,4
+ORD-2658,2024-02-01,Priya  Sharma,bengaluru,Laptop Pro,10,924.00,0.1,2
+ORD-2827,2024-03-01,Vikram Reddy,mumbai,Monitor 4K,4,,0.15,3
+ORD-1003,2024-12-28,Vikram Reddy,Delhi,Mechanical Keyboard,11,$526.00,0.05,3
+ORD-1119,2024-05-14, Aarav Sharma,DELHI,Webcam HD,2,"$85,000.00",0.1,3
+ORD-1612,2024-09-03,Ananya Verma,DELHI,Mechanical Keyboard,9,362.00,0.1,Excellent
+ORD-1150,2024-06-12,Pooja Sharma,Mumbai,Mechanical Keyboard,9,₹85520,0.1,1
+ORD-1180,19/09/2024,Vikram Iyer,Mumbai,Laptop Pro,15,$31.00,0.05,4
+ORD-1443,2024-03-19, Rohan  Iyer,bengaluru,Monitor 4K,8,$488.00,0%,5
+ORD-1752,2024-07-30,Ananya Reddy,delhi ,Wireless Mouse,5,₹16160,5%,2
+ORD-1876,2024-06-28, Aarav Mehta,mumbai,Noise-Cancelling Headphones,5,$788.00,5%,3
+ORD-2618,2024-11-30,Ananya Verma,Bangalore,Mechanical Keyboard,11,N/A,0.05,5

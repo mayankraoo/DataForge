@@ -1,0 +1,122 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-main: #F7F8FA;
+    --bg-surface: #FFFFFF;
+    --bg-surface-subtle: #F1F5F9;
+    --bg-surface-hover: #E2E8F0;
+    --border-color: #E2E8F0;
+    --border-hover: #CBD5E1;
+    --text-primary: #0F172A;
+    --text-secondary: #64748B;
+    --text-muted: #94A3B8;
+    --accent-primary: #4F46E5;
+    --accent-primary-hover: #4338CA;
+    --accent-glow: rgba(79, 70, 229, 0.15);
+    --status-success: #16A34A;
+    --status-warning: #D97706;
+    --status-danger: #DC2626;
+    --status-info: #0284C7;
+    --card-radius: 12px;
+    --font-heading: 'Inter', system-ui, sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+  }
+
+  [data-theme="stark"] {
+    --bg-main: #050B14;
+    --bg-surface: rgba(10, 20, 38, 0.75);
+    --bg-surface-subtle: rgba(15, 30, 58, 0.5);
+    --bg-surface-hover: rgba(0, 229, 255, 0.12);
+    --border-color: rgba(0, 229, 255, 0.22);
+    --border-hover: rgba(0, 229, 255, 0.55);
+    --text-primary: #E2F1FF;
+    --text-secondary: #7FA3C7;
+    --text-muted: #4B6E91;
+    --accent-primary: #00E5FF;
+    --accent-primary-hover: #33ECFF;
+    --accent-glow: 0 0 16px rgba(0, 229, 255, 0.45);
+    --status-success: #00E676;
+    --status-warning: #FFB300;
+    --status-danger: #FF3D57;
+    --status-info: #2979FF;
+    --card-radius: 6px;
+    --font-heading: 'Rajdhani', 'Orbitron', system-ui, sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+  }
+}
+
+body {
+  margin: 0;
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  transition: background-color 300ms ease, color 300ms ease;
+  overflow-x: hidden;
+}
+
+/* STARK Theme background grid and scanline animations */
+[data-theme="stark"] body {
+  background-color: #050B14;
+  background-image: 
+    linear-gradient(rgba(0, 229, 255, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 229, 255, 0.04) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+[data-theme="stark"] .hud-panel {
+  position: relative;
+  background: var(--bg-surface);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5), inset 0 0 12px rgba(0, 229, 255, 0.03);
+  clip-path: polygon(
+    0 8px, 8px 0, 
+    calc(100% - 8px) 0, 100% 8px, 
+    100% calc(100% - 8px), calc(100% - 8px) 100%, 
+    8px 100%, 0 calc(100% - 8px)
+  );
+}
+
+[data-theme="stark"] .hud-glow {
+  box-shadow: 0 0 14px rgba(0, 229, 255, 0.35);
+}
+
+/* HUD corner bracket markers */
+[data-theme="stark"] .hud-corner {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-color: #00E5FF;
+  pointer-events: none;
+}
+[data-theme="stark"] .hud-corner-tl { top: 0; left: 0; border-top: 2px solid #00E5FF; border-left: 2px solid #00E5FF; }
+[data-theme="stark"] .hud-corner-tr { top: 0; right: 0; border-top: 2px solid #00E5FF; border-right: 2px solid #00E5FF; }
+[data-theme="stark"] .hud-corner-bl { bottom: 0; left: 0; border-bottom: 2px solid #00E5FF; border-left: 2px solid #00E5FF; }
+[data-theme="stark"] .hud-corner-br { bottom: 0; right: 0; border-bottom: 2px solid #00E5FF; border-right: 2px solid #00E5FF; }
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-hover);
+  border-radius: 4px;
+}
+[data-theme="stark"] ::-webkit-scrollbar-thumb {
+  background: rgba(0, 229, 255, 0.3);
+}
+
+/* Pulse Arc Animation */
+@keyframes arc-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.animate-arc-spin {
+  animation: arc-spin 8s linear infinite;
+}
